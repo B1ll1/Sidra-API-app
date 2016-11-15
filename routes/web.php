@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('products.index');
 });
 
 Route::post('/importar',['as'=>'import', 'uses'=>'ImportController@Import']);
