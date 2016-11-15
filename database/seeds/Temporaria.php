@@ -11,6 +11,6 @@ class Temporaria extends Seeder
      */
     public function run()
     {
-        //
+
     }
 }

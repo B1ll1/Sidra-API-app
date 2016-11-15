@@ -11351,6 +11351,6 @@ class Permanente extends Seeder
             "MC": "1017",
             "MN": "Toneladas",
             "V": "1890"
-        }]
+        }];
             }
         }

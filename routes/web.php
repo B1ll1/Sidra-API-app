@@ -15,4 +15,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::post('/importar',['as'=>'import', 'uses'=>'ImportController@Import']);
 
+// Route::get('/',['as'=>'seed', 'uses'=>'SeedController@index']);
