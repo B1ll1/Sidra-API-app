@@ -17,4 +17,9 @@ Route::get('/', function () {
 
 Route::post('/importar',['as'=>'import', 'uses'=>'ImportController@Import']);
 
-// Route::get('/',['as'=>'seed', 'uses'=>'SeedController@index']);
+Route::group(['prefix' => 'producao', 'as' => 'product-region-type.'], function() {
+    Route::get('', ['as' => 'index', 'uses' => 'ProductRegionTypesController@index']);
+    Route::get('datatables', ['as' => 'indexDataTables', 'uses' => 'ProductRegionTypesController@indexDataTables']);
+    Route::get('cadastrar', ['as' => 'create', 'uses' => 'ProductRegionTypesController@create']);
+    Route::post('salvar', ['as' => 'store', 'uses' => 'ProductRegionTypesController@store']);
+});
