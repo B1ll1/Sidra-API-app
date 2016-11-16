@@ -1,0 +1,876 @@
+D1C,D1N,D2C,D2N,D3C,D3N,D4C,D4N,MC,MN,V
+2717,Abacate,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,384
+2717,Abacate,1,Norte,2011,2011,216,Área colhida,1006,Hectares,374
+2717,Abacate,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,2364
+2717,Abacate,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,6321
+2717,Abacate,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,2760
+2717,Abacate,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,989
+2717,Abacate,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,989
+2717,Abacate,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,9022
+2717,Abacate,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,9122
+2717,Abacate,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,4943
+2717,Abacate,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,7826
+2717,Abacate,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,7821
+2717,Abacate,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,123750
+2717,Abacate,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,15823
+2717,Abacate,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,58375
+2717,Abacate,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,1502
+2717,Abacate,4,Sul,2011,2011,216,Área colhida,1006,Hectares,1502
+2717,Abacate,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,24263
+2717,Abacate,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,16154
+2717,Abacate,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,18706
+2717,Abacate,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,67
+2717,Abacate,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,67
+2717,Abacate,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,977
+2717,Abacate,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,14582
+2717,Abacate,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,543
+2718,Algodão arbóreo (em caroço),1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2718,Algodão arbóreo (em caroço),1,Norte,2011,2011,216,Área colhida,1006,Hectares,-
+2718,Algodão arbóreo (em caroço),1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2718,Algodão arbóreo (em caroço),1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2718,Algodão arbóreo (em caroço),1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,-
+2718,Algodão arbóreo (em caroço),2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,351
+2718,Algodão arbóreo (em caroço),2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,351
+2718,Algodão arbóreo (em caroço),2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,250
+2718,Algodão arbóreo (em caroço),2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,712
+2718,Algodão arbóreo (em caroço),2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,278
+2718,Algodão arbóreo (em caroço),3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2718,Algodão arbóreo (em caroço),3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,-
+2718,Algodão arbóreo (em caroço),3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2718,Algodão arbóreo (em caroço),3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2718,Algodão arbóreo (em caroço),3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2718,Algodão arbóreo (em caroço),4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2718,Algodão arbóreo (em caroço),4,Sul,2011,2011,216,Área colhida,1006,Hectares,-
+2718,Algodão arbóreo (em caroço),4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2718,Algodão arbóreo (em caroço),4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2718,Algodão arbóreo (em caroço),4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,-
+2718,Algodão arbóreo (em caroço),5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2718,Algodão arbóreo (em caroço),5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,-
+2718,Algodão arbóreo (em caroço),5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2718,Algodão arbóreo (em caroço),5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2718,Algodão arbóreo (em caroço),5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2719,Azeitona,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2719,Azeitona,1,Norte,2011,2011,216,Área colhida,1006,Hectares,-
+2719,Azeitona,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2719,Azeitona,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2719,Azeitona,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,-
+2719,Azeitona,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2719,Azeitona,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,-
+2719,Azeitona,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2719,Azeitona,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2719,Azeitona,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2719,Azeitona,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2719,Azeitona,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,-
+2719,Azeitona,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2719,Azeitona,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2719,Azeitona,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2719,Azeitona,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,43
+2719,Azeitona,4,Sul,2011,2011,216,Área colhida,1006,Hectares,43
+2719,Azeitona,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,77
+2719,Azeitona,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,1791
+2719,Azeitona,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,139
+2719,Azeitona,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2719,Azeitona,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,-
+2719,Azeitona,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2719,Azeitona,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2719,Azeitona,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2720,Banana (cacho),1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,73901
+2720,Banana (cacho),1,Norte,2011,2011,216,Área colhida,1006,Hectares,71672
+2720,Banana (cacho),1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,850454
+2720,Banana (cacho),1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,11866
+2720,Banana (cacho),1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,480660
+2720,Banana (cacho),2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,212723
+2720,Banana (cacho),2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,212722
+2720,Banana (cacho),2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,2862505
+2720,Banana (cacho),2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,13457
+2720,Banana (cacho),2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,1519454
+2720,Banana (cacho),3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,144627
+2720,Banana (cacho),3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,144546
+2720,Banana (cacho),3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,2379436
+2720,Banana (cacho),3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,16461
+2720,Banana (cacho),3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,1736160
+2720,Banana (cacho),4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,53328
+2720,Banana (cacho),4,Sul,2011,2011,216,Área colhida,1006,Hectares,53328
+2720,Banana (cacho),4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,983533
+2720,Banana (cacho),4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,18443
+2720,Banana (cacho),4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,402200
+2720,Banana (cacho),5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,21086
+2720,Banana (cacho),5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,21086
+2720,Banana (cacho),5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,253543
+2720,Banana (cacho),5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,12024
+2720,Banana (cacho),5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,235795
+2721,Borracha (látex coagulado),1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,5420
+2721,Borracha (látex coagulado),1,Norte,2011,2011,216,Área colhida,1006,Hectares,4594
+2721,Borracha (látex coagulado),1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,5702
+2721,Borracha (látex coagulado),1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,1241
+2721,Borracha (látex coagulado),1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,12138
+2721,Borracha (látex coagulado),2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,35542
+2721,Borracha (látex coagulado),2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,35542
+2721,Borracha (látex coagulado),2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,52122
+2721,Borracha (látex coagulado),2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,1466
+2721,Borracha (látex coagulado),2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,126853
+2721,Borracha (látex coagulado),3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,66830
+2721,Borracha (látex coagulado),3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,66769
+2721,Borracha (látex coagulado),3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,177095
+2721,Borracha (látex coagulado),3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,2652
+2721,Borracha (látex coagulado),3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,569347
+2721,Borracha (látex coagulado),4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,687
+2721,Borracha (látex coagulado),4,Sul,2011,2011,216,Área colhida,1006,Hectares,687
+2721,Borracha (látex coagulado),4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,1342
+2721,Borracha (látex coagulado),4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,1953
+2721,Borracha (látex coagulado),4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,5547
+2721,Borracha (látex coagulado),5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,27356
+2721,Borracha (látex coagulado),5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,27355
+2721,Borracha (látex coagulado),5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,37902
+2721,Borracha (látex coagulado),5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,1386
+2721,Borracha (látex coagulado),5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,112678
+2722,Cacau (em amêndoa),1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,125610
+2722,Cacau (em amêndoa),1,Norte,2011,2011,216,Área colhida,1006,Hectares,123612
+2722,Cacau (em amêndoa),1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,83336
+2722,Cacau (em amêndoa),1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,674
+2722,Cacau (em amêndoa),1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,408955
+2722,Cacau (em amêndoa),2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,533315
+2722,Cacau (em amêndoa),2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,533315
+2722,Cacau (em amêndoa),2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,156289
+2722,Cacau (em amêndoa),2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,293
+2722,Cacau (em amêndoa),2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,823412
+2722,Cacau (em amêndoa),3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,22203
+2722,Cacau (em amêndoa),3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,22203
+2722,Cacau (em amêndoa),3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,8212
+2722,Cacau (em amêndoa),3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,370
+2722,Cacau (em amêndoa),3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,37090
+2722,Cacau (em amêndoa),4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2722,Cacau (em amêndoa),4,Sul,2011,2011,216,Área colhida,1006,Hectares,-
+2722,Cacau (em amêndoa),4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2722,Cacau (em amêndoa),4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2722,Cacau (em amêndoa),4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,-
+2722,Cacau (em amêndoa),5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,1354
+2722,Cacau (em amêndoa),5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,1354
+2722,Cacau (em amêndoa),5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,687
+2722,Cacau (em amêndoa),5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,507
+2722,Cacau (em amêndoa),5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,3353
+2723,Café (em grão) Total,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,167140
+2723,Café (em grão) Total,1,Norte,2011,2011,216,Área colhida,1006,Hectares,166916
+2723,Café (em grão) Total,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,102287
+2723,Café (em grão) Total,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,613
+2723,Café (em grão) Total,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,309404
+2723,Café (em grão) Total,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,166370
+2723,Café (em grão) Total,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,166370
+2723,Café (em grão) Total,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,157631
+2723,Café (em grão) Total,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,947
+2723,Café (em grão) Total,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,859936
+2723,Café (em grão) Total,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,1709801
+2723,Café (em grão) Total,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,1709794
+2723,Café (em grão) Total,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,2299504
+2723,Café (em grão) Total,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,1345
+2723,Café (em grão) Total,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,14175591
+2723,Café (em grão) Total,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,74854
+2723,Café (em grão) Total,4,Sul,2011,2011,216,Área colhida,1006,Hectares,74854
+2723,Café (em grão) Total,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,110728
+2723,Café (em grão) Total,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,1479
+2723,Café (em grão) Total,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,772999
+2723,Café (em grão) Total,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,30841
+2723,Café (em grão) Total,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,30841
+2723,Café (em grão) Total,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,30390
+2723,Café (em grão) Total,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,985
+2723,Café (em grão) Total,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,111030
+31619,Café (em grão) Arábica,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,...
+31619,Café (em grão) Arábica,1,Norte,2011,2011,216,Área colhida,1006,Hectares,...
+31619,Café (em grão) Arábica,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,...
+31619,Café (em grão) Arábica,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,...
+31619,Café (em grão) Arábica,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,...
+31619,Café (em grão) Arábica,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,...
+31619,Café (em grão) Arábica,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,...
+31619,Café (em grão) Arábica,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,...
+31619,Café (em grão) Arábica,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,...
+31619,Café (em grão) Arábica,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,...
+31619,Café (em grão) Arábica,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,...
+31619,Café (em grão) Arábica,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,...
+31619,Café (em grão) Arábica,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,...
+31619,Café (em grão) Arábica,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,...
+31619,Café (em grão) Arábica,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,...
+31619,Café (em grão) Arábica,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,...
+31619,Café (em grão) Arábica,4,Sul,2011,2011,216,Área colhida,1006,Hectares,...
+31619,Café (em grão) Arábica,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,...
+31619,Café (em grão) Arábica,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,...
+31619,Café (em grão) Arábica,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,...
+31619,Café (em grão) Arábica,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,...
+31619,Café (em grão) Arábica,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,...
+31619,Café (em grão) Arábica,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,...
+31619,Café (em grão) Arábica,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,...
+31619,Café (em grão) Arábica,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,...
+31620,Café (em grão) Canephora,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,...
+31620,Café (em grão) Canephora,1,Norte,2011,2011,216,Área colhida,1006,Hectares,...
+31620,Café (em grão) Canephora,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,...
+31620,Café (em grão) Canephora,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,...
+31620,Café (em grão) Canephora,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,...
+31620,Café (em grão) Canephora,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,...
+31620,Café (em grão) Canephora,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,...
+31620,Café (em grão) Canephora,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,...
+31620,Café (em grão) Canephora,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,...
+31620,Café (em grão) Canephora,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,...
+31620,Café (em grão) Canephora,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,...
+31620,Café (em grão) Canephora,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,...
+31620,Café (em grão) Canephora,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,...
+31620,Café (em grão) Canephora,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,...
+31620,Café (em grão) Canephora,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,...
+31620,Café (em grão) Canephora,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,...
+31620,Café (em grão) Canephora,4,Sul,2011,2011,216,Área colhida,1006,Hectares,...
+31620,Café (em grão) Canephora,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,...
+31620,Café (em grão) Canephora,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,...
+31620,Café (em grão) Canephora,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,...
+31620,Café (em grão) Canephora,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,...
+31620,Café (em grão) Canephora,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,...
+31620,Café (em grão) Canephora,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,...
+31620,Café (em grão) Canephora,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,...
+31620,Café (em grão) Canephora,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,...
+2724,Caqui,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2724,Caqui,1,Norte,2011,2011,216,Área colhida,1006,Hectares,-
+2724,Caqui,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2724,Caqui,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2724,Caqui,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,-
+2724,Caqui,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,7
+2724,Caqui,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,7
+2724,Caqui,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,119
+2724,Caqui,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,17000
+2724,Caqui,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,190
+2724,Caqui,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,4557
+2724,Caqui,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,4557
+2724,Caqui,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,100148
+2724,Caqui,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,21977
+2724,Caqui,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,112752
+2724,Caqui,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,3786
+2724,Caqui,4,Sul,2011,2011,216,Área colhida,1006,Hectares,3785
+2724,Caqui,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,54358
+2724,Caqui,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,14361
+2724,Caqui,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,53726
+2724,Caqui,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2724,Caqui,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,-
+2724,Caqui,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2724,Caqui,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2724,Caqui,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2725,Castanha de caju,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,3620
+2725,Castanha de caju,1,Norte,2011,2011,216,Área colhida,1006,Hectares,3620
+2725,Castanha de caju,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,3318
+2725,Castanha de caju,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,917
+2725,Castanha de caju,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,3286
+2725,Castanha de caju,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,760140
+2725,Castanha de caju,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,760137
+2725,Castanha de caju,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,227191
+2725,Castanha de caju,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,299
+2725,Castanha de caju,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,272269
+2725,Castanha de caju,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2725,Castanha de caju,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,-
+2725,Castanha de caju,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2725,Castanha de caju,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2725,Castanha de caju,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2725,Castanha de caju,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2725,Castanha de caju,4,Sul,2011,2011,216,Área colhida,1006,Hectares,-
+2725,Castanha de caju,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2725,Castanha de caju,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2725,Castanha de caju,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,-
+2725,Castanha de caju,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,715
+2725,Castanha de caju,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,715
+2725,Castanha de caju,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,276
+2725,Castanha de caju,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,386
+2725,Castanha de caju,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,412
+2726,Chá-da-índia (folha verde),1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2726,Chá-da-índia (folha verde),1,Norte,2011,2011,216,Área colhida,1006,Hectares,-
+2726,Chá-da-índia (folha verde),1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2726,Chá-da-índia (folha verde),1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2726,Chá-da-índia (folha verde),1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,-
+2726,Chá-da-índia (folha verde),2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2726,Chá-da-índia (folha verde),2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,-
+2726,Chá-da-índia (folha verde),2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2726,Chá-da-índia (folha verde),2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2726,Chá-da-índia (folha verde),2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2726,Chá-da-índia (folha verde),3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,2200
+2726,Chá-da-índia (folha verde),3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,2200
+2726,Chá-da-índia (folha verde),3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,14200
+2726,Chá-da-índia (folha verde),3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,6455
+2726,Chá-da-índia (folha verde),3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,15702
+2726,Chá-da-índia (folha verde),4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,91
+2726,Chá-da-índia (folha verde),4,Sul,2011,2011,216,Área colhida,1006,Hectares,91
+2726,Chá-da-índia (folha verde),4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,940
+2726,Chá-da-índia (folha verde),4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,10330
+2726,Chá-da-índia (folha verde),4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,1076
+2726,Chá-da-índia (folha verde),5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2726,Chá-da-índia (folha verde),5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,-
+2726,Chá-da-índia (folha verde),5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2726,Chá-da-índia (folha verde),5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2726,Chá-da-índia (folha verde),5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2727,Coco-da-baía,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,27955
+2727,Coco-da-baía,1,Norte,2011,2011,216,Área colhida,1006,Hectares,26887
+2727,Coco-da-baía,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,252436
+2727,Coco-da-baía,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,9389
+2727,Coco-da-baía,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,103171
+2727,Coco-da-baía,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,219472
+2727,Coco-da-baía,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,219471
+2727,Coco-da-baía,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,1373598
+2727,Coco-da-baía,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,6259
+2727,Coco-da-baía,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,604017
+2727,Coco-da-baía,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,21209
+2727,Coco-da-baía,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,21200
+2727,Coco-da-baía,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,298014
+2727,Coco-da-baía,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,14057
+2727,Coco-da-baía,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,165524
+2727,Coco-da-baía,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,196
+2727,Coco-da-baía,4,Sul,2011,2011,216,Área colhida,1006,Hectares,196
+2727,Coco-da-baía,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,2140
+2727,Coco-da-baía,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,10918
+2727,Coco-da-baía,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,1685
+2727,Coco-da-baía,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,2801
+2727,Coco-da-baía,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,2787
+2727,Coco-da-baía,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,36246
+2727,Coco-da-baía,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,13005
+2727,Coco-da-baía,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,24936
+2728,Dendê (cacho de coco),1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,54418
+2728,Dendê (cacho de coco),1,Norte,2011,2011,216,Área colhida,1006,Hectares,54418
+2728,Dendê (cacho de coco),1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,1085408
+2728,Dendê (cacho de coco),1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,19946
+2728,Dendê (cacho de coco),1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,263589
+2728,Dendê (cacho de coco),2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,54662
+2728,Dendê (cacho de coco),2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,54662
+2728,Dendê (cacho de coco),2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,215784
+2728,Dendê (cacho de coco),2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,3948
+2728,Dendê (cacho de coco),2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,49323
+2728,Dendê (cacho de coco),3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2728,Dendê (cacho de coco),3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,-
+2728,Dendê (cacho de coco),3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2728,Dendê (cacho de coco),3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2728,Dendê (cacho de coco),3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2728,Dendê (cacho de coco),4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2728,Dendê (cacho de coco),4,Sul,2011,2011,216,Área colhida,1006,Hectares,-
+2728,Dendê (cacho de coco),4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2728,Dendê (cacho de coco),4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2728,Dendê (cacho de coco),4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,-
+2728,Dendê (cacho de coco),5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2728,Dendê (cacho de coco),5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,-
+2728,Dendê (cacho de coco),5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2728,Dendê (cacho de coco),5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2728,Dendê (cacho de coco),5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2729,Erva-mate (folha verde),1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2729,Erva-mate (folha verde),1,Norte,2011,2011,216,Área colhida,1006,Hectares,-
+2729,Erva-mate (folha verde),1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2729,Erva-mate (folha verde),1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2729,Erva-mate (folha verde),1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,-
+2729,Erva-mate (folha verde),2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2729,Erva-mate (folha verde),2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,-
+2729,Erva-mate (folha verde),2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2729,Erva-mate (folha verde),2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2729,Erva-mate (folha verde),2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2729,Erva-mate (folha verde),3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2729,Erva-mate (folha verde),3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,-
+2729,Erva-mate (folha verde),3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2729,Erva-mate (folha verde),3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2729,Erva-mate (folha verde),3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2729,Erva-mate (folha verde),4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,71025
+2729,Erva-mate (folha verde),4,Sul,2011,2011,216,Área colhida,1006,Hectares,70965
+2729,Erva-mate (folha verde),4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,440535
+2729,Erva-mate (folha verde),4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,6208
+2729,Erva-mate (folha verde),4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,173175
+2729,Erva-mate (folha verde),5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,319
+2729,Erva-mate (folha verde),5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,220
+2729,Erva-mate (folha verde),5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,3100
+2729,Erva-mate (folha verde),5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,14091
+2729,Erva-mate (folha verde),5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,415
+2730,Figo,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2730,Figo,1,Norte,2011,2011,216,Área colhida,1006,Hectares,-
+2730,Figo,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2730,Figo,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2730,Figo,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,-
+2730,Figo,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2730,Figo,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,-
+2730,Figo,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2730,Figo,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2730,Figo,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2730,Figo,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,1043
+2730,Figo,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,1043
+2730,Figo,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,13324
+2730,Figo,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,12775
+2730,Figo,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,29517
+2730,Figo,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,1987
+2730,Figo,4,Sul,2011,2011,216,Área colhida,1006,Hectares,1987
+2730,Figo,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,12898
+2730,Figo,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,6491
+2730,Figo,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,21125
+2730,Figo,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,11
+2730,Figo,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,11
+2730,Figo,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,11
+2730,Figo,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,1000
+2730,Figo,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,5
+2731,Goiaba,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,590
+2731,Goiaba,1,Norte,2011,2011,216,Área colhida,1006,Hectares,590
+2731,Goiaba,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,6163
+2731,Goiaba,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,10446
+2731,Goiaba,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,4672
+2731,Goiaba,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,7435
+2731,Goiaba,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,7431
+2731,Goiaba,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,151903
+2731,Goiaba,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,20442
+2731,Goiaba,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,111808
+2731,Goiaba,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,6293
+2731,Goiaba,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,6268
+2731,Goiaba,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,149169
+2731,Goiaba,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,23799
+2731,Goiaba,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,125020
+2731,Goiaba,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,974
+2731,Goiaba,4,Sul,2011,2011,216,Área colhida,1006,Hectares,974
+2731,Goiaba,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,12227
+2731,Goiaba,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,12553
+2731,Goiaba,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,16191
+2731,Goiaba,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,664
+2731,Goiaba,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,654
+2731,Goiaba,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,23066
+2731,Goiaba,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,35269
+2731,Goiaba,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,18643
+2732,Guaraná (semente),1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,7066
+2732,Guaraná (semente),1,Norte,2011,2011,216,Área colhida,1006,Hectares,3673
+2732,Guaraná (semente),1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,901
+2732,Guaraná (semente),1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,245
+2732,Guaraná (semente),1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,12803
+2732,Guaraná (semente),2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,6799
+2732,Guaraná (semente),2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,6799
+2732,Guaraná (semente),2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,3026
+2732,Guaraná (semente),2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,445
+2732,Guaraná (semente),2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,16911
+2732,Guaraná (semente),3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2732,Guaraná (semente),3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,-
+2732,Guaraná (semente),3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2732,Guaraná (semente),3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2732,Guaraná (semente),3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2732,Guaraná (semente),4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2732,Guaraná (semente),4,Sul,2011,2011,216,Área colhida,1006,Hectares,-
+2732,Guaraná (semente),4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2732,Guaraná (semente),4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2732,Guaraná (semente),4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,-
+2732,Guaraná (semente),5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,517
+2732,Guaraná (semente),5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,517
+2732,Guaraná (semente),5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,224
+2732,Guaraná (semente),5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,433
+2732,Guaraná (semente),5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,882
+2733,Laranja,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,18327
+2733,Laranja,1,Norte,2011,2011,216,Área colhida,1006,Hectares,17005
+2733,Laranja,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,268839
+2733,Laranja,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,15809
+2733,Laranja,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,147143
+2733,Laranja,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,129507
+2733,Laranja,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,129506
+2733,Laranja,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,1943062
+2733,Laranja,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,15004
+2733,Laranja,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,511607
+2733,Laranja,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,603001
+2733,Laranja,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,602965
+2733,Laranja,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,16200142
+2733,Laranja,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,26867
+2733,Laranja,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,5356527
+2733,Laranja,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,60104
+2733,Laranja,4,Sul,2011,2011,216,Área colhida,1006,Hectares,60070
+2733,Laranja,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,1257463
+2733,Laranja,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,20933
+2733,Laranja,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,476705
+2733,Laranja,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,7746
+2733,Laranja,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,7746
+2733,Laranja,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,141558
+2733,Laranja,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,18275
+2733,Laranja,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,63662
+2734,Limão,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,2688
+2734,Limão,1,Norte,2011,2011,216,Área colhida,1006,Hectares,2452
+2734,Limão,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,28569
+2734,Limão,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,11651
+2734,Limão,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,20593
+2734,Limão,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,6448
+2734,Limão,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,6446
+2734,Limão,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,88084
+2734,Limão,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,13665
+2734,Limão,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,38240
+2734,Limão,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,34925
+2734,Limão,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,34902
+2734,Limão,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,962360
+2734,Limão,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,27573
+2734,Limão,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,414306
+2734,Limão,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,2487
+2734,Limão,4,Sul,2011,2011,216,Área colhida,1006,Hectares,2487
+2734,Limão,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,33262
+2734,Limão,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,13374
+2734,Limão,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,29245
+2734,Limão,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,980
+2734,Limão,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,980
+2734,Limão,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,14461
+2734,Limão,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,14756
+2734,Limão,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,10058
+2735,Maçã,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2735,Maçã,1,Norte,2011,2011,216,Área colhida,1006,Hectares,-
+2735,Maçã,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2735,Maçã,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2735,Maçã,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,-
+2735,Maçã,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,60
+2735,Maçã,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,60
+2735,Maçã,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,480
+2735,Maçã,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,8000
+2735,Maçã,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,480
+2735,Maçã,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,262
+2735,Maçã,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,262
+2735,Maçã,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,4866
+2735,Maçã,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,18573
+2735,Maçã,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,8132
+2735,Maçã,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,37755
+2735,Maçã,4,Sul,2011,2011,216,Área colhida,1006,Hectares,37755
+2735,Maçã,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,1333649
+2735,Maçã,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,35324
+2735,Maçã,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,843118
+2735,Maçã,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2735,Maçã,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,-
+2735,Maçã,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2735,Maçã,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2735,Maçã,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2736,Mamão,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,4096
+2736,Mamão,1,Norte,2011,2011,216,Área colhida,1006,Hectares,3860
+2736,Mamão,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,52349
+2736,Mamão,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,13562
+2736,Mamão,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,53341
+2736,Mamão,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,22331
+2736,Mamão,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,22230
+2736,Mamão,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,1174510
+2736,Mamão,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,52834
+2736,Mamão,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,896192
+2736,Mamão,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,8799
+2736,Mamão,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,8798
+2736,Mamão,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,616218
+2736,Mamão,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,70041
+2736,Mamão,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,331257
+2736,Mamão,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,391
+2736,Mamão,4,Sul,2011,2011,216,Área colhida,1006,Hectares,391
+2736,Mamão,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,4183
+2736,Mamão,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,10698
+2736,Mamão,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,5314
+2736,Mamão,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,264
+2736,Mamão,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,252
+2736,Mamão,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,7083
+2736,Mamão,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,28107
+2736,Mamão,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,6439
+2737,Manga,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,674
+2737,Manga,1,Norte,2011,2011,216,Área colhida,1006,Hectares,672
+2737,Manga,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,3609
+2737,Manga,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,5371
+2737,Manga,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,1232
+2737,Manga,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,51712
+2737,Manga,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,51712
+2737,Manga,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,877715
+2737,Manga,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,16973
+2737,Manga,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,428912
+2737,Manga,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,23027
+2737,Manga,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,23021
+2737,Manga,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,355316
+2737,Manga,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,15434
+2737,Manga,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,210739
+2737,Manga,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,714
+2737,Manga,4,Sul,2011,2011,216,Área colhida,1006,Hectares,714
+2737,Manga,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,9706
+2737,Manga,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,13594
+2737,Manga,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,8178
+2737,Manga,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,262
+2737,Manga,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,262
+2737,Manga,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,3107
+2737,Manga,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,11859
+2737,Manga,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,2128
+2738,Maracujá,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,4450
+2738,Maracujá,1,Norte,2011,2011,216,Área colhida,1006,Hectares,4245
+2738,Maracujá,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,54156
+2738,Maracujá,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,12758
+2738,Maracujá,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,73393
+2738,Maracujá,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,46159
+2738,Maracujá,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,46153
+2738,Maracujá,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,671421
+2738,Maracujá,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,14548
+2738,Maracujá,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,564075
+2738,Maracujá,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,7655
+2738,Maracujá,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,7655
+2738,Maracujá,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,139219
+2738,Maracujá,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,18187
+2738,Maracujá,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,139311
+2738,Maracujá,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,1656
+2738,Maracujá,4,Sul,2011,2011,216,Área colhida,1006,Hectares,1656
+2738,Maracujá,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,22953
+2738,Maracujá,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,13861
+2738,Maracujá,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,27768
+2738,Maracujá,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,1922
+2738,Maracujá,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,1922
+2738,Maracujá,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,35286
+2738,Maracujá,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,18359
+2738,Maracujá,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,46843
+2739,Marmelo,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2739,Marmelo,1,Norte,2011,2011,216,Área colhida,1006,Hectares,-
+2739,Marmelo,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2739,Marmelo,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2739,Marmelo,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,-
+2739,Marmelo,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,10
+2739,Marmelo,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,10
+2739,Marmelo,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,50
+2739,Marmelo,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,5000
+2739,Marmelo,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,90
+2739,Marmelo,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,108
+2739,Marmelo,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,108
+2739,Marmelo,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,418
+2739,Marmelo,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,3870
+2739,Marmelo,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,554
+2739,Marmelo,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,36
+2739,Marmelo,4,Sul,2011,2011,216,Área colhida,1006,Hectares,36
+2739,Marmelo,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,222
+2739,Marmelo,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,6167
+2739,Marmelo,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,297
+2739,Marmelo,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,6
+2739,Marmelo,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,6
+2739,Marmelo,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,90
+2739,Marmelo,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,15000
+2739,Marmelo,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,162
+2740,Noz (fruto seco),1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2740,Noz (fruto seco),1,Norte,2011,2011,216,Área colhida,1006,Hectares,-
+2740,Noz (fruto seco),1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2740,Noz (fruto seco),1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2740,Noz (fruto seco),1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,-
+2740,Noz (fruto seco),2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2740,Noz (fruto seco),2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,-
+2740,Noz (fruto seco),2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2740,Noz (fruto seco),2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2740,Noz (fruto seco),2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2740,Noz (fruto seco),3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,700
+2740,Noz (fruto seco),3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,700
+2740,Noz (fruto seco),3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,866
+2740,Noz (fruto seco),3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,1237
+2740,Noz (fruto seco),3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,3010
+2740,Noz (fruto seco),4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,1735
+2740,Noz (fruto seco),4,Sul,2011,2011,216,Área colhida,1006,Hectares,1735
+2740,Noz (fruto seco),4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,4863
+2740,Noz (fruto seco),4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,2803
+2740,Noz (fruto seco),4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,19779
+2740,Noz (fruto seco),5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2740,Noz (fruto seco),5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,-
+2740,Noz (fruto seco),5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2740,Noz (fruto seco),5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2740,Noz (fruto seco),5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+90001,Palmito,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,966
+90001,Palmito,1,Norte,2011,2011,216,Área colhida,1006,Hectares,886
+90001,Palmito,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,1405
+90001,Palmito,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,1586
+90001,Palmito,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,558
+90001,Palmito,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,3016
+90001,Palmito,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,3016
+90001,Palmito,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,20211
+90001,Palmito,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,6701
+90001,Palmito,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,9970
+90001,Palmito,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,5299
+90001,Palmito,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,5284
+90001,Palmito,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,20096
+90001,Palmito,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,3803
+90001,Palmito,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,47978
+90001,Palmito,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,3555
+90001,Palmito,4,Sul,2011,2011,216,Área colhida,1006,Hectares,3555
+90001,Palmito,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,35723
+90001,Palmito,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,10049
+90001,Palmito,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,65726
+90001,Palmito,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,2859
+90001,Palmito,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,2859
+90001,Palmito,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,25984
+90001,Palmito,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,9088
+90001,Palmito,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,67458
+2741,Pera,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2741,Pera,1,Norte,2011,2011,216,Área colhida,1006,Hectares,-
+2741,Pera,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2741,Pera,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2741,Pera,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,-
+2741,Pera,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2741,Pera,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,-
+2741,Pera,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2741,Pera,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2741,Pera,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2741,Pera,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,120
+2741,Pera,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,120
+2741,Pera,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,995
+2741,Pera,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,8292
+2741,Pera,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,1637
+2741,Pera,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,1630
+2741,Pera,4,Sul,2011,2011,216,Área colhida,1006,Hectares,1630
+2741,Pera,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,19537
+2741,Pera,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,11986
+2741,Pera,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,24372
+2741,Pera,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2741,Pera,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,-
+2741,Pera,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2741,Pera,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2741,Pera,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2742,Pêssego,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2742,Pêssego,1,Norte,2011,2011,216,Área colhida,1006,Hectares,-
+2742,Pêssego,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2742,Pêssego,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2742,Pêssego,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,-
+2742,Pêssego,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2742,Pêssego,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,-
+2742,Pêssego,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2742,Pêssego,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2742,Pêssego,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2742,Pêssego,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,2518
+2742,Pêssego,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,2518
+2742,Pêssego,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,54406
+2742,Pêssego,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,21607
+2742,Pêssego,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,117953
+2742,Pêssego,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,17630
+2742,Pêssego,4,Sul,2011,2011,216,Área colhida,1006,Hectares,17630
+2742,Pêssego,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,167774
+2742,Pêssego,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,9516
+2742,Pêssego,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,160598
+2742,Pêssego,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2742,Pêssego,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,-
+2742,Pêssego,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2742,Pêssego,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2742,Pêssego,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2743,Pimenta-do-reino,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,16621
+2743,Pimenta-do-reino,1,Norte,2011,2011,216,Área colhida,1006,Hectares,16616
+2743,Pimenta-do-reino,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,33558
+2743,Pimenta-do-reino,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,2020
+2743,Pimenta-do-reino,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,341761
+2743,Pimenta-do-reino,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,2078
+2743,Pimenta-do-reino,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,2078
+2743,Pimenta-do-reino,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,4426
+2743,Pimenta-do-reino,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,2130
+2743,Pimenta-do-reino,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,21606
+2743,Pimenta-do-reino,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,2340
+2743,Pimenta-do-reino,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,2340
+2743,Pimenta-do-reino,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,6589
+2743,Pimenta-do-reino,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,2816
+2743,Pimenta-do-reino,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,54074
+2743,Pimenta-do-reino,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2743,Pimenta-do-reino,4,Sul,2011,2011,216,Área colhida,1006,Hectares,-
+2743,Pimenta-do-reino,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2743,Pimenta-do-reino,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2743,Pimenta-do-reino,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,-
+2743,Pimenta-do-reino,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,55
+2743,Pimenta-do-reino,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,55
+2743,Pimenta-do-reino,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,37
+2743,Pimenta-do-reino,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,673
+2743,Pimenta-do-reino,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,128
+2744,Sisal ou agave (fibra),1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2744,Sisal ou agave (fibra),1,Norte,2011,2011,216,Área colhida,1006,Hectares,-
+2744,Sisal ou agave (fibra),1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2744,Sisal ou agave (fibra),1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2744,Sisal ou agave (fibra),1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,-
+2744,Sisal ou agave (fibra),2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,285724
+2744,Sisal ou agave (fibra),2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,285724
+2744,Sisal ou agave (fibra),2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,283797
+2744,Sisal ou agave (fibra),2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,993
+2744,Sisal ou agave (fibra),2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,265039
+2744,Sisal ou agave (fibra),3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2744,Sisal ou agave (fibra),3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,-
+2744,Sisal ou agave (fibra),3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2744,Sisal ou agave (fibra),3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2744,Sisal ou agave (fibra),3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2744,Sisal ou agave (fibra),4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2744,Sisal ou agave (fibra),4,Sul,2011,2011,216,Área colhida,1006,Hectares,-
+2744,Sisal ou agave (fibra),4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2744,Sisal ou agave (fibra),4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2744,Sisal ou agave (fibra),4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,-
+2744,Sisal ou agave (fibra),5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2744,Sisal ou agave (fibra),5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,-
+2744,Sisal ou agave (fibra),5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2744,Sisal ou agave (fibra),5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2744,Sisal ou agave (fibra),5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2745,Tangerina,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,648
+2745,Tangerina,1,Norte,2011,2011,216,Área colhida,1006,Hectares,589
+2745,Tangerina,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,5156
+2745,Tangerina,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,8754
+2745,Tangerina,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,3420
+2745,Tangerina,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,3398
+2745,Tangerina,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,3398
+2745,Tangerina,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,39486
+2745,Tangerina,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,11620
+2745,Tangerina,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,16491
+2745,Tangerina,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,24258
+2745,Tangerina,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,24258
+2745,Tangerina,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,611894
+2745,Tangerina,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,25224
+2745,Tangerina,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,299622
+2745,Tangerina,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,23871
+2745,Tangerina,4,Sul,2011,2011,216,Área colhida,1006,Hectares,23871
+2745,Tangerina,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,330964
+2745,Tangerina,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,13865
+2745,Tangerina,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,253010
+2745,Tangerina,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,1128
+2745,Tangerina,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,1128
+2745,Tangerina,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,17227
+2745,Tangerina,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,15272
+2745,Tangerina,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,8717
+2746,Tungue (fruto seco),1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2746,Tungue (fruto seco),1,Norte,2011,2011,216,Área colhida,1006,Hectares,-
+2746,Tungue (fruto seco),1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2746,Tungue (fruto seco),1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2746,Tungue (fruto seco),1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,-
+2746,Tungue (fruto seco),2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2746,Tungue (fruto seco),2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,-
+2746,Tungue (fruto seco),2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2746,Tungue (fruto seco),2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2746,Tungue (fruto seco),2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2746,Tungue (fruto seco),3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2746,Tungue (fruto seco),3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,-
+2746,Tungue (fruto seco),3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2746,Tungue (fruto seco),3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2746,Tungue (fruto seco),3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2746,Tungue (fruto seco),4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,123
+2746,Tungue (fruto seco),4,Sul,2011,2011,216,Área colhida,1006,Hectares,123
+2746,Tungue (fruto seco),4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,343
+2746,Tungue (fruto seco),4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,2789
+2746,Tungue (fruto seco),4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,117
+2746,Tungue (fruto seco),5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,-
+2746,Tungue (fruto seco),5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,-
+2746,Tungue (fruto seco),5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,-
+2746,Tungue (fruto seco),5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2746,Tungue (fruto seco),5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,-
+2747,Urucum (semente),1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,4016
+2747,Urucum (semente),1,Norte,2011,2011,216,Área colhida,1006,Hectares,4016
+2747,Urucum (semente),1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,4453
+2747,Urucum (semente),1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,1109
+2747,Urucum (semente),1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,9274
+2747,Urucum (semente),2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,2810
+2747,Urucum (semente),2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,2810
+2747,Urucum (semente),2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,2433
+2747,Urucum (semente),2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,866
+2747,Urucum (semente),2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,4560
+2747,Urucum (semente),3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,3459
+2747,Urucum (semente),3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,3459
+2747,Urucum (semente),3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,4455
+2747,Urucum (semente),3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,1288
+2747,Urucum (semente),3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,11729
+2747,Urucum (semente),4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,935
+2747,Urucum (semente),4,Sul,2011,2011,216,Área colhida,1006,Hectares,935
+2747,Urucum (semente),4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,998
+2747,Urucum (semente),4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,1067
+2747,Urucum (semente),4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,2423
+2747,Urucum (semente),5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,394
+2747,Urucum (semente),5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,394
+2747,Urucum (semente),5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,291
+2747,Urucum (semente),5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,739
+2747,Urucum (semente),5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,931
+2748,Uva,1,Norte,2011,2011,2313,Área destinada à colheita,1006,Hectares,25
+2748,Uva,1,Norte,2011,2011,216,Área colhida,1006,Hectares,25
+2748,Uva,1,Norte,2011,2011,214,Quantidade produzida,1017,Toneladas,176
+2748,Uva,1,Norte,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,7040
+2748,Uva,1,Norte,2011,2011,215,Valor da produção,40,Mil Reais,202
+2748,Uva,2,Nordeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,9746
+2748,Uva,2,Nordeste,2011,2011,216,Área colhida,1006,Hectares,9746
+2748,Uva,2,Nordeste,2011,2011,214,Quantidade produzida,1017,Toneladas,277784
+2748,Uva,2,Nordeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,28502
+2748,Uva,2,Nordeste,2011,2011,215,Valor da produção,40,Mil Reais,659110
+2748,Uva,3,Sudeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,11506
+2748,Uva,3,Sudeste,2011,2011,216,Área colhida,1006,Hectares,11506
+2748,Uva,3,Sudeste,2011,2011,214,Quantidade produzida,1017,Toneladas,228625
+2748,Uva,3,Sudeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,19870
+2748,Uva,3,Sudeste,2011,2011,215,Valor da produção,40,Mil Reais,432630
+2748,Uva,4,Sul,2011,2011,2313,Área destinada à colheita,1006,Hectares,60247
+2748,Uva,4,Sul,2011,2011,216,Área colhida,1006,Hectares,60246
+2748,Uva,4,Sul,2011,2011,214,Quantidade produzida,1017,Toneladas,981555
+2748,Uva,4,Sul,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,16292
+2748,Uva,4,Sul,2011,2011,215,Valor da produção,40,Mil Reais,845041
+2748,Uva,5,Centro-Oeste,2011,2011,2313,Área destinada à colheita,1006,Hectares,316
+2748,Uva,5,Centro-Oeste,2011,2011,216,Área colhida,1006,Hectares,316
+2748,Uva,5,Centro-Oeste,2011,2011,214,Quantidade produzida,1017,Toneladas,7196
+2748,Uva,5,Centro-Oeste,2011,2011,112,Rendimento médio da produção,33,Quilogramas por Hectare,22772
+2748,Uva,5,Centro-Oeste,2011,2011,215,Valor da produção,40,Mil Reais,18348
