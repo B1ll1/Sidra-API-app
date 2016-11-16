@@ -1,0 +1,876 @@
+D1C,D1N,D2C,D2N,D3C,D3N,D4C,D4N,MC,MN,V
+2717,Abacate,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,458
+2717,Abacate,1,Norte,2015,2015,216,Área colhida,1006,Hectares,458
+2717,Abacate,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,3589
+2717,Abacate,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,7836
+2717,Abacate,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,4963
+2717,Abacate,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,806
+2717,Abacate,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,803
+2717,Abacate,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,6737
+2717,Abacate,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,8390
+2717,Abacate,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,7941
+2717,Abacate,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,7573
+2717,Abacate,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,7573
+2717,Abacate,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,145017
+2717,Abacate,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,19149
+2717,Abacate,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,193190
+2717,Abacate,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,1338
+2717,Abacate,4,Sul,2015,2015,216,Área colhida,1006,Hectares,1334
+2717,Abacate,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,21746
+2717,Abacate,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,16301
+2717,Abacate,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,31754
+2717,Abacate,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,206
+2717,Abacate,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,186
+2717,Abacate,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,3547
+2717,Abacate,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,19070
+2717,Abacate,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,8614
+2718,Algodão arbóreo (em caroço),1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2718,Algodão arbóreo (em caroço),1,Norte,2015,2015,216,Área colhida,1006,Hectares,-
+2718,Algodão arbóreo (em caroço),1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2718,Algodão arbóreo (em caroço),1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2718,Algodão arbóreo (em caroço),1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,-
+2718,Algodão arbóreo (em caroço),2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2718,Algodão arbóreo (em caroço),2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,-
+2718,Algodão arbóreo (em caroço),2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2718,Algodão arbóreo (em caroço),2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2718,Algodão arbóreo (em caroço),2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2718,Algodão arbóreo (em caroço),3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2718,Algodão arbóreo (em caroço),3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,-
+2718,Algodão arbóreo (em caroço),3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2718,Algodão arbóreo (em caroço),3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2718,Algodão arbóreo (em caroço),3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2718,Algodão arbóreo (em caroço),4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2718,Algodão arbóreo (em caroço),4,Sul,2015,2015,216,Área colhida,1006,Hectares,-
+2718,Algodão arbóreo (em caroço),4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2718,Algodão arbóreo (em caroço),4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2718,Algodão arbóreo (em caroço),4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,-
+2718,Algodão arbóreo (em caroço),5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2718,Algodão arbóreo (em caroço),5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,-
+2718,Algodão arbóreo (em caroço),5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2718,Algodão arbóreo (em caroço),5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2718,Algodão arbóreo (em caroço),5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2719,Azeitona,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2719,Azeitona,1,Norte,2015,2015,216,Área colhida,1006,Hectares,-
+2719,Azeitona,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2719,Azeitona,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2719,Azeitona,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,-
+2719,Azeitona,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2719,Azeitona,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,-
+2719,Azeitona,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2719,Azeitona,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2719,Azeitona,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2719,Azeitona,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,169
+2719,Azeitona,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,169
+2719,Azeitona,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,282
+2719,Azeitona,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1669
+2719,Azeitona,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,724
+2719,Azeitona,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,234
+2719,Azeitona,4,Sul,2015,2015,216,Área colhida,1006,Hectares,231
+2719,Azeitona,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,238
+2719,Azeitona,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1030
+2719,Azeitona,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,463
+2719,Azeitona,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2719,Azeitona,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,-
+2719,Azeitona,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2719,Azeitona,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2719,Azeitona,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2720,Banana (cacho),1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,85410
+2720,Banana (cacho),1,Norte,2015,2015,216,Área colhida,1006,Hectares,83485
+2720,Banana (cacho),1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,1017583
+2720,Banana (cacho),1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,12189
+2720,Banana (cacho),1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,1061044
+2720,Banana (cacho),2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,189477
+2720,Banana (cacho),2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,184414
+2720,Banana (cacho),2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,2283014
+2720,Banana (cacho),2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,12380
+2720,Banana (cacho),2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,1829613
+2720,Banana (cacho),3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,138849
+2720,Banana (cacho),3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,138055
+2720,Banana (cacho),3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,2212326
+2720,Banana (cacho),3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,16025
+2720,Banana (cacho),3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,2056561
+2720,Banana (cacho),4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,49657
+2720,Banana (cacho),4,Sul,2015,2015,216,Área colhida,1006,Hectares,49656
+2720,Banana (cacho),4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,1047976
+2720,Banana (cacho),4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,21105
+2720,Banana (cacho),4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,560345
+2720,Banana (cacho),5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,21037
+2720,Banana (cacho),5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,20366
+2720,Banana (cacho),5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,283592
+2720,Banana (cacho),5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,13925
+2720,Banana (cacho),5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,283429
+2721,Borracha (látex coagulado),1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,2514
+2721,Borracha (látex coagulado),1,Norte,2015,2015,216,Área colhida,1006,Hectares,2451
+2721,Borracha (látex coagulado),1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,3559
+2721,Borracha (látex coagulado),1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1452
+2721,Borracha (látex coagulado),1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,10920
+2721,Borracha (látex coagulado),2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,36330
+2721,Borracha (látex coagulado),2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,35920
+2721,Borracha (látex coagulado),2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,51883
+2721,Borracha (látex coagulado),2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1444
+2721,Borracha (látex coagulado),2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,106724
+2721,Borracha (látex coagulado),3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,79354
+2721,Borracha (látex coagulado),3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,79226
+2721,Borracha (látex coagulado),3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,218740
+2721,Borracha (látex coagulado),3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,2761
+2721,Borracha (látex coagulado),3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,413340
+2721,Borracha (látex coagulado),4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,677
+2721,Borracha (látex coagulado),4,Sul,2015,2015,216,Área colhida,1006,Hectares,668
+2721,Borracha (látex coagulado),4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,1405
+2721,Borracha (látex coagulado),4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,2103
+2721,Borracha (látex coagulado),4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,3700
+2721,Borracha (látex coagulado),5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,35307
+2721,Borracha (látex coagulado),5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,25911
+2721,Borracha (látex coagulado),5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,43672
+2721,Borracha (látex coagulado),5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1685
+2721,Borracha (látex coagulado),5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,89173
+2722,Cacau (em amêndoa),1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,141103
+2722,Cacau (em amêndoa),1,Norte,2015,2015,216,Área colhida,1006,Hectares,139756
+2722,Cacau (em amêndoa),1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,113744
+2722,Cacau (em amêndoa),1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,814
+2722,Cacau (em amêndoa),1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,845148
+2722,Cacau (em amêndoa),2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,513811
+2722,Cacau (em amêndoa),2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,513811
+2722,Cacau (em amêndoa),2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,153257
+2722,Cacau (em amêndoa),2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,298
+2722,Cacau (em amêndoa),2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,1264548
+2722,Cacau (em amêndoa),3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,22482
+2722,Cacau (em amêndoa),3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,22482
+2722,Cacau (em amêndoa),3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,5596
+2722,Cacau (em amêndoa),3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,249
+2722,Cacau (em amêndoa),3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,43632
+2722,Cacau (em amêndoa),4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2722,Cacau (em amêndoa),4,Sul,2015,2015,216,Área colhida,1006,Hectares,-
+2722,Cacau (em amêndoa),4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2722,Cacau (em amêndoa),4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2722,Cacau (em amêndoa),4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,-
+2722,Cacau (em amêndoa),5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,953
+2722,Cacau (em amêndoa),5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,853
+2722,Cacau (em amêndoa),5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,527
+2722,Cacau (em amêndoa),5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,618
+2722,Cacau (em amêndoa),5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,2676
+2723,Café (em grão) Total,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,84056
+2723,Café (em grão) Total,1,Norte,2015,2015,216,Área colhida,1006,Hectares,83791
+2723,Café (em grão) Total,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,89967
+2723,Café (em grão) Total,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1074
+2723,Café (em grão) Total,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,303638
+2723,Café (em grão) Total,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,173955
+2723,Café (em grão) Total,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,170524
+2723,Café (em grão) Total,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,211714
+2723,Café (em grão) Total,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1242
+2723,Café (em grão) Total,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,1100594
+2723,Café (em grão) Total,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,1656702
+2723,Café (em grão) Total,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,1652197
+2723,Café (em grão) Total,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,2235569
+2723,Café (em grão) Total,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1353
+2723,Café (em grão) Total,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,13828320
+2723,Café (em grão) Total,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,44747
+2723,Café (em grão) Total,4,Sul,2015,2015,216,Área colhida,1006,Hectares,44551
+2723,Café (em grão) Total,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,80304
+2723,Café (em grão) Total,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1803
+2723,Café (em grão) Total,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,498465
+2723,Café (em grão) Total,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,28812
+2723,Café (em grão) Total,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,28651
+2723,Café (em grão) Total,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,27940
+2723,Café (em grão) Total,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,975
+2723,Café (em grão) Total,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,122761
+31619,Café (em grão) Arábica,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,49
+31619,Café (em grão) Arábica,1,Norte,2015,2015,216,Área colhida,1006,Hectares,34
+31619,Café (em grão) Arábica,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,39
+31619,Café (em grão) Arábica,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1147
+31619,Café (em grão) Arábica,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,120
+31619,Café (em grão) Arábica,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,128943
+31619,Café (em grão) Arábica,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,128745
+31619,Café (em grão) Arábica,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,127576
+31619,Café (em grão) Arábica,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,991
+31619,Café (em grão) Arábica,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,714645
+31619,Café (em grão) Arábica,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,1353162
+31619,Café (em grão) Arábica,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,1348661
+31619,Café (em grão) Arábica,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,1765004
+31619,Café (em grão) Arábica,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1309
+31619,Café (em grão) Arábica,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,11601557
+31619,Café (em grão) Arábica,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,44747
+31619,Café (em grão) Arábica,4,Sul,2015,2015,216,Área colhida,1006,Hectares,44551
+31619,Café (em grão) Arábica,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,80304
+31619,Café (em grão) Arábica,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1803
+31619,Café (em grão) Arábica,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,498465
+31619,Café (em grão) Arábica,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,8734
+31619,Café (em grão) Arábica,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,8573
+31619,Café (em grão) Arábica,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,20866
+31619,Café (em grão) Arábica,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,2434
+31619,Café (em grão) Arábica,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,94688
+31620,Café (em grão) Canephora,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,84007
+31620,Café (em grão) Canephora,1,Norte,2015,2015,216,Área colhida,1006,Hectares,83757
+31620,Café (em grão) Canephora,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,89928
+31620,Café (em grão) Canephora,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1074
+31620,Café (em grão) Canephora,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,303518
+31620,Café (em grão) Canephora,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,45012
+31620,Café (em grão) Canephora,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,41779
+31620,Café (em grão) Canephora,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,84138
+31620,Café (em grão) Canephora,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,2014
+31620,Café (em grão) Canephora,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,385949
+31620,Café (em grão) Canephora,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,303540
+31620,Café (em grão) Canephora,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,303536
+31620,Café (em grão) Canephora,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,470565
+31620,Café (em grão) Canephora,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1550
+31620,Café (em grão) Canephora,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,2226762
+31620,Café (em grão) Canephora,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+31620,Café (em grão) Canephora,4,Sul,2015,2015,216,Área colhida,1006,Hectares,-
+31620,Café (em grão) Canephora,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+31620,Café (em grão) Canephora,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+31620,Café (em grão) Canephora,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,-
+31620,Café (em grão) Canephora,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,20078
+31620,Café (em grão) Canephora,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,20078
+31620,Café (em grão) Canephora,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,7074
+31620,Café (em grão) Canephora,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,352
+31620,Café (em grão) Canephora,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,28073
+2724,Caqui,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2724,Caqui,1,Norte,2015,2015,216,Área colhida,1006,Hectares,-
+2724,Caqui,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2724,Caqui,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2724,Caqui,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,-
+2724,Caqui,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,13
+2724,Caqui,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,13
+2724,Caqui,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,111
+2724,Caqui,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,8538
+2724,Caqui,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,148
+2724,Caqui,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,5244
+2724,Caqui,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,5232
+2724,Caqui,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,140301
+2724,Caqui,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,26816
+2724,Caqui,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,214757
+2724,Caqui,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,3356
+2724,Caqui,4,Sul,2015,2015,216,Área colhida,1006,Hectares,3343
+2724,Caqui,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,51915
+2724,Caqui,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,15529
+2724,Caqui,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,75761
+2724,Caqui,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2724,Caqui,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,-
+2724,Caqui,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2724,Caqui,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2724,Caqui,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2725,Castanha de caju,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,2945
+2725,Castanha de caju,1,Norte,2015,2015,216,Área colhida,1006,Hectares,2945
+2725,Castanha de caju,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,1651
+2725,Castanha de caju,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,561
+2725,Castanha de caju,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,984
+2725,Castanha de caju,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,615488
+2725,Castanha de caju,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,582926
+2725,Castanha de caju,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,100578
+2725,Castanha de caju,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,173
+2725,Castanha de caju,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,263706
+2725,Castanha de caju,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2725,Castanha de caju,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,-
+2725,Castanha de caju,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2725,Castanha de caju,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2725,Castanha de caju,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2725,Castanha de caju,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2725,Castanha de caju,4,Sul,2015,2015,216,Área colhida,1006,Hectares,-
+2725,Castanha de caju,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2725,Castanha de caju,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2725,Castanha de caju,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,-
+2725,Castanha de caju,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,763
+2725,Castanha de caju,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,652
+2725,Castanha de caju,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,256
+2725,Castanha de caju,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,393
+2725,Castanha de caju,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,487
+2726,Chá-da-índia (folha verde),1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2726,Chá-da-índia (folha verde),1,Norte,2015,2015,216,Área colhida,1006,Hectares,-
+2726,Chá-da-índia (folha verde),1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2726,Chá-da-índia (folha verde),1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2726,Chá-da-índia (folha verde),1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,-
+2726,Chá-da-índia (folha verde),2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2726,Chá-da-índia (folha verde),2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,-
+2726,Chá-da-índia (folha verde),2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2726,Chá-da-índia (folha verde),2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2726,Chá-da-índia (folha verde),2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2726,Chá-da-índia (folha verde),3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,600
+2726,Chá-da-índia (folha verde),3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,165
+2726,Chá-da-índia (folha verde),3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,2274
+2726,Chá-da-índia (folha verde),3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,13782
+2726,Chá-da-índia (folha verde),3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,1701
+2726,Chá-da-índia (folha verde),4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,50
+2726,Chá-da-índia (folha verde),4,Sul,2015,2015,216,Área colhida,1006,Hectares,50
+2726,Chá-da-índia (folha verde),4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,450
+2726,Chá-da-índia (folha verde),4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,9000
+2726,Chá-da-índia (folha verde),4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,675
+2726,Chá-da-índia (folha verde),5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2726,Chá-da-índia (folha verde),5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,-
+2726,Chá-da-índia (folha verde),5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2726,Chá-da-índia (folha verde),5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2726,Chá-da-índia (folha verde),5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2727,Coco-da-baía,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,22835
+2727,Coco-da-baía,1,Norte,2015,2015,216,Área colhida,1006,Hectares,22666
+2727,Coco-da-baía,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,219198
+2727,Coco-da-baía,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,9671
+2727,Coco-da-baía,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,123122
+2727,Coco-da-baía,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,210369
+2727,Coco-da-baía,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,208903
+2727,Coco-da-baía,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,1468322
+2727,Coco-da-baía,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,7029
+2727,Coco-da-baía,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,777350
+2727,Coco-da-baía,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,17804
+2727,Coco-da-baía,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,17733
+2727,Coco-da-baía,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,240316
+2727,Coco-da-baía,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,13552
+2727,Coco-da-baía,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,179340
+2727,Coco-da-baía,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,248
+2727,Coco-da-baía,4,Sul,2015,2015,216,Área colhida,1006,Hectares,248
+2727,Coco-da-baía,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,2921
+2727,Coco-da-baía,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,11778
+2727,Coco-da-baía,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,2560
+2727,Coco-da-baía,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,2127
+2727,Coco-da-baía,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,2115
+2727,Coco-da-baía,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,27906
+2727,Coco-da-baía,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,13194
+2727,Coco-da-baía,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,31737
+2728,Dendê (cacho de coco),1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,86064
+2728,Dendê (cacho de coco),1,Norte,2015,2015,216,Área colhida,1006,Hectares,86064
+2728,Dendê (cacho de coco),1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,1380102
+2728,Dendê (cacho de coco),1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,16036
+2728,Dendê (cacho de coco),1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,325817
+2728,Dendê (cacho de coco),2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,54018
+2728,Dendê (cacho de coco),2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,54018
+2728,Dendê (cacho de coco),2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,204986
+2728,Dendê (cacho de coco),2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,3795
+2728,Dendê (cacho de coco),2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,49814
+2728,Dendê (cacho de coco),3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2728,Dendê (cacho de coco),3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,-
+2728,Dendê (cacho de coco),3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2728,Dendê (cacho de coco),3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2728,Dendê (cacho de coco),3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2728,Dendê (cacho de coco),4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2728,Dendê (cacho de coco),4,Sul,2015,2015,216,Área colhida,1006,Hectares,-
+2728,Dendê (cacho de coco),4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2728,Dendê (cacho de coco),4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2728,Dendê (cacho de coco),4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,-
+2728,Dendê (cacho de coco),5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2728,Dendê (cacho de coco),5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,-
+2728,Dendê (cacho de coco),5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2728,Dendê (cacho de coco),5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2728,Dendê (cacho de coco),5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2729,Erva-mate (folha verde),1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2729,Erva-mate (folha verde),1,Norte,2015,2015,216,Área colhida,1006,Hectares,-
+2729,Erva-mate (folha verde),1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2729,Erva-mate (folha verde),1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2729,Erva-mate (folha verde),1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,-
+2729,Erva-mate (folha verde),2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2729,Erva-mate (folha verde),2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,-
+2729,Erva-mate (folha verde),2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2729,Erva-mate (folha verde),2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2729,Erva-mate (folha verde),2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2729,Erva-mate (folha verde),3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2729,Erva-mate (folha verde),3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,-
+2729,Erva-mate (folha verde),3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2729,Erva-mate (folha verde),3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2729,Erva-mate (folha verde),3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2729,Erva-mate (folha verde),4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,98395
+2729,Erva-mate (folha verde),4,Sul,2015,2015,216,Área colhida,1006,Hectares,94716
+2729,Erva-mate (folha verde),4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,601586
+2729,Erva-mate (folha verde),4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,6351
+2729,Erva-mate (folha verde),4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,578640
+2729,Erva-mate (folha verde),5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,314
+2729,Erva-mate (folha verde),5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,229
+2729,Erva-mate (folha verde),5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,1313
+2729,Erva-mate (folha verde),5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,5734
+2729,Erva-mate (folha verde),5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,550
+2730,Figo,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2730,Figo,1,Norte,2015,2015,216,Área colhida,1006,Hectares,-
+2730,Figo,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2730,Figo,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2730,Figo,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,-
+2730,Figo,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2730,Figo,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,-
+2730,Figo,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2730,Figo,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2730,Figo,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2730,Figo,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,1075
+2730,Figo,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,1075
+2730,Figo,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,16347
+2730,Figo,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,15207
+2730,Figo,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,54347
+2730,Figo,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,1774
+2730,Figo,4,Sul,2015,2015,216,Área colhida,1006,Hectares,1774
+2730,Figo,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,12710
+2730,Figo,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,7165
+2730,Figo,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,27562
+2730,Figo,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,6
+2730,Figo,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,6
+2730,Figo,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,6
+2730,Figo,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1000
+2730,Figo,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,27
+2731,Goiaba,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,584
+2731,Goiaba,1,Norte,2015,2015,216,Área colhida,1006,Hectares,559
+2731,Goiaba,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,6136
+2731,Goiaba,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,10977
+2731,Goiaba,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,7413
+2731,Goiaba,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,9115
+2731,Goiaba,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,9066
+2731,Goiaba,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,207169
+2731,Goiaba,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,22851
+2731,Goiaba,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,235495
+2731,Goiaba,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,6362
+2731,Goiaba,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,6362
+2731,Goiaba,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,179310
+2731,Goiaba,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,28185
+2731,Goiaba,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,170540
+2731,Goiaba,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,1062
+2731,Goiaba,4,Sul,2015,2015,216,Área colhida,1006,Hectares,1052
+2731,Goiaba,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,17143
+2731,Goiaba,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,16296
+2731,Goiaba,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,39325
+2731,Goiaba,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,565
+2731,Goiaba,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,564
+2731,Goiaba,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,14547
+2731,Goiaba,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,25793
+2731,Goiaba,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,24035
+2732,Guaraná (semente),1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,4320
+2732,Guaraná (semente),1,Norte,2015,2015,216,Área colhida,1006,Hectares,4300
+2732,Guaraná (semente),1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,714
+2732,Guaraná (semente),1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,166
+2732,Guaraná (semente),1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,14852
+2732,Guaraná (semente),2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,6736
+2732,Guaraná (semente),2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,6736
+2732,Guaraná (semente),2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,2694
+2732,Guaraná (semente),2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,400
+2732,Guaraná (semente),2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,20156
+2732,Guaraná (semente),3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2732,Guaraná (semente),3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,-
+2732,Guaraná (semente),3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2732,Guaraná (semente),3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2732,Guaraná (semente),3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2732,Guaraná (semente),4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2732,Guaraná (semente),4,Sul,2015,2015,216,Área colhida,1006,Hectares,-
+2732,Guaraná (semente),4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2732,Guaraná (semente),4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2732,Guaraná (semente),4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,-
+2732,Guaraná (semente),5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,325
+2732,Guaraná (semente),5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,325
+2732,Guaraná (semente),5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,188
+2732,Guaraná (semente),5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,578
+2732,Guaraná (semente),5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,2807
+2733,Laranja,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,19949
+2733,Laranja,1,Norte,2015,2015,216,Área colhida,1006,Hectares,19801
+2733,Laranja,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,307910
+2733,Laranja,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,15550
+2733,Laranja,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,310668
+2733,Laranja,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,121410
+2733,Laranja,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,119516
+2733,Laranja,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,1600489
+2733,Laranja,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,13391
+2733,Laranja,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,494163
+2733,Laranja,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,464009
+2733,Laranja,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,463736
+2733,Laranja,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,13357098
+2733,Laranja,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,28803
+2733,Laranja,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,4173987
+2733,Laranja,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,53802
+2733,Laranja,4,Sul,2015,2015,216,Área colhida,1006,Hectares,53319
+2733,Laranja,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,1307470
+2733,Laranja,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,24522
+2733,Laranja,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,577661
+2733,Laranja,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,9019
+2733,Laranja,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,8802
+2733,Laranja,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,173280
+2733,Laranja,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,19686
+2733,Laranja,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,78934
+2734,Limão,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,4021
+2734,Limão,1,Norte,2015,2015,216,Área colhida,1006,Hectares,3956
+2734,Limão,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,51747
+2734,Limão,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,13081
+2734,Limão,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,58571
+2734,Limão,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,9461
+2734,Limão,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,9460
+2734,Limão,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,159119
+2734,Limão,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,16820
+2734,Limão,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,96991
+2734,Limão,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,30671
+2734,Limão,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,29561
+2734,Limão,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,923170
+2734,Limão,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,31229
+2734,Limão,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,642134
+2734,Limão,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,2316
+2734,Limão,4,Sul,2015,2015,216,Área colhida,1006,Hectares,2274
+2734,Limão,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,32043
+2734,Limão,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,14091
+2734,Limão,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,33984
+2734,Limão,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,922
+2734,Limão,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,827
+2734,Limão,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,14192
+2734,Limão,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,17161
+2734,Limão,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,15350
+2735,Maçã,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2735,Maçã,1,Norte,2015,2015,216,Área colhida,1006,Hectares,-
+2735,Maçã,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2735,Maçã,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2735,Maçã,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,-
+2735,Maçã,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,43
+2735,Maçã,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,43
+2735,Maçã,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,870
+2735,Maçã,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,20233
+2735,Maçã,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,1046
+2735,Maçã,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,371
+2735,Maçã,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,371
+2735,Maçã,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,10492
+2735,Maçã,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,28280
+2735,Maçã,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,24256
+2735,Maçã,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,35458
+2735,Maçã,4,Sul,2015,2015,216,Área colhida,1006,Hectares,35428
+2735,Maçã,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,1253289
+2735,Maçã,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,35376
+2735,Maçã,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,1286565
+2735,Maçã,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2735,Maçã,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,-
+2735,Maçã,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2735,Maçã,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2735,Maçã,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2736,Mamão,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,3309
+2736,Mamão,1,Norte,2015,2015,216,Área colhida,1006,Hectares,3266
+2736,Mamão,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,56362
+2736,Mamão,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,17257
+2736,Mamão,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,77966
+2736,Mamão,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,17313
+2736,Mamão,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,17270
+2736,Mamão,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,939505
+2736,Mamão,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,54401
+2736,Mamão,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,712539
+2736,Mamão,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,9269
+2736,Mamão,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,9209
+2736,Mamão,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,458235
+2736,Mamão,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,49759
+2736,Mamão,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,361622
+2736,Mamão,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,267
+2736,Mamão,4,Sul,2015,2015,216,Área colhida,1006,Hectares,267
+2736,Mamão,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,3067
+2736,Mamão,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,11487
+2736,Mamão,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,4996
+2736,Mamão,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,287
+2736,Mamão,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,273
+2736,Mamão,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,6601
+2736,Mamão,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,24179
+2736,Mamão,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,7749
+2737,Manga,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,327
+2737,Manga,1,Norte,2015,2015,216,Área colhida,1006,Hectares,316
+2737,Manga,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,2293
+2737,Manga,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,7256
+2737,Manga,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,1154
+2737,Manga,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,45238
+2737,Manga,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,45142
+2737,Manga,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,654493
+2737,Manga,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,14499
+2737,Manga,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,529608
+2737,Manga,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,17896
+2737,Manga,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,17896
+2737,Manga,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,307455
+2737,Manga,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,17180
+2737,Manga,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,294012
+2737,Manga,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,626
+2737,Manga,4,Sul,2015,2015,216,Área colhida,1006,Hectares,626
+2737,Manga,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,8009
+2737,Manga,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,12794
+2737,Manga,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,11063
+2737,Manga,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,325
+2737,Manga,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,325
+2737,Manga,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,4565
+2737,Manga,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,14046
+2737,Manga,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,5288
+2738,Maracujá,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,5165
+2738,Maracujá,1,Norte,2015,2015,216,Área colhida,1006,Hectares,5032
+2738,Maracujá,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,71385
+2738,Maracujá,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,14186
+2738,Maracujá,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,134420
+2738,Maracujá,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,36501
+2738,Maracujá,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,36308
+2738,Maracujá,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,450783
+2738,Maracujá,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,12416
+2738,Maracujá,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,501062
+2738,Maracujá,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,5622
+2738,Maracujá,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,5605
+2738,Maracujá,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,105309
+2738,Maracujá,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,18788
+2738,Maracujá,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,174938
+2738,Maracujá,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,2764
+2738,Maracujá,4,Sul,2015,2015,216,Área colhida,1006,Hectares,2764
+2738,Maracujá,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,45890
+2738,Maracujá,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,16603
+2738,Maracujá,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,68060
+2738,Maracujá,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,1135
+2738,Maracujá,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,1128
+2738,Maracujá,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,21172
+2738,Maracujá,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,18770
+2738,Maracujá,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,42794
+2739,Marmelo,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2739,Marmelo,1,Norte,2015,2015,216,Área colhida,1006,Hectares,-
+2739,Marmelo,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2739,Marmelo,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2739,Marmelo,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,-
+2739,Marmelo,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,4
+2739,Marmelo,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,4
+2739,Marmelo,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,17
+2739,Marmelo,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,4250
+2739,Marmelo,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,45
+2739,Marmelo,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,72
+2739,Marmelo,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,72
+2739,Marmelo,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,468
+2739,Marmelo,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,6500
+2739,Marmelo,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,593
+2739,Marmelo,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,18
+2739,Marmelo,4,Sul,2015,2015,216,Área colhida,1006,Hectares,18
+2739,Marmelo,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,123
+2739,Marmelo,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,6833
+2739,Marmelo,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,162
+2739,Marmelo,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,22
+2739,Marmelo,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,22
+2739,Marmelo,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,233
+2739,Marmelo,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,10591
+2739,Marmelo,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,361
+2740,Noz (fruto seco),1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2740,Noz (fruto seco),1,Norte,2015,2015,216,Área colhida,1006,Hectares,-
+2740,Noz (fruto seco),1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2740,Noz (fruto seco),1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2740,Noz (fruto seco),1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,-
+2740,Noz (fruto seco),2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2740,Noz (fruto seco),2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,-
+2740,Noz (fruto seco),2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2740,Noz (fruto seco),2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2740,Noz (fruto seco),2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2740,Noz (fruto seco),3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,817
+2740,Noz (fruto seco),3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,817
+2740,Noz (fruto seco),3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,1063
+2740,Noz (fruto seco),3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1301
+2740,Noz (fruto seco),3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,5245
+2740,Noz (fruto seco),4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,2319
+2740,Noz (fruto seco),4,Sul,2015,2015,216,Área colhida,1006,Hectares,2312
+2740,Noz (fruto seco),4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,4138
+2740,Noz (fruto seco),4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1790
+2740,Noz (fruto seco),4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,26311
+2740,Noz (fruto seco),5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2740,Noz (fruto seco),5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,-
+2740,Noz (fruto seco),5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2740,Noz (fruto seco),5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2740,Noz (fruto seco),5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+90001,Palmito,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,1546
+90001,Palmito,1,Norte,2015,2015,216,Área colhida,1006,Hectares,1461
+90001,Palmito,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,1952
+90001,Palmito,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1336
+90001,Palmito,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,4898
+90001,Palmito,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,4730
+90001,Palmito,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,4705
+90001,Palmito,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,29860
+90001,Palmito,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,6346
+90001,Palmito,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,17197
+90001,Palmito,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,8772
+90001,Palmito,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,8761
+90001,Palmito,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,27742
+90001,Palmito,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,3167
+90001,Palmito,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,62682
+90001,Palmito,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,5296
+90001,Palmito,4,Sul,2015,2015,216,Área colhida,1006,Hectares,5296
+90001,Palmito,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,28335
+90001,Palmito,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,5350
+90001,Palmito,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,95187
+90001,Palmito,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,2193
+90001,Palmito,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,2193
+90001,Palmito,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,21520
+90001,Palmito,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,9813
+90001,Palmito,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,32102
+2741,Pera,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2741,Pera,1,Norte,2015,2015,216,Área colhida,1006,Hectares,-
+2741,Pera,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2741,Pera,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2741,Pera,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,-
+2741,Pera,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2741,Pera,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,-
+2741,Pera,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2741,Pera,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2741,Pera,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2741,Pera,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,82
+2741,Pera,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,82
+2741,Pera,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,810
+2741,Pera,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,9878
+2741,Pera,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,1526
+2741,Pera,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,1371
+2741,Pera,4,Sul,2015,2015,216,Área colhida,1006,Hectares,1371
+2741,Pera,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,20350
+2741,Pera,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,14843
+2741,Pera,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,37278
+2741,Pera,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2741,Pera,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,-
+2741,Pera,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2741,Pera,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2741,Pera,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2742,Pêssego,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2742,Pêssego,1,Norte,2015,2015,216,Área colhida,1006,Hectares,-
+2742,Pêssego,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2742,Pêssego,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2742,Pêssego,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,-
+2742,Pêssego,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2742,Pêssego,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,-
+2742,Pêssego,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2742,Pêssego,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2742,Pêssego,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2742,Pêssego,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,2339
+2742,Pêssego,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,2339
+2742,Pêssego,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,55112
+2742,Pêssego,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,23562
+2742,Pêssego,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,135248
+2742,Pêssego,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,15112
+2742,Pêssego,4,Sul,2015,2015,216,Área colhida,1006,Hectares,15097
+2742,Pêssego,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,161129
+2742,Pêssego,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,10673
+2742,Pêssego,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,259520
+2742,Pêssego,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2742,Pêssego,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,-
+2742,Pêssego,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2742,Pêssego,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2742,Pêssego,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2743,Pimenta-do-reino,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,16222
+2743,Pimenta-do-reino,1,Norte,2015,2015,216,Área colhida,1006,Hectares,15959
+2743,Pimenta-do-reino,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,32551
+2743,Pimenta-do-reino,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,2040
+2743,Pimenta-do-reino,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,847727
+2743,Pimenta-do-reino,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,2116
+2743,Pimenta-do-reino,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,2106
+2743,Pimenta-do-reino,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,5265
+2743,Pimenta-do-reino,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,2500
+2743,Pimenta-do-reino,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,65677
+2743,Pimenta-do-reino,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,4023
+2743,Pimenta-do-reino,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,4017
+2743,Pimenta-do-reino,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,13900
+2743,Pimenta-do-reino,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,3460
+2743,Pimenta-do-reino,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,354795
+2743,Pimenta-do-reino,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,1
+2743,Pimenta-do-reino,4,Sul,2015,2015,216,Área colhida,1006,Hectares,1
+2743,Pimenta-do-reino,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,9
+2743,Pimenta-do-reino,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,9000
+2743,Pimenta-do-reino,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,41
+2743,Pimenta-do-reino,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,22
+2743,Pimenta-do-reino,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,22
+2743,Pimenta-do-reino,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,14
+2743,Pimenta-do-reino,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,636
+2743,Pimenta-do-reino,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,148
+2744,Sisal ou agave (fibra),1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2744,Sisal ou agave (fibra),1,Norte,2015,2015,216,Área colhida,1006,Hectares,-
+2744,Sisal ou agave (fibra),1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2744,Sisal ou agave (fibra),1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2744,Sisal ou agave (fibra),1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,-
+2744,Sisal ou agave (fibra),2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,197758
+2744,Sisal ou agave (fibra),2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,197748
+2744,Sisal ou agave (fibra),2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,183560
+2744,Sisal ou agave (fibra),2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,928
+2744,Sisal ou agave (fibra),2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,349289
+2744,Sisal ou agave (fibra),3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2744,Sisal ou agave (fibra),3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,-
+2744,Sisal ou agave (fibra),3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2744,Sisal ou agave (fibra),3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2744,Sisal ou agave (fibra),3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2744,Sisal ou agave (fibra),4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2744,Sisal ou agave (fibra),4,Sul,2015,2015,216,Área colhida,1006,Hectares,-
+2744,Sisal ou agave (fibra),4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2744,Sisal ou agave (fibra),4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2744,Sisal ou agave (fibra),4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,-
+2744,Sisal ou agave (fibra),5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2744,Sisal ou agave (fibra),5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,-
+2744,Sisal ou agave (fibra),5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2744,Sisal ou agave (fibra),5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2744,Sisal ou agave (fibra),5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2745,Tangerina,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,506
+2745,Tangerina,1,Norte,2015,2015,216,Área colhida,1006,Hectares,505
+2745,Tangerina,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,5519
+2745,Tangerina,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,10929
+2745,Tangerina,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,5702
+2745,Tangerina,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,3640
+2745,Tangerina,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,3639
+2745,Tangerina,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,36866
+2745,Tangerina,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,10131
+2745,Tangerina,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,22640
+2745,Tangerina,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,22013
+2745,Tangerina,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,22013
+2745,Tangerina,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,620049
+2745,Tangerina,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,28167
+2745,Tangerina,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,425477
+2745,Tangerina,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,23623
+2745,Tangerina,4,Sul,2015,2015,216,Área colhida,1006,Hectares,21675
+2745,Tangerina,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,316998
+2745,Tangerina,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,14625
+2745,Tangerina,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,287350
+2745,Tangerina,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,1154
+2745,Tangerina,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,1143
+2745,Tangerina,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,20254
+2745,Tangerina,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,17720
+2745,Tangerina,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,12383
+2746,Tungue (fruto seco),1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2746,Tungue (fruto seco),1,Norte,2015,2015,216,Área colhida,1006,Hectares,-
+2746,Tungue (fruto seco),1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2746,Tungue (fruto seco),1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2746,Tungue (fruto seco),1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,-
+2746,Tungue (fruto seco),2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2746,Tungue (fruto seco),2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,-
+2746,Tungue (fruto seco),2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2746,Tungue (fruto seco),2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2746,Tungue (fruto seco),2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2746,Tungue (fruto seco),3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2746,Tungue (fruto seco),3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,-
+2746,Tungue (fruto seco),3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2746,Tungue (fruto seco),3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2746,Tungue (fruto seco),3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2746,Tungue (fruto seco),4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,80
+2746,Tungue (fruto seco),4,Sul,2015,2015,216,Área colhida,1006,Hectares,80
+2746,Tungue (fruto seco),4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,609
+2746,Tungue (fruto seco),4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,7613
+2746,Tungue (fruto seco),4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,292
+2746,Tungue (fruto seco),5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,-
+2746,Tungue (fruto seco),5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,-
+2746,Tungue (fruto seco),5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,-
+2746,Tungue (fruto seco),5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2746,Tungue (fruto seco),5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,-
+2747,Urucum (semente),1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,4278
+2747,Urucum (semente),1,Norte,2015,2015,216,Área colhida,1006,Hectares,4105
+2747,Urucum (semente),1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,4893
+2747,Urucum (semente),1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1192
+2747,Urucum (semente),1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,17030
+2747,Urucum (semente),2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,2253
+2747,Urucum (semente),2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,2253
+2747,Urucum (semente),2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,2370
+2747,Urucum (semente),2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1052
+2747,Urucum (semente),2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,6732
+2747,Urucum (semente),3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,3582
+2747,Urucum (semente),3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,3582
+2747,Urucum (semente),3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,5001
+2747,Urucum (semente),3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1396
+2747,Urucum (semente),3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,23576
+2747,Urucum (semente),4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,1002
+2747,Urucum (semente),4,Sul,2015,2015,216,Área colhida,1006,Hectares,1002
+2747,Urucum (semente),4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,1300
+2747,Urucum (semente),4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1297
+2747,Urucum (semente),4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,4001
+2747,Urucum (semente),5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,835
+2747,Urucum (semente),5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,835
+2747,Urucum (semente),5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,856
+2747,Urucum (semente),5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,1025
+2747,Urucum (semente),5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,4571
+2748,Uva,1,Norte,2015,2015,2313,Área destinada à colheita,1006,Hectares,27
+2748,Uva,1,Norte,2015,2015,216,Área colhida,1006,Hectares,27
+2748,Uva,1,Norte,2015,2015,214,Quantidade produzida,1017,Toneladas,197
+2748,Uva,1,Norte,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,7296
+2748,Uva,1,Norte,2015,2015,215,Valor da produção,40,Mil Reais,813
+2748,Uva,2,Nordeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,9842
+2748,Uva,2,Nordeste,2015,2015,216,Área colhida,1006,Hectares,9842
+2748,Uva,2,Nordeste,2015,2015,214,Quantidade produzida,1017,Toneladas,318079
+2748,Uva,2,Nordeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,32319
+2748,Uva,2,Nordeste,2015,2015,215,Valor da produção,40,Mil Reais,757183
+2748,Uva,3,Sudeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,8814
+2748,Uva,3,Sudeste,2015,2015,216,Área colhida,1006,Hectares,8814
+2748,Uva,3,Sudeste,2015,2015,214,Quantidade produzida,1017,Toneladas,157674
+2748,Uva,3,Sudeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,17889
+2748,Uva,3,Sudeste,2015,2015,215,Valor da produção,40,Mil Reais,453527
+2748,Uva,4,Sul,2015,2015,2313,Área destinada à colheita,1006,Hectares,59050
+2748,Uva,4,Sul,2015,2015,216,Área colhida,1006,Hectares,59035
+2748,Uva,4,Sul,2015,2015,214,Quantidade produzida,1017,Toneladas,1014368
+2748,Uva,4,Sul,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,17182
+2748,Uva,4,Sul,2015,2015,215,Valor da produção,40,Mil Reais,1091586
+2748,Uva,5,Centro-Oeste,2015,2015,2313,Área destinada à colheita,1006,Hectares,293
+2748,Uva,5,Centro-Oeste,2015,2015,216,Área colhida,1006,Hectares,293
+2748,Uva,5,Centro-Oeste,2015,2015,214,Quantidade produzida,1017,Toneladas,6984
+2748,Uva,5,Centro-Oeste,2015,2015,112,Rendimento médio da produção,33,Quilogramas por Hectare,23836
+2748,Uva,5,Centro-Oeste,2015,2015,215,Valor da produção,40,Mil Reais,19887
