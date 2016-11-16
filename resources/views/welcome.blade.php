@@ -83,7 +83,7 @@
                         <div class="form-group">
                             <div class="col-md-1">
                                 <div class="col-md-5">
-                                    <input id="choose-file" type="file" name="import_file" class="filestyle form-control" data-input="false" data-buttonText="Escolher Arquivos"/>
+                                    <input id="choose-file" type="file" name="import_file[]" multiple class="filestyle form-control" data-input="false" data-buttonText="Escolher Arquivos"/>
                                     <button class="btn btn-primary ">Importar Arquivos</button>
                                 </div>
                             </div>
@@ -122,6 +122,9 @@
             //
             //var apiURL = "http://www.sidra.ibge.gov.br/api/values/h/n/t/" + tabelaSidra + "/c" + classificacaoLavouraSidra + "/allxt/n3/all/p/last/v/214";
             var apiURL = "https://crossorigin.me/http://www.sidra.ibge.gov.br/api/values/h/n/t/" + tabelaSidra + "/c" + classificacaoLavouraSidra + "/allxt/n3/all/p/1992/v/allxp";
+            //ROTA PRA PEGAR TODAS AS CIDADES DE UMA UF
+            //https://crossorigin.me/http://www.sidra.ibge.gov.br/api/values/h/n/t/1612/n6/in%20n3%2012/p/last/v/214/c81/all
+            //http://codebeautify.org/json-to-csv
 
             $.ajax({
                 url: apiURL,

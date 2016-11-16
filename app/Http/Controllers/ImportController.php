@@ -17,14 +17,15 @@ class ImportController extends Controller
 
     public function Import(Request $request)
     {
-        $file  = Input::file('import_file');
+        $files  = Input::file('import_file');
         $products = [];
         $regions = [];
         $product_region_type =[];
         $products_region =[];
         // $counter=0;
         set_time_limit(0);
-            if(isset($file)){
+            if(isset($files)){
+                foreach($files as $file){
                 $path = $file->getRealPath();
                 $data =  Excel::load($path, function($reader) {
                     })->get();
@@ -38,7 +39,7 @@ class ImportController extends Controller
                                 //usado para popular tabela relacionamento
                                 if(sizeof($products)<4){
                                     array_push($products,intval($value->v));
-                              }
+                                }
                                 else{
                                     $product_region_type = ['product_code' => intval($value->d1c), 'region_code' => intval($value->d2c), 'type_code' => 81, 'year' => intval($value->d3c), 'planted_area' => $products[0], 'harvested_area' => $products[1], 'production' => $products[2], 'value' => $products[3], 'yield' => intval($value->v)];
 
@@ -48,13 +49,15 @@ class ImportController extends Controller
 
                                 //fim
                             }
-
-                            dd('foi');
                             // $products = $this->arrayUnique($products);
                             // $regions = $this->arrayUnique($regions);
+                            // dd($regions,$products);
                            // Product::insert($products);
                            // Region::insert($regions);
                         }
+                    }
+                    dd('foi');
+
             }
 
 
