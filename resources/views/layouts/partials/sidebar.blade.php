@@ -28,6 +28,13 @@
           </a>
         </li>
 
+        <li>
+          <a href="{{ route('product-region-type.create') }}">
+            <i class="fa fa-plus fa-fw"></i>
+            <span>Registrar Produção</span>
+          </a>
+        </li>
+
         <li class="treeview">
           <a href="#">
             <i class="fa fa-home fa-fw"></i> <span>Lavrouras</span>
