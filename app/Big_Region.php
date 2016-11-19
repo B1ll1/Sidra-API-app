@@ -12,6 +12,8 @@ class Big_Region extends Model
     *
     * @var array
     */
+   protected $table = 'big_regions';
+
     protected $fillable = [
       'code', 'name'
     ];

@@ -1,0 +1,776 @@
+D1C,D1N,D2C,D2N,D3C,D3N,D4C,D4N,MC,MN,V
+2688,Abacaxi,1,Norte,2014,2014,109,Área plantada,1006,Hectares,18208
+2688,Abacaxi,1,Norte,2014,2014,216,Área colhida,1006,Hectares,18087
+2688,Abacaxi,1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,457321
+2688,Abacaxi,1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,25285
+2688,Abacaxi,1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,467572
+2688,Abacaxi,2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,24974
+2688,Abacaxi,2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,24974
+2688,Abacaxi,2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,697292
+2688,Abacaxi,2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,27921
+2688,Abacaxi,2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,669012
+2688,Abacaxi,3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,18213
+2688,Abacaxi,3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,18211
+2688,Abacaxi,3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,494194
+2688,Abacaxi,3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,27137
+2688,Abacaxi,3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,602827
+2688,Abacaxi,4,Sul,2014,2014,109,Área plantada,1006,Hectares,727
+2688,Abacaxi,4,Sul,2014,2014,216,Área colhida,1006,Hectares,726
+2688,Abacaxi,4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,14719
+2688,Abacaxi,4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,20274
+2688,Abacaxi,4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,17055
+2688,Abacaxi,5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,4601
+2688,Abacaxi,5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,4601
+2688,Abacaxi,5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,100636
+2688,Abacaxi,5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,21873
+2688,Abacaxi,5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,126913
+2689,Algodão herbáceo (em caroço),1,Norte,2014,2014,109,Área plantada,1006,Hectares,5220
+2689,Algodão herbáceo (em caroço),1,Norte,2014,2014,216,Área colhida,1006,Hectares,4760
+2689,Algodão herbáceo (em caroço),1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,18556
+2689,Algodão herbáceo (em caroço),1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,3898
+2689,Algodão herbáceo (em caroço),1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,47413
+2689,Algodão herbáceo (em caroço),2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,374294
+2689,Algodão herbáceo (em caroço),2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,372953
+2689,Algodão herbáceo (em caroço),2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,1288308
+2689,Algodão herbáceo (em caroço),2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,3454
+2689,Algodão herbáceo (em caroço),2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,3311389
+2689,Algodão herbáceo (em caroço),3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,32724
+2689,Algodão herbáceo (em caroço),3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,32661
+2689,Algodão herbáceo (em caroço),3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,113211
+2689,Algodão herbáceo (em caroço),3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,3466
+2689,Algodão herbáceo (em caroço),3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,162683
+2689,Algodão herbáceo (em caroço),4,Sul,2014,2014,109,Área plantada,1006,Hectares,-
+2689,Algodão herbáceo (em caroço),4,Sul,2014,2014,216,Área colhida,1006,Hectares,-
+2689,Algodão herbáceo (em caroço),4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2689,Algodão herbáceo (em caroço),4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2689,Algodão herbáceo (em caroço),4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,-
+2689,Algodão herbáceo (em caroço),5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,719025
+2689,Algodão herbáceo (em caroço),5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,719025
+2689,Algodão herbáceo (em caroço),5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,2816688
+2689,Algodão herbáceo (em caroço),5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,3917
+2689,Algodão herbáceo (em caroço),5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,4608890
+2690,Alho,1,Norte,2014,2014,109,Área plantada,1006,Hectares,-
+2690,Alho,1,Norte,2014,2014,216,Área colhida,1006,Hectares,-
+2690,Alho,1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2690,Alho,1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2690,Alho,1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,-
+2690,Alho,2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,615
+2690,Alho,2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,615
+2690,Alho,2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,6944
+2690,Alho,2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,11291
+2690,Alho,2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,40060
+2690,Alho,3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,1650
+2690,Alho,3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,1650
+2690,Alho,3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,22090
+2690,Alho,3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,13388
+2690,Alho,3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,128463
+2690,Alho,4,Sul,2014,2014,109,Área plantada,1006,Hectares,4771
+2690,Alho,4,Sul,2014,2014,216,Área colhida,1006,Hectares,4771
+2690,Alho,4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,40205
+2690,Alho,4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,8427
+2690,Alho,4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,212351
+2690,Alho,5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,2602
+2690,Alho,5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,2602
+2690,Alho,5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,24530
+2690,Alho,5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,9427
+2690,Alho,5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,104473
+2691,Amendoim (em casca),1,Norte,2014,2014,109,Área plantada,1006,Hectares,1002
+2691,Amendoim (em casca),1,Norte,2014,2014,216,Área colhida,1006,Hectares,1002
+2691,Amendoim (em casca),1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,2105
+2691,Amendoim (em casca),1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,2101
+2691,Amendoim (em casca),1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,3695
+2691,Amendoim (em casca),2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,8638
+2691,Amendoim (em casca),2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,8635
+2691,Amendoim (em casca),2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,9617
+2691,Amendoim (em casca),2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,1114
+2691,Amendoim (em casca),2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,13731
+2691,Amendoim (em casca),3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,126891
+2691,Amendoim (em casca),3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,126165
+2691,Amendoim (em casca),3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,375396
+2691,Amendoim (em casca),3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,2975
+2691,Amendoim (em casca),3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,459429
+2691,Amendoim (em casca),4,Sul,2014,2014,109,Área plantada,1006,Hectares,5605
+2691,Amendoim (em casca),4,Sul,2014,2014,216,Área colhida,1006,Hectares,5603
+2691,Amendoim (em casca),4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,11233
+2691,Amendoim (em casca),4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,2005
+2691,Amendoim (em casca),4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,30144
+2691,Amendoim (em casca),5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,1547
+2691,Amendoim (em casca),5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,1547
+2691,Amendoim (em casca),5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,4275
+2691,Amendoim (em casca),5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,2763
+2691,Amendoim (em casca),5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,5707
+2692,Arroz (em casca),1,Norte,2014,2014,109,Área plantada,1006,Hectares,260775
+2692,Arroz (em casca),1,Norte,2014,2014,216,Área colhida,1006,Hectares,259382
+2692,Arroz (em casca),1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,933330
+2692,Arroz (em casca),1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,3598
+2692,Arroz (em casca),1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,617672
+2692,Arroz (em casca),2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,530523
+2692,Arroz (em casca),2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,528293
+2692,Arroz (em casca),2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,847918
+2692,Arroz (em casca),2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,1605
+2692,Arroz (em casca),2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,606358
+2692,Arroz (em casca),3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,34440
+2692,Arroz (em casca),3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,32844
+2692,Arroz (em casca),3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,102717
+2692,Arroz (em casca),3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,3127
+2692,Arroz (em casca),3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,78451
+2692,Arroz (em casca),4,Sul,2014,2014,109,Área plantada,1006,Hectares,1293518
+2692,Arroz (em casca),4,Sul,2014,2014,216,Área colhida,1006,Hectares,1292460
+2692,Arroz (em casca),4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,9489237
+2692,Arroz (em casca),4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,7342
+2692,Arroz (em casca),4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,6543925
+2692,Arroz (em casca),5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,228204
+2692,Arroz (em casca),5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,227899
+2692,Arroz (em casca),5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,802400
+2692,Arroz (em casca),5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,3521
+2692,Arroz (em casca),5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,519280
+2693,Aveia (em grão),1,Norte,2014,2014,109,Área plantada,1006,Hectares,-
+2693,Aveia (em grão),1,Norte,2014,2014,216,Área colhida,1006,Hectares,-
+2693,Aveia (em grão),1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2693,Aveia (em grão),1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2693,Aveia (em grão),1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,-
+2693,Aveia (em grão),2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,-
+2693,Aveia (em grão),2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,-
+2693,Aveia (em grão),2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2693,Aveia (em grão),2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2693,Aveia (em grão),2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+2693,Aveia (em grão),3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,3329
+2693,Aveia (em grão),3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,3329
+2693,Aveia (em grão),3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,7212
+2693,Aveia (em grão),3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,2166
+2693,Aveia (em grão),3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,2428
+2693,Aveia (em grão),4,Sul,2014,2014,109,Área plantada,1006,Hectares,218985
+2693,Aveia (em grão),4,Sul,2014,2014,216,Área colhida,1006,Hectares,218036
+2693,Aveia (em grão),4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,399544
+2693,Aveia (em grão),4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,1832
+2693,Aveia (em grão),4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,153864
+2693,Aveia (em grão),5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,17100
+2693,Aveia (em grão),5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,17100
+2693,Aveia (em grão),5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,25380
+2693,Aveia (em grão),5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,1484
+2693,Aveia (em grão),5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,13286
+2694,Batata-doce,1,Norte,2014,2014,109,Área plantada,1006,Hectares,546
+2694,Batata-doce,1,Norte,2014,2014,216,Área colhida,1006,Hectares,538
+2694,Batata-doce,1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,6100
+2694,Batata-doce,1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,11338
+2694,Batata-doce,1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,8839
+2694,Batata-doce,2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,16599
+2694,Batata-doce,2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,15938
+2694,Batata-doce,2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,150257
+2694,Batata-doce,2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,9428
+2694,Batata-doce,2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,131139
+2694,Batata-doce,3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,7079
+2694,Batata-doce,3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,7075
+2694,Batata-doce,3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,120306
+2694,Batata-doce,3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,17004
+2694,Batata-doce,3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,96974
+2694,Batata-doce,4,Sul,2014,2014,109,Área plantada,1006,Hectares,15723
+2694,Batata-doce,4,Sul,2014,2014,216,Área colhida,1006,Hectares,15723
+2694,Batata-doce,4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,233515
+2694,Batata-doce,4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,14852
+2694,Batata-doce,4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,264057
+2694,Batata-doce,5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,436
+2694,Batata-doce,5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,431
+2694,Batata-doce,5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,15636
+2694,Batata-doce,5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,36278
+2694,Batata-doce,5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,25075
+2695,Batata-inglesa,1,Norte,2014,2014,109,Área plantada,1006,Hectares,-
+2695,Batata-inglesa,1,Norte,2014,2014,216,Área colhida,1006,Hectares,-
+2695,Batata-inglesa,1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2695,Batata-inglesa,1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2695,Batata-inglesa,1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,-
+2695,Batata-inglesa,2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,6780
+2695,Batata-inglesa,2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,6770
+2695,Batata-inglesa,2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,283703
+2695,Batata-inglesa,2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,41906
+2695,Batata-inglesa,2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,361855
+2695,Batata-inglesa,3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,63518
+2695,Batata-inglesa,3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,63517
+2695,Batata-inglesa,3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,1896770
+2695,Batata-inglesa,3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,29862
+2695,Batata-inglesa,3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,1613744
+2695,Batata-inglesa,4,Sul,2014,2014,109,Área plantada,1006,Hectares,53726
+2695,Batata-inglesa,4,Sul,2014,2014,216,Área colhida,1006,Hectares,53718
+2695,Batata-inglesa,4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,1323964
+2695,Batata-inglesa,4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,24647
+2695,Batata-inglesa,4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,1158362
+2695,Batata-inglesa,5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,8053
+2695,Batata-inglesa,5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,8053
+2695,Batata-inglesa,5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,185399
+2695,Batata-inglesa,5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,23022
+2695,Batata-inglesa,5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,101733
+2696,Cana-de-açúcar,1,Norte,2014,2014,109,Área plantada,1006,Hectares,62896
+2696,Cana-de-açúcar,1,Norte,2014,2014,216,Área colhida,1006,Hectares,62756
+2696,Cana-de-açúcar,1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,4560528
+2696,Cana-de-açúcar,1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,72671
+2696,Cana-de-açúcar,1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,464729
+2696,Cana-de-açúcar,2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,1169770
+2696,Cana-de-açúcar,2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,1162403
+2696,Cana-de-açúcar,2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,67450769
+2696,Cana-de-açúcar,2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,58027
+2696,Cana-de-açúcar,2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,5432733
+2696,Cana-de-açúcar,3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,6685058
+2696,Cana-de-açúcar,3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,6667584
+2696,Cana-de-açúcar,3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,481277697
+2696,Cana-de-açúcar,3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,72182
+2696,Cana-de-açúcar,3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,25771258
+2696,Cana-de-açúcar,4,Sul,2014,2014,109,Área plantada,1006,Hectares,717191
+2696,Cana-de-açúcar,4,Sul,2014,2014,216,Área colhida,1006,Hectares,715698
+2696,Cana-de-açúcar,4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,49554465
+2696,Cana-de-açúcar,4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,69239
+2696,Cana-de-açúcar,4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,2674857
+2696,Cana-de-açúcar,5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,1819365
+2696,Cana-de-açúcar,5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,1811237
+2696,Cana-de-açúcar,5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,133265028
+2696,Cana-de-açúcar,5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,73577
+2696,Cana-de-açúcar,5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,7784910
+2697,Cebola,1,Norte,2014,2014,109,Área plantada,1006,Hectares,-
+2697,Cebola,1,Norte,2014,2014,216,Área colhida,1006,Hectares,-
+2697,Cebola,1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2697,Cebola,1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2697,Cebola,1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,-
+2697,Cebola,2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,12914
+2697,Cebola,2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,12449
+2697,Cebola,2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,381382
+2697,Cebola,2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,30636
+2697,Cebola,2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,346820
+2697,Cebola,3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,9361
+2697,Cebola,3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,9226
+2697,Cebola,3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,390158
+2697,Cebola,3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,42289
+2697,Cebola,3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,339432
+2697,Cebola,4,Sul,2014,2014,109,Área plantada,1006,Hectares,35000
+2697,Cebola,4,Sul,2014,2014,216,Área colhida,1006,Hectares,34960
+2697,Cebola,4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,780688
+2697,Cebola,4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,22331
+2697,Cebola,4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,576394
+2697,Cebola,5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,2555
+2697,Cebola,5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,2555
+2697,Cebola,5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,94270
+2697,Cebola,5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,36896
+2697,Cebola,5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,77861
+2698,Centeio (em grão),1,Norte,2014,2014,109,Área plantada,1006,Hectares,-
+2698,Centeio (em grão),1,Norte,2014,2014,216,Área colhida,1006,Hectares,-
+2698,Centeio (em grão),1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2698,Centeio (em grão),1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2698,Centeio (em grão),1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,-
+2698,Centeio (em grão),2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,-
+2698,Centeio (em grão),2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,-
+2698,Centeio (em grão),2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2698,Centeio (em grão),2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2698,Centeio (em grão),2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+2698,Centeio (em grão),3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,-
+2698,Centeio (em grão),3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,-
+2698,Centeio (em grão),3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2698,Centeio (em grão),3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2698,Centeio (em grão),3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+2698,Centeio (em grão),4,Sul,2014,2014,109,Área plantada,1006,Hectares,2532
+2698,Centeio (em grão),4,Sul,2014,2014,216,Área colhida,1006,Hectares,2532
+2698,Centeio (em grão),4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,4056
+2698,Centeio (em grão),4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,1602
+2698,Centeio (em grão),4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,1868
+2698,Centeio (em grão),5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,550
+2698,Centeio (em grão),5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,550
+2698,Centeio (em grão),5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,396
+2698,Centeio (em grão),5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,720
+2698,Centeio (em grão),5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,198
+2699,Cevada (em grão),1,Norte,2014,2014,109,Área plantada,1006,Hectares,-
+2699,Cevada (em grão),1,Norte,2014,2014,216,Área colhida,1006,Hectares,-
+2699,Cevada (em grão),1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2699,Cevada (em grão),1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2699,Cevada (em grão),1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,-
+2699,Cevada (em grão),2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,-
+2699,Cevada (em grão),2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,-
+2699,Cevada (em grão),2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2699,Cevada (em grão),2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2699,Cevada (em grão),2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+2699,Cevada (em grão),3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,-
+2699,Cevada (em grão),3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,-
+2699,Cevada (em grão),3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2699,Cevada (em grão),3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2699,Cevada (em grão),3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+2699,Cevada (em grão),4,Sul,2014,2014,109,Área plantada,1006,Hectares,90326
+2699,Cevada (em grão),4,Sul,2014,2014,216,Área colhida,1006,Hectares,89451
+2699,Cevada (em grão),4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,251539
+2699,Cevada (em grão),4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,2812
+2699,Cevada (em grão),4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,134146
+2699,Cevada (em grão),5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,-
+2699,Cevada (em grão),5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,-
+2699,Cevada (em grão),5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2699,Cevada (em grão),5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2699,Cevada (em grão),5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+2700,Ervilha (em grão),1,Norte,2014,2014,109,Área plantada,1006,Hectares,-
+2700,Ervilha (em grão),1,Norte,2014,2014,216,Área colhida,1006,Hectares,-
+2700,Ervilha (em grão),1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2700,Ervilha (em grão),1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2700,Ervilha (em grão),1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,-
+2700,Ervilha (em grão),2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,-
+2700,Ervilha (em grão),2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,-
+2700,Ervilha (em grão),2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2700,Ervilha (em grão),2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2700,Ervilha (em grão),2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+2700,Ervilha (em grão),3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,601
+2700,Ervilha (em grão),3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,601
+2700,Ervilha (em grão),3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,1735
+2700,Ervilha (em grão),3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,2887
+2700,Ervilha (em grão),3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,4645
+2700,Ervilha (em grão),4,Sul,2014,2014,109,Área plantada,1006,Hectares,1107
+2700,Ervilha (em grão),4,Sul,2014,2014,216,Área colhida,1006,Hectares,1107
+2700,Ervilha (em grão),4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,1128
+2700,Ervilha (em grão),4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,1019
+2700,Ervilha (em grão),4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,1704
+2700,Ervilha (em grão),5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,140
+2700,Ervilha (em grão),5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,140
+2700,Ervilha (em grão),5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,829
+2700,Ervilha (em grão),5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,5921
+2700,Ervilha (em grão),5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,1244
+2701,Fava (em grão),1,Norte,2014,2014,109,Área plantada,1006,Hectares,-
+2701,Fava (em grão),1,Norte,2014,2014,216,Área colhida,1006,Hectares,-
+2701,Fava (em grão),1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2701,Fava (em grão),1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2701,Fava (em grão),1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,-
+2701,Fava (em grão),2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,23697
+2701,Fava (em grão),2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,20931
+2701,Fava (em grão),2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,7416
+2701,Fava (em grão),2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,354
+2701,Fava (em grão),2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,61936
+2701,Fava (em grão),3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,915
+2701,Fava (em grão),3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,621
+2701,Fava (em grão),3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,162
+2701,Fava (em grão),3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,261
+2701,Fava (em grão),3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,580
+2701,Fava (em grão),4,Sul,2014,2014,109,Área plantada,1006,Hectares,39
+2701,Fava (em grão),4,Sul,2014,2014,216,Área colhida,1006,Hectares,39
+2701,Fava (em grão),4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,102
+2701,Fava (em grão),4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,2615
+2701,Fava (em grão),4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,529
+2701,Fava (em grão),5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,-
+2701,Fava (em grão),5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,-
+2701,Fava (em grão),5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2701,Fava (em grão),5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2701,Fava (em grão),5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+2702,Feijão (em grão),1,Norte,2014,2014,109,Área plantada,1006,Hectares,94303
+2702,Feijão (em grão),1,Norte,2014,2014,216,Área colhida,1006,Hectares,93055
+2702,Feijão (em grão),1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,72148
+2702,Feijão (em grão),1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,775
+2702,Feijão (em grão),1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,168810
+2702,Feijão (em grão),2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,1736867
+2702,Feijão (em grão),2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,1541226
+2702,Feijão (em grão),2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,674666
+2702,Feijão (em grão),2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,438
+2702,Feijão (em grão),2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,1029246
+2702,Feijão (em grão),3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,502725
+2702,Feijão (em grão),3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,489291
+2702,Feijão (em grão),3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,784292
+2702,Feijão (em grão),3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,1603
+2702,Feijão (em grão),3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,1167341
+2702,Feijão (em grão),4,Sul,2014,2014,109,Área plantada,1006,Hectares,677598
+2702,Feijão (em grão),4,Sul,2014,2014,216,Área colhida,1006,Hectares,673176
+2702,Feijão (em grão),4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,1069559
+2702,Feijão (em grão),4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,1589
+2702,Feijão (em grão),4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,1838627
+2702,Feijão (em grão),5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,389973
+2702,Feijão (em grão),5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,388997
+2702,Feijão (em grão),5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,693921
+2702,Feijão (em grão),5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,1784
+2702,Feijão (em grão),5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,969972
+2703,Fumo (em folha),1,Norte,2014,2014,109,Área plantada,1006,Hectares,230
+2703,Fumo (em folha),1,Norte,2014,2014,216,Área colhida,1006,Hectares,215
+2703,Fumo (em folha),1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,211
+2703,Fumo (em folha),1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,981
+2703,Fumo (em folha),1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,1469
+2703,Fumo (em folha),2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,13155
+2703,Fumo (em folha),2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,13126
+2703,Fumo (em folha),2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,14896
+2703,Fumo (em folha),2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,1135
+2703,Fumo (em folha),2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,36712
+2703,Fumo (em folha),3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,73
+2703,Fumo (em folha),3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,73
+2703,Fumo (em folha),3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,23
+2703,Fumo (em folha),3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,315
+2703,Fumo (em folha),3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,135
+2703,Fumo (em folha),4,Sul,2014,2014,109,Área plantada,1006,Hectares,403210
+2703,Fumo (em folha),4,Sul,2014,2014,216,Área colhida,1006,Hectares,402428
+2703,Fumo (em folha),4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,847266
+2703,Fumo (em folha),4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,2105
+2703,Fumo (em folha),4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,6013991
+2703,Fumo (em folha),5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,-
+2703,Fumo (em folha),5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,-
+2703,Fumo (em folha),5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2703,Fumo (em folha),5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2703,Fumo (em folha),5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+109179,Girassol (em grão),1,Norte,2014,2014,109,Área plantada,1006,Hectares,-
+109179,Girassol (em grão),1,Norte,2014,2014,216,Área colhida,1006,Hectares,-
+109179,Girassol (em grão),1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+109179,Girassol (em grão),1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+109179,Girassol (em grão),1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,-
+109179,Girassol (em grão),2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,-
+109179,Girassol (em grão),2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,-
+109179,Girassol (em grão),2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+109179,Girassol (em grão),2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+109179,Girassol (em grão),2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+109179,Girassol (em grão),3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,11851
+109179,Girassol (em grão),3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,11810
+109179,Girassol (em grão),3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,16986
+109179,Girassol (em grão),3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,1438
+109179,Girassol (em grão),3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,16909
+109179,Girassol (em grão),4,Sul,2014,2014,109,Área plantada,1006,Hectares,3312
+109179,Girassol (em grão),4,Sul,2014,2014,216,Área colhida,1006,Hectares,3312
+109179,Girassol (em grão),4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,5106
+109179,Girassol (em grão),4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,1542
+109179,Girassol (em grão),4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,4741
+109179,Girassol (em grão),5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,100945
+109179,Girassol (em grão),5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,100495
+109179,Girassol (em grão),5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,136471
+109179,Girassol (em grão),5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,1358
+109179,Girassol (em grão),5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,110203
+2704,Juta (fibra),1,Norte,2014,2014,109,Área plantada,1006,Hectares,769
+2704,Juta (fibra),1,Norte,2014,2014,216,Área colhida,1006,Hectares,769
+2704,Juta (fibra),1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,1172
+2704,Juta (fibra),1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,1524
+2704,Juta (fibra),1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,2356
+2704,Juta (fibra),2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,-
+2704,Juta (fibra),2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,-
+2704,Juta (fibra),2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2704,Juta (fibra),2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2704,Juta (fibra),2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+2704,Juta (fibra),3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,-
+2704,Juta (fibra),3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,-
+2704,Juta (fibra),3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2704,Juta (fibra),3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2704,Juta (fibra),3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+2704,Juta (fibra),4,Sul,2014,2014,109,Área plantada,1006,Hectares,-
+2704,Juta (fibra),4,Sul,2014,2014,216,Área colhida,1006,Hectares,-
+2704,Juta (fibra),4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2704,Juta (fibra),4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2704,Juta (fibra),4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,-
+2704,Juta (fibra),5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,-
+2704,Juta (fibra),5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,-
+2704,Juta (fibra),5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2704,Juta (fibra),5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2704,Juta (fibra),5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+2705,Linho (semente),1,Norte,2014,2014,109,Área plantada,1006,Hectares,-
+2705,Linho (semente),1,Norte,2014,2014,216,Área colhida,1006,Hectares,-
+2705,Linho (semente),1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2705,Linho (semente),1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2705,Linho (semente),1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,-
+2705,Linho (semente),2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,-
+2705,Linho (semente),2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,-
+2705,Linho (semente),2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2705,Linho (semente),2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2705,Linho (semente),2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+2705,Linho (semente),3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,-
+2705,Linho (semente),3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,-
+2705,Linho (semente),3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2705,Linho (semente),3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2705,Linho (semente),3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+2705,Linho (semente),4,Sul,2014,2014,109,Área plantada,1006,Hectares,8860
+2705,Linho (semente),4,Sul,2014,2014,216,Área colhida,1006,Hectares,8860
+2705,Linho (semente),4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,4839
+2705,Linho (semente),4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,546
+2705,Linho (semente),4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,5615
+2705,Linho (semente),5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,-
+2705,Linho (semente),5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,-
+2705,Linho (semente),5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2705,Linho (semente),5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2705,Linho (semente),5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+2706,Malva (fibra),1,Norte,2014,2014,109,Área plantada,1006,Hectares,6037
+2706,Malva (fibra),1,Norte,2014,2014,216,Área colhida,1006,Hectares,5856
+2706,Malva (fibra),1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,8130
+2706,Malva (fibra),1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,1388
+2706,Malva (fibra),1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,15726
+2706,Malva (fibra),2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,-
+2706,Malva (fibra),2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,-
+2706,Malva (fibra),2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2706,Malva (fibra),2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2706,Malva (fibra),2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+2706,Malva (fibra),3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,-
+2706,Malva (fibra),3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,-
+2706,Malva (fibra),3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2706,Malva (fibra),3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2706,Malva (fibra),3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+2706,Malva (fibra),4,Sul,2014,2014,109,Área plantada,1006,Hectares,-
+2706,Malva (fibra),4,Sul,2014,2014,216,Área colhida,1006,Hectares,-
+2706,Malva (fibra),4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2706,Malva (fibra),4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2706,Malva (fibra),4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,-
+2706,Malva (fibra),5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,-
+2706,Malva (fibra),5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,-
+2706,Malva (fibra),5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2706,Malva (fibra),5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2706,Malva (fibra),5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+2707,Mamona (baga),1,Norte,2014,2014,109,Área plantada,1006,Hectares,-
+2707,Mamona (baga),1,Norte,2014,2014,216,Área colhida,1006,Hectares,-
+2707,Mamona (baga),1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2707,Mamona (baga),1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2707,Mamona (baga),1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,-
+2707,Mamona (baga),2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,63489
+2707,Mamona (baga),2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,61005
+2707,Mamona (baga),2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,35156
+2707,Mamona (baga),2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,576
+2707,Mamona (baga),2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,48359
+2707,Mamona (baga),3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,2387
+2707,Mamona (baga),3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,1385
+2707,Mamona (baga),3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,1121
+2707,Mamona (baga),3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,809
+2707,Mamona (baga),3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,1183
+2707,Mamona (baga),4,Sul,2014,2014,109,Área plantada,1006,Hectares,156
+2707,Mamona (baga),4,Sul,2014,2014,216,Área colhida,1006,Hectares,156
+2707,Mamona (baga),4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,163
+2707,Mamona (baga),4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,1045
+2707,Mamona (baga),4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,130
+2707,Mamona (baga),5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,952
+2707,Mamona (baga),5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,952
+2707,Mamona (baga),5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,1142
+2707,Mamona (baga),5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,1200
+2707,Mamona (baga),5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,1313
+2708,Mandioca,1,Norte,2014,2014,109,Área plantada,1006,Hectares,529577
+2708,Mandioca,1,Norte,2014,2014,216,Área colhida,1006,Hectares,521935
+2708,Mandioca,1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,8043007
+2708,Mandioca,1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,15410
+2708,Mandioca,1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,3418275
+2708,Mandioca,2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,597308
+2708,Mandioca,2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,583474
+2708,Mandioca,2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,5668126
+2708,Mandioca,2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,9714
+2708,Mandioca,2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,1980227
+2708,Mandioca,3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,139003
+2708,Mandioca,3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,137710
+2708,Mandioca,3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,2524993
+2708,Mandioca,3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,18336
+2708,Mandioca,3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,1008833
+2708,Mandioca,4,Sul,2014,2014,109,Área plantada,1006,Hectares,251093
+2708,Mandioca,4,Sul,2014,2014,216,Área colhida,1006,Hectares,249258
+2708,Mandioca,4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,5583682
+2708,Mandioca,4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,22401
+2708,Mandioca,4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,2492564
+2708,Mandioca,5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,75926
+2708,Mandioca,5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,75876
+2708,Mandioca,5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,1433706
+2708,Mandioca,5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,18895
+2708,Mandioca,5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,655835
+2709,Melancia,1,Norte,2014,2014,109,Área plantada,1006,Hectares,24209
+2709,Melancia,1,Norte,2014,2014,216,Área colhida,1006,Hectares,23937
+2709,Melancia,1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,450243
+2709,Melancia,1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,18809
+2709,Melancia,1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,340151
+2709,Melancia,2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,28403
+2709,Melancia,2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,28137
+2709,Melancia,2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,619762
+2709,Melancia,2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,22027
+2709,Melancia,2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,312386
+2709,Melancia,3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,8752
+2709,Melancia,3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,8752
+2709,Melancia,3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,236539
+2709,Melancia,3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,27027
+2709,Melancia,3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,143309
+2709,Melancia,4,Sul,2014,2014,109,Área plantada,1006,Hectares,23912
+2709,Melancia,4,Sul,2014,2014,216,Área colhida,1006,Hectares,23903
+2709,Melancia,4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,554658
+2709,Melancia,4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,23205
+2709,Melancia,4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,289317
+2709,Melancia,5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,9661
+2709,Melancia,5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,9646
+2709,Melancia,5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,310246
+2709,Melancia,5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,32163
+2709,Melancia,5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,156374
+2710,Melão,1,Norte,2014,2014,109,Área plantada,1006,Hectares,66
+2710,Melão,1,Norte,2014,2014,216,Área colhida,1006,Hectares,66
+2710,Melão,1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,826
+2710,Melão,1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,12515
+2710,Melão,1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,809
+2710,Melão,2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,19271
+2710,Melão,2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,19271
+2710,Melão,2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,559102
+2710,Melão,2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,29013
+2710,Melão,2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,447868
+2710,Melão,3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,26
+2710,Melão,3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,26
+2710,Melão,3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,473
+2710,Melão,3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,18192
+2710,Melão,3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,536
+2710,Melão,4,Sul,2014,2014,109,Área plantada,1006,Hectares,2450
+2710,Melão,4,Sul,2014,2014,216,Área colhida,1006,Hectares,2445
+2710,Melão,4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,25610
+2710,Melão,4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,10474
+2710,Melão,4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,36644
+2710,Melão,5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,188
+2710,Melão,5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,188
+2710,Melão,5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,3928
+2710,Melão,5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,20894
+2710,Melão,5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,5905
+2711,Milho (em grão),1,Norte,2014,2014,109,Área plantada,1006,Hectares,542629
+2711,Milho (em grão),1,Norte,2014,2014,216,Área colhida,1006,Hectares,539314
+2711,Milho (em grão),1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,1728205
+2711,Milho (em grão),1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,3204
+2711,Milho (em grão),1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,806252
+2711,Milho (em grão),2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,2819861
+2711,Milho (em grão),2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,2496560
+2711,Milho (em grão),2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,6693954
+2711,Milho (em grão),2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,2681
+2711,Milho (em grão),2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,2844630
+2711,Milho (em grão),3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,2131699
+2711,Milho (em grão),3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,2075556
+2711,Milho (em grão),3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,11020109
+2711,Milho (em grão),3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,5309
+2711,Milho (em grão),3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,4598901
+2711,Milho (em grão),4,Sul,2014,2014,109,Área plantada,1006,Hectares,3927826
+2711,Milho (em grão),4,Sul,2014,2014,216,Área colhida,1006,Hectares,3919220
+2711,Milho (em grão),4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,24362490
+2711,Milho (em grão),4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,6216
+2711,Milho (em grão),4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,8856311
+2711,Milho (em grão),5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,6421106
+2711,Milho (em grão),5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,6402259
+2711,Milho (em grão),5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,36076856
+2711,Milho (em grão),5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,5635
+2711,Milho (em grão),5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,8892770
+2712,Rami (fibra),1,Norte,2014,2014,109,Área plantada,1006,Hectares,-
+2712,Rami (fibra),1,Norte,2014,2014,216,Área colhida,1006,Hectares,-
+2712,Rami (fibra),1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2712,Rami (fibra),1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2712,Rami (fibra),1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,-
+2712,Rami (fibra),2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,-
+2712,Rami (fibra),2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,-
+2712,Rami (fibra),2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2712,Rami (fibra),2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2712,Rami (fibra),2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+2712,Rami (fibra),3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,-
+2712,Rami (fibra),3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,-
+2712,Rami (fibra),3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2712,Rami (fibra),3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2712,Rami (fibra),3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+2712,Rami (fibra),4,Sul,2014,2014,109,Área plantada,1006,Hectares,145
+2712,Rami (fibra),4,Sul,2014,2014,216,Área colhida,1006,Hectares,145
+2712,Rami (fibra),4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,108
+2712,Rami (fibra),4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,745
+2712,Rami (fibra),4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,162
+2712,Rami (fibra),5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,-
+2712,Rami (fibra),5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,-
+2712,Rami (fibra),5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2712,Rami (fibra),5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2712,Rami (fibra),5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+2713,Soja (em grão),1,Norte,2014,2014,109,Área plantada,1006,Hectares,1191327
+2713,Soja (em grão),1,Norte,2014,2014,216,Área colhida,1006,Hectares,1185540
+2713,Soja (em grão),1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,3521562
+2713,Soja (em grão),1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,2970
+2713,Soja (em grão),1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,3308720
+2713,Soja (em grão),2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,2581058
+2713,Soja (em grão),2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,2580883
+2713,Soja (em grão),2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,6571222
+2713,Soja (em grão),2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,2546
+2713,Soja (em grão),2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,6263588
+2713,Soja (em grão),3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,1938167
+2713,Soja (em grão),3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,1929284
+2713,Soja (em grão),3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,5054778
+2713,Soja (em grão),3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,2620
+2713,Soja (em grão),3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,5161712
+2713,Soja (em grão),4,Sul,2014,2014,109,Área plantada,1006,Hectares,10561372
+2713,Soja (em grão),4,Sul,2014,2014,216,Área colhida,1006,Hectares,10557644
+2713,Soja (em grão),4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,29623128
+2713,Soja (em grão),4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,2806
+2713,Soja (em grão),4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,31306614
+2713,Soja (em grão),5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,14036307
+2713,Soja (em grão),5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,14020412
+2713,Soja (em grão),5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,41989830
+2713,Soja (em grão),5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,2995
+2713,Soja (em grão),5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,38349376
+2714,Sorgo (em grão),1,Norte,2014,2014,109,Área plantada,1006,Hectares,25166
+2714,Sorgo (em grão),1,Norte,2014,2014,216,Área colhida,1006,Hectares,25116
+2714,Sorgo (em grão),1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,75652
+2714,Sorgo (em grão),1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,3012
+2714,Sorgo (em grão),1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,24225
+2714,Sorgo (em grão),2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,134710
+2714,Sorgo (em grão),2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,125701
+2714,Sorgo (em grão),2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,150061
+2714,Sorgo (em grão),2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,1194
+2714,Sorgo (em grão),2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,54920
+2714,Sorgo (em grão),3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,186252
+2714,Sorgo (em grão),3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,184258
+2714,Sorgo (em grão),3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,552377
+2714,Sorgo (em grão),3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,2998
+2714,Sorgo (em grão),3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,149716
+2714,Sorgo (em grão),4,Sul,2014,2014,109,Área plantada,1006,Hectares,12976
+2714,Sorgo (em grão),4,Sul,2014,2014,216,Área colhida,1006,Hectares,12976
+2714,Sorgo (em grão),4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,35038
+2714,Sorgo (em grão),4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,2700
+2714,Sorgo (em grão),4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,13509
+2714,Sorgo (em grão),5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,492042
+2714,Sorgo (em grão),5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,492042
+2714,Sorgo (em grão),5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,1465986
+2714,Sorgo (em grão),5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,2979
+2714,Sorgo (em grão),5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,333362
+2715,Tomate,1,Norte,2014,2014,109,Área plantada,1006,Hectares,961
+2715,Tomate,1,Norte,2014,2014,216,Área colhida,1006,Hectares,952
+2715,Tomate,1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,18066
+2715,Tomate,1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,18977
+2715,Tomate,1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,38740
+2715,Tomate,2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,13607
+2715,Tomate,2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,13578
+2715,Tomate,2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,566027
+2715,Tomate,2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,41687
+2715,Tomate,2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,692709
+2715,Tomate,3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,27331
+2715,Tomate,3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,27297
+2715,Tomate,3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,2027675
+2715,Tomate,3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,74282
+2715,Tomate,3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,3047171
+2715,Tomate,4,Sul,2014,2014,109,Área plantada,1006,Hectares,9504
+2715,Tomate,4,Sul,2014,2014,216,Área colhida,1006,Hectares,9504
+2715,Tomate,4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,555020
+2715,Tomate,4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,58399
+2715,Tomate,4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,817356
+2715,Tomate,5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,13068
+2715,Tomate,5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,13032
+2715,Tomate,5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,1135989
+2715,Tomate,5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,87169
+2715,Tomate,5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,586348
+2716,Trigo (em grão),1,Norte,2014,2014,109,Área plantada,1006,Hectares,-
+2716,Trigo (em grão),1,Norte,2014,2014,216,Área colhida,1006,Hectares,-
+2716,Trigo (em grão),1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2716,Trigo (em grão),1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2716,Trigo (em grão),1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,-
+2716,Trigo (em grão),2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,-
+2716,Trigo (em grão),2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,-
+2716,Trigo (em grão),2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+2716,Trigo (em grão),2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2716,Trigo (em grão),2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+2716,Trigo (em grão),3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,148822
+2716,Trigo (em grão),3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,148420
+2716,Trigo (em grão),3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,437303
+2716,Trigo (em grão),3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,2946
+2716,Trigo (em grão),3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,255493
+2716,Trigo (em grão),4,Sul,2014,2014,109,Área plantada,1006,Hectares,2665341
+2716,Trigo (em grão),4,Sul,2014,2014,216,Área colhida,1006,Hectares,2663902
+2716,Trigo (em grão),4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,5748132
+2716,Trigo (em grão),4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,2158
+2716,Trigo (em grão),4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,2747093
+2716,Trigo (em grão),5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,22623
+2716,Trigo (em grão),5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,22623
+2716,Trigo (em grão),5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,76460
+2716,Trigo (em grão),5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,3380
+2716,Trigo (em grão),5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,45420
+109180,Triticale (em grão),1,Norte,2014,2014,109,Área plantada,1006,Hectares,-
+109180,Triticale (em grão),1,Norte,2014,2014,216,Área colhida,1006,Hectares,-
+109180,Triticale (em grão),1,Norte,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+109180,Triticale (em grão),1,Norte,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+109180,Triticale (em grão),1,Norte,2014,2014,215,Valor da produção,40,Mil Reais,-
+109180,Triticale (em grão),2,Nordeste,2014,2014,109,Área plantada,1006,Hectares,-
+109180,Triticale (em grão),2,Nordeste,2014,2014,216,Área colhida,1006,Hectares,-
+109180,Triticale (em grão),2,Nordeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+109180,Triticale (em grão),2,Nordeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+109180,Triticale (em grão),2,Nordeste,2014,2014,215,Valor da produção,40,Mil Reais,-
+109180,Triticale (em grão),3,Sudeste,2014,2014,109,Área plantada,1006,Hectares,5260
+109180,Triticale (em grão),3,Sudeste,2014,2014,216,Área colhida,1006,Hectares,5260
+109180,Triticale (em grão),3,Sudeste,2014,2014,214,Quantidade produzida,1017,Toneladas,13360
+109180,Triticale (em grão),3,Sudeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,2540
+109180,Triticale (em grão),3,Sudeste,2014,2014,215,Valor da produção,40,Mil Reais,3884
+109180,Triticale (em grão),4,Sul,2014,2014,109,Área plantada,1006,Hectares,17868
+109180,Triticale (em grão),4,Sul,2014,2014,216,Área colhida,1006,Hectares,17851
+109180,Triticale (em grão),4,Sul,2014,2014,214,Quantidade produzida,1017,Toneladas,38472
+109180,Triticale (em grão),4,Sul,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,2155
+109180,Triticale (em grão),4,Sul,2014,2014,215,Valor da produção,40,Mil Reais,14810
+109180,Triticale (em grão),5,Centro-Oeste,2014,2014,109,Área plantada,1006,Hectares,-
+109180,Triticale (em grão),5,Centro-Oeste,2014,2014,216,Área colhida,1006,Hectares,-
+109180,Triticale (em grão),5,Centro-Oeste,2014,2014,214,Quantidade produzida,1017,Toneladas,-
+109180,Triticale (em grão),5,Centro-Oeste,2014,2014,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+109180,Triticale (em grão),5,Centro-Oeste,2014,2014,215,Valor da produção,40,Mil Reais,-

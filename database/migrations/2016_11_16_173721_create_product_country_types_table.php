@@ -28,8 +28,8 @@ class CreateProductCountryTypesTable extends Migration
             $table->integer('planted_area');
             $table->integer('harvested_area');
             $table->integer('production');
-            $table->decimal('value',15,2);
             $table->integer('yield');
+            $table->integer('value');
             $table->timestamps();
         });
     }
