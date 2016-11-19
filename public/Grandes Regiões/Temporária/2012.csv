@@ -1,0 +1,776 @@
+D1C,D1N,D2C,D2N,D3C,D3N,D4C,D4N,MC,MN,V
+2688,Abacaxi,1,Norte,2012,2012,109,Área plantada,1006,Hectares,18384
+2688,Abacaxi,1,Norte,2012,2012,216,Área colhida,1006,Hectares,17902
+2688,Abacaxi,1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,441379
+2688,Abacaxi,1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,24655
+2688,Abacaxi,1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,407206
+2688,Abacaxi,2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,23608
+2688,Abacaxi,2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,23571
+2688,Abacaxi,2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,614235
+2688,Abacaxi,2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,26059
+2688,Abacaxi,2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,607511
+2688,Abacaxi,3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,18987
+2688,Abacaxi,3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,18432
+2688,Abacaxi,3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,519235
+2688,Abacaxi,3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,28170
+2688,Abacaxi,3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,571470
+2688,Abacaxi,4,Sul,2012,2012,109,Área plantada,1006,Hectares,833
+2688,Abacaxi,4,Sul,2012,2012,216,Área colhida,1006,Hectares,833
+2688,Abacaxi,4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,15173
+2688,Abacaxi,4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,18215
+2688,Abacaxi,4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,14487
+2688,Abacaxi,5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,4764
+2688,Abacaxi,5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,4764
+2688,Abacaxi,5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,107712
+2688,Abacaxi,5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,22610
+2688,Abacaxi,5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,127185
+2689,Algodão herbáceo (em caroço),1,Norte,2012,2012,109,Área plantada,1006,Hectares,7500
+2689,Algodão herbáceo (em caroço),1,Norte,2012,2012,216,Área colhida,1006,Hectares,7500
+2689,Algodão herbáceo (em caroço),1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,22318
+2689,Algodão herbáceo (em caroço),1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,2976
+2689,Algodão herbáceo (em caroço),1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,31245
+2689,Algodão herbáceo (em caroço),2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,476102
+2689,Algodão herbáceo (em caroço),2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,438298
+2689,Algodão herbáceo (em caroço),2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,1407141
+2689,Algodão herbáceo (em caroço),2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,3210
+2689,Algodão herbáceo (em caroço),2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,2968554
+2689,Algodão herbáceo (em caroço),3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,48054
+2689,Algodão herbáceo (em caroço),3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,47788
+2689,Algodão herbáceo (em caroço),3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,158864
+2689,Algodão herbáceo (em caroço),3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,3324
+2689,Algodão herbáceo (em caroço),3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,252409
+2689,Algodão herbáceo (em caroço),4,Sul,2012,2012,109,Área plantada,1006,Hectares,1233
+2689,Algodão herbáceo (em caroço),4,Sul,2012,2012,216,Área colhida,1006,Hectares,1233
+2689,Algodão herbáceo (em caroço),4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,1906
+2689,Algodão herbáceo (em caroço),4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,1546
+2689,Algodão herbáceo (em caroço),4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,3133
+2689,Algodão herbáceo (em caroço),5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,887284
+2689,Algodão herbáceo (em caroço),5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,887100
+2689,Algodão herbáceo (em caroço),5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,3378835
+2689,Algodão herbáceo (em caroço),5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,3809
+2689,Algodão herbáceo (em caroço),5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,4879556
+2690,Alho,1,Norte,2012,2012,109,Área plantada,1006,Hectares,-
+2690,Alho,1,Norte,2012,2012,216,Área colhida,1006,Hectares,-
+2690,Alho,1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2690,Alho,1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2690,Alho,1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,-
+2690,Alho,2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,637
+2690,Alho,2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,637
+2690,Alho,2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,7967
+2690,Alho,2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,12507
+2690,Alho,2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,47337
+2690,Alho,3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,1548
+2690,Alho,3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,1548
+2690,Alho,3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,19128
+2690,Alho,3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,12357
+2690,Alho,3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,127516
+2690,Alho,4,Sul,2012,2012,109,Área plantada,1006,Hectares,5015
+2690,Alho,4,Sul,2012,2012,216,Área colhida,1006,Hectares,5015
+2690,Alho,4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,39478
+2690,Alho,4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,7872
+2690,Alho,4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,227948
+2690,Alho,5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,2864
+2690,Alho,5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,2864
+2690,Alho,5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,40436
+2690,Alho,5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,14119
+2690,Alho,5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,234369
+2691,Amendoim (em casca),1,Norte,2012,2012,109,Área plantada,1006,Hectares,2858
+2691,Amendoim (em casca),1,Norte,2012,2012,216,Área colhida,1006,Hectares,2851
+2691,Amendoim (em casca),1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,10396
+2691,Amendoim (em casca),1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,3646
+2691,Amendoim (em casca),1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,12721
+2691,Amendoim (em casca),2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,9050
+2691,Amendoim (em casca),2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,9018
+2691,Amendoim (em casca),2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,8763
+2691,Amendoim (em casca),2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,972
+2691,Amendoim (em casca),2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,9960
+2691,Amendoim (em casca),3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,90811
+2691,Amendoim (em casca),3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,90804
+2691,Amendoim (em casca),3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,300674
+2691,Amendoim (em casca),3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,3311
+2691,Amendoim (em casca),3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,386945
+2691,Amendoim (em casca),4,Sul,2012,2012,109,Área plantada,1006,Hectares,6381
+2691,Amendoim (em casca),4,Sul,2012,2012,216,Área colhida,1006,Hectares,6342
+2691,Amendoim (em casca),4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,11303
+2691,Amendoim (em casca),4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,1782
+2691,Amendoim (em casca),4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,24917
+2691,Amendoim (em casca),5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,1351
+2691,Amendoim (em casca),5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,1351
+2691,Amendoim (em casca),5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,3088
+2691,Amendoim (em casca),5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,2286
+2691,Amendoim (em casca),5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,4392
+2692,Arroz (em casca),1,Norte,2012,2012,109,Área plantada,1006,Hectares,335178
+2692,Arroz (em casca),1,Norte,2012,2012,216,Área colhida,1006,Hectares,333539
+2692,Arroz (em casca),1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,939245
+2692,Arroz (em casca),1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,2816
+2692,Arroz (em casca),1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,543585
+2692,Arroz (em casca),2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,602758
+2692,Arroz (em casca),2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,581473
+2692,Arroz (em casca),2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,707390
+2692,Arroz (em casca),2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,1217
+2692,Arroz (em casca),2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,464174
+2692,Arroz (em casca),3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,61530
+2692,Arroz (em casca),3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,59217
+2692,Arroz (em casca),3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,190936
+2692,Arroz (em casca),3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,3224
+2692,Arroz (em casca),3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,106615
+2692,Arroz (em casca),4,Sul,2012,2012,109,Área plantada,1006,Hectares,1226724
+2692,Arroz (em casca),4,Sul,2012,2012,216,Área colhida,1006,Hectares,1222129
+2692,Arroz (em casca),4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,8967276
+2692,Arroz (em casca),4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,7337
+2692,Arroz (em casca),4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,4793304
+2692,Arroz (em casca),5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,216992
+2692,Arroz (em casca),5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,216930
+2692,Arroz (em casca),5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,745034
+2692,Arroz (em casca),5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,3434
+2692,Arroz (em casca),5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,383109
+2693,Aveia (em grão),1,Norte,2012,2012,109,Área plantada,1006,Hectares,-
+2693,Aveia (em grão),1,Norte,2012,2012,216,Área colhida,1006,Hectares,-
+2693,Aveia (em grão),1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2693,Aveia (em grão),1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2693,Aveia (em grão),1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,-
+2693,Aveia (em grão),2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,-
+2693,Aveia (em grão),2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,-
+2693,Aveia (em grão),2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2693,Aveia (em grão),2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2693,Aveia (em grão),2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+2693,Aveia (em grão),3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,2025
+2693,Aveia (em grão),3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,2025
+2693,Aveia (em grão),3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,3639
+2693,Aveia (em grão),3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,1797
+2693,Aveia (em grão),3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,962
+2693,Aveia (em grão),4,Sul,2012,2012,109,Área plantada,1006,Hectares,201420
+2693,Aveia (em grão),4,Sul,2012,2012,216,Área colhida,1006,Hectares,195405
+2693,Aveia (em grão),4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,410573
+2693,Aveia (em grão),4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,2101
+2693,Aveia (em grão),4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,154527
+2693,Aveia (em grão),5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,11300
+2693,Aveia (em grão),5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,11300
+2693,Aveia (em grão),5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,16812
+2693,Aveia (em grão),5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,1488
+2693,Aveia (em grão),5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,6093
+2694,Batata-doce,1,Norte,2012,2012,109,Área plantada,1006,Hectares,527
+2694,Batata-doce,1,Norte,2012,2012,216,Área colhida,1006,Hectares,506
+2694,Batata-doce,1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,6479
+2694,Batata-doce,1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,12804
+2694,Batata-doce,1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,6634
+2694,Batata-doce,2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,16717
+2694,Batata-doce,2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,15940
+2694,Batata-doce,2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,139992
+2694,Batata-doce,2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,8782
+2694,Batata-doce,2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,113321
+2694,Batata-doce,3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,6028
+2694,Batata-doce,3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,6028
+2694,Batata-doce,3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,95469
+2694,Batata-doce,3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,15838
+2694,Batata-doce,3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,53729
+2694,Batata-doce,4,Sul,2012,2012,109,Área plantada,1006,Hectares,16560
+2694,Batata-doce,4,Sul,2012,2012,216,Área colhida,1006,Hectares,16559
+2694,Batata-doce,4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,229425
+2694,Batata-doce,4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,13855
+2694,Batata-doce,4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,180576
+2694,Batata-doce,5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,288
+2694,Batata-doce,5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,288
+2694,Batata-doce,5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,8060
+2694,Batata-doce,5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,27986
+2694,Batata-doce,5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,9244
+2695,Batata-inglesa,1,Norte,2012,2012,109,Área plantada,1006,Hectares,-
+2695,Batata-inglesa,1,Norte,2012,2012,216,Área colhida,1006,Hectares,-
+2695,Batata-inglesa,1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2695,Batata-inglesa,1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2695,Batata-inglesa,1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,-
+2695,Batata-inglesa,2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,4590
+2695,Batata-inglesa,2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,4588
+2695,Batata-inglesa,2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,159881
+2695,Batata-inglesa,2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,34848
+2695,Batata-inglesa,2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,117518
+2695,Batata-inglesa,3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,67437
+2695,Batata-inglesa,3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,67437
+2695,Batata-inglesa,3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,1926855
+2695,Batata-inglesa,3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,28573
+2695,Batata-inglesa,3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,1303768
+2695,Batata-inglesa,4,Sul,2012,2012,109,Área plantada,1006,Hectares,54942
+2695,Batata-inglesa,4,Sul,2012,2012,216,Área colhida,1006,Hectares,54895
+2695,Batata-inglesa,4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,1224542
+2695,Batata-inglesa,4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,22307
+2695,Batata-inglesa,4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,582867
+2695,Batata-inglesa,5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,9050
+2695,Batata-inglesa,5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,9050
+2695,Batata-inglesa,5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,420520
+2695,Batata-inglesa,5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,46466
+2695,Batata-inglesa,5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,341626
+2696,Cana-de-açúcar,1,Norte,2012,2012,109,Área plantada,1006,Hectares,52964
+2696,Cana-de-açúcar,1,Norte,2012,2012,216,Área colhida,1006,Hectares,52516
+2696,Cana-de-açúcar,1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,3340423
+2696,Cana-de-açúcar,1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,63608
+2696,Cana-de-açúcar,1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,350834
+2696,Cana-de-açúcar,2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,1217115
+2696,Cana-de-açúcar,2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,1204055
+2696,Cana-de-açúcar,2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,68020981
+2696,Cana-de-açúcar,2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,56493
+2696,Cana-de-açúcar,2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,4305880
+2696,Cana-de-açúcar,3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,6246586
+2696,Cana-de-açúcar,3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,6213373
+2696,Cana-de-açúcar,3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,487017924
+2696,Cana-de-açúcar,3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,78382
+2696,Cana-de-açúcar,3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,26846331
+2696,Cana-de-açúcar,4,Sul,2012,2012,109,Área plantada,1006,Hectares,697114
+2696,Cana-de-açúcar,4,Sul,2012,2012,216,Área colhida,1006,Hectares,696895
+2696,Cana-de-açúcar,4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,49421632
+2696,Cana-de-açúcar,4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,70917
+2696,Cana-de-açúcar,4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,2608903
+2696,Cana-de-açúcar,5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,1538549
+2696,Cana-de-açúcar,5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,1538549
+2696,Cana-de-açúcar,5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,113276327
+2696,Cana-de-açúcar,5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,73625
+2696,Cana-de-açúcar,5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,6339069
+2697,Cebola,1,Norte,2012,2012,109,Área plantada,1006,Hectares,-
+2697,Cebola,1,Norte,2012,2012,216,Área colhida,1006,Hectares,-
+2697,Cebola,1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2697,Cebola,1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2697,Cebola,1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,-
+2697,Cebola,2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,13202
+2697,Cebola,2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,13132
+2697,Cebola,2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,325031
+2697,Cebola,2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,24751
+2697,Cebola,2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,332650
+2697,Cebola,3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,9758
+2697,Cebola,3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,9758
+2697,Cebola,3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,394615
+2697,Cebola,3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,40440
+2697,Cebola,3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,305306
+2697,Cebola,4,Sul,2012,2012,109,Área plantada,1006,Hectares,37013
+2697,Cebola,4,Sul,2012,2012,216,Área colhida,1006,Hectares,36870
+2697,Cebola,4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,747133
+2697,Cebola,4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,20264
+2697,Cebola,4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,498219
+2697,Cebola,5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,1171
+2697,Cebola,5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,1171
+2697,Cebola,5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,52243
+2697,Cebola,5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,44614
+2697,Cebola,5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,45771
+2698,Centeio (em grão),1,Norte,2012,2012,109,Área plantada,1006,Hectares,-
+2698,Centeio (em grão),1,Norte,2012,2012,216,Área colhida,1006,Hectares,-
+2698,Centeio (em grão),1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2698,Centeio (em grão),1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2698,Centeio (em grão),1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,-
+2698,Centeio (em grão),2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,-
+2698,Centeio (em grão),2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,-
+2698,Centeio (em grão),2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2698,Centeio (em grão),2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2698,Centeio (em grão),2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+2698,Centeio (em grão),3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,-
+2698,Centeio (em grão),3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,-
+2698,Centeio (em grão),3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2698,Centeio (em grão),3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2698,Centeio (em grão),3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+2698,Centeio (em grão),4,Sul,2012,2012,109,Área plantada,1006,Hectares,2554
+2698,Centeio (em grão),4,Sul,2012,2012,216,Área colhida,1006,Hectares,2554
+2698,Centeio (em grão),4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,4177
+2698,Centeio (em grão),4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,1635
+2698,Centeio (em grão),4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,1953
+2698,Centeio (em grão),5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,3000
+2698,Centeio (em grão),5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,3000
+2698,Centeio (em grão),5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,3600
+2698,Centeio (em grão),5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,1200
+2698,Centeio (em grão),5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,1678
+2699,Cevada (em grão),1,Norte,2012,2012,109,Área plantada,1006,Hectares,-
+2699,Cevada (em grão),1,Norte,2012,2012,216,Área colhida,1006,Hectares,-
+2699,Cevada (em grão),1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2699,Cevada (em grão),1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2699,Cevada (em grão),1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,-
+2699,Cevada (em grão),2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,-
+2699,Cevada (em grão),2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,-
+2699,Cevada (em grão),2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2699,Cevada (em grão),2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2699,Cevada (em grão),2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+2699,Cevada (em grão),3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,-
+2699,Cevada (em grão),3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,-
+2699,Cevada (em grão),3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2699,Cevada (em grão),3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2699,Cevada (em grão),3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+2699,Cevada (em grão),4,Sul,2012,2012,109,Área plantada,1006,Hectares,102964
+2699,Cevada (em grão),4,Sul,2012,2012,216,Área colhida,1006,Hectares,102749
+2699,Cevada (em grão),4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,265025
+2699,Cevada (em grão),4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,2579
+2699,Cevada (em grão),4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,119124
+2699,Cevada (em grão),5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,-
+2699,Cevada (em grão),5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,-
+2699,Cevada (em grão),5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2699,Cevada (em grão),5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2699,Cevada (em grão),5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+2700,Ervilha (em grão),1,Norte,2012,2012,109,Área plantada,1006,Hectares,-
+2700,Ervilha (em grão),1,Norte,2012,2012,216,Área colhida,1006,Hectares,-
+2700,Ervilha (em grão),1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2700,Ervilha (em grão),1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2700,Ervilha (em grão),1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,-
+2700,Ervilha (em grão),2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,-
+2700,Ervilha (em grão),2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,-
+2700,Ervilha (em grão),2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2700,Ervilha (em grão),2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2700,Ervilha (em grão),2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+2700,Ervilha (em grão),3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,265
+2700,Ervilha (em grão),3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,265
+2700,Ervilha (em grão),3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,718
+2700,Ervilha (em grão),3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,2709
+2700,Ervilha (em grão),3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,1436
+2700,Ervilha (em grão),4,Sul,2012,2012,109,Área plantada,1006,Hectares,1308
+2700,Ervilha (em grão),4,Sul,2012,2012,216,Área colhida,1006,Hectares,1303
+2700,Ervilha (em grão),4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,3085
+2700,Ervilha (em grão),4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,2368
+2700,Ervilha (em grão),4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,6978
+2700,Ervilha (em grão),5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,180
+2700,Ervilha (em grão),5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,180
+2700,Ervilha (em grão),5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,480
+2700,Ervilha (em grão),5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,2667
+2700,Ervilha (em grão),5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,475
+2701,Fava (em grão),1,Norte,2012,2012,109,Área plantada,1006,Hectares,-
+2701,Fava (em grão),1,Norte,2012,2012,216,Área colhida,1006,Hectares,-
+2701,Fava (em grão),1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2701,Fava (em grão),1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2701,Fava (em grão),1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,-
+2701,Fava (em grão),2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,25872
+2701,Fava (em grão),2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,19879
+2701,Fava (em grão),2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,4455
+2701,Fava (em grão),2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,224
+2701,Fava (em grão),2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,18449
+2701,Fava (em grão),3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,1108
+2701,Fava (em grão),3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,1036
+2701,Fava (em grão),3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,467
+2701,Fava (em grão),3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,451
+2701,Fava (em grão),3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,783
+2701,Fava (em grão),4,Sul,2012,2012,109,Área plantada,1006,Hectares,54
+2701,Fava (em grão),4,Sul,2012,2012,216,Área colhida,1006,Hectares,54
+2701,Fava (em grão),4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,110
+2701,Fava (em grão),4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,2037
+2701,Fava (em grão),4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,493
+2701,Fava (em grão),5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,-
+2701,Fava (em grão),5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,-
+2701,Fava (em grão),5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2701,Fava (em grão),5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2701,Fava (em grão),5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+2702,Feijão (em grão),1,Norte,2012,2012,109,Área plantada,1006,Hectares,155533
+2702,Feijão (em grão),1,Norte,2012,2012,216,Área colhida,1006,Hectares,154628
+2702,Feijão (em grão),1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,120679
+2702,Feijão (em grão),1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,780
+2702,Feijão (em grão),1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,246791
+2702,Feijão (em grão),2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,1471037
+2702,Feijão (em grão),2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,1018702
+2702,Feijão (em grão),2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,253362
+2702,Feijão (em grão),2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,249
+2702,Feijão (em grão),2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,678113
+2702,Feijão (em grão),3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,552606
+2702,Feijão (em grão),3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,544404
+2702,Feijão (em grão),3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,858398
+2702,Feijão (em grão),3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,1577
+2702,Feijão (em grão),3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,2157482
+2702,Feijão (em grão),4,Sul,2012,2012,109,Área plantada,1006,Hectares,645395
+2702,Feijão (em grão),4,Sul,2012,2012,216,Área colhida,1006,Hectares,633682
+2702,Feijão (em grão),4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,901663
+2702,Feijão (em grão),4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,1423
+2702,Feijão (em grão),4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,1741622
+2702,Feijão (em grão),5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,358244
+2702,Feijão (em grão),5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,358069
+2702,Feijão (em grão),5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,660752
+2702,Feijão (em grão),5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,1845
+2702,Feijão (em grão),5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,1392869
+2703,Fumo (em folha),1,Norte,2012,2012,109,Área plantada,1006,Hectares,223
+2703,Fumo (em folha),1,Norte,2012,2012,216,Área colhida,1006,Hectares,223
+2703,Fumo (em folha),1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,214
+2703,Fumo (em folha),1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,960
+2703,Fumo (em folha),1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,1037
+2703,Fumo (em folha),2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,18765
+2703,Fumo (em folha),2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,18650
+2703,Fumo (em folha),2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,19195
+2703,Fumo (em folha),2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,1029
+2703,Fumo (em folha),2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,52942
+2703,Fumo (em folha),3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,200
+2703,Fumo (em folha),3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,200
+2703,Fumo (em folha),3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,158
+2703,Fumo (em folha),3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,790
+2703,Fumo (em folha),3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,119
+2703,Fumo (em folha),4,Sul,2012,2012,109,Área plantada,1006,Hectares,391387
+2703,Fumo (em folha),4,Sul,2012,2012,216,Área colhida,1006,Hectares,391052
+2703,Fumo (em folha),4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,790908
+2703,Fumo (em folha),4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,2023
+2703,Fumo (em folha),4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,4545946
+2703,Fumo (em folha),5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,100
+2703,Fumo (em folha),5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,100
+2703,Fumo (em folha),5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,75
+2703,Fumo (em folha),5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,750
+2703,Fumo (em folha),5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,73
+109179,Girassol (em grão),1,Norte,2012,2012,109,Área plantada,1006,Hectares,-
+109179,Girassol (em grão),1,Norte,2012,2012,216,Área colhida,1006,Hectares,-
+109179,Girassol (em grão),1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+109179,Girassol (em grão),1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+109179,Girassol (em grão),1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,-
+109179,Girassol (em grão),2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,721
+109179,Girassol (em grão),2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,244
+109179,Girassol (em grão),2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,203
+109179,Girassol (em grão),2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,832
+109179,Girassol (em grão),2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,260
+109179,Girassol (em grão),3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,4494
+109179,Girassol (em grão),3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,4494
+109179,Girassol (em grão),3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,6428
+109179,Girassol (em grão),3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,1430
+109179,Girassol (em grão),3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,5964
+109179,Girassol (em grão),4,Sul,2012,2012,109,Área plantada,1006,Hectares,3356
+109179,Girassol (em grão),4,Sul,2012,2012,216,Área colhida,1006,Hectares,3356
+109179,Girassol (em grão),4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,5162
+109179,Girassol (em grão),4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,1538
+109179,Girassol (em grão),4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,3744
+109179,Girassol (em grão),5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,69834
+109179,Girassol (em grão),5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,69834
+109179,Girassol (em grão),5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,111853
+109179,Girassol (em grão),5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,1602
+109179,Girassol (em grão),5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,79754
+2704,Juta (fibra),1,Norte,2012,2012,109,Área plantada,1006,Hectares,980
+2704,Juta (fibra),1,Norte,2012,2012,216,Área colhida,1006,Hectares,837
+2704,Juta (fibra),1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,993
+2704,Juta (fibra),1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,1186
+2704,Juta (fibra),1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,1647
+2704,Juta (fibra),2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,-
+2704,Juta (fibra),2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,-
+2704,Juta (fibra),2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2704,Juta (fibra),2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2704,Juta (fibra),2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+2704,Juta (fibra),3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,-
+2704,Juta (fibra),3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,-
+2704,Juta (fibra),3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2704,Juta (fibra),3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2704,Juta (fibra),3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+2704,Juta (fibra),4,Sul,2012,2012,109,Área plantada,1006,Hectares,-
+2704,Juta (fibra),4,Sul,2012,2012,216,Área colhida,1006,Hectares,-
+2704,Juta (fibra),4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2704,Juta (fibra),4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2704,Juta (fibra),4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,-
+2704,Juta (fibra),5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,-
+2704,Juta (fibra),5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,-
+2704,Juta (fibra),5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2704,Juta (fibra),5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2704,Juta (fibra),5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+2705,Linho (semente),1,Norte,2012,2012,109,Área plantada,1006,Hectares,-
+2705,Linho (semente),1,Norte,2012,2012,216,Área colhida,1006,Hectares,-
+2705,Linho (semente),1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2705,Linho (semente),1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2705,Linho (semente),1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,-
+2705,Linho (semente),2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,-
+2705,Linho (semente),2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,-
+2705,Linho (semente),2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2705,Linho (semente),2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2705,Linho (semente),2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+2705,Linho (semente),3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,-
+2705,Linho (semente),3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,-
+2705,Linho (semente),3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2705,Linho (semente),3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2705,Linho (semente),3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+2705,Linho (semente),4,Sul,2012,2012,109,Área plantada,1006,Hectares,8403
+2705,Linho (semente),4,Sul,2012,2012,216,Área colhida,1006,Hectares,8403
+2705,Linho (semente),4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,7338
+2705,Linho (semente),4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,873
+2705,Linho (semente),4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,7486
+2705,Linho (semente),5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,-
+2705,Linho (semente),5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,-
+2705,Linho (semente),5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2705,Linho (semente),5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2705,Linho (semente),5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+2706,Malva (fibra),1,Norte,2012,2012,109,Área plantada,1006,Hectares,11269
+2706,Malva (fibra),1,Norte,2012,2012,216,Área colhida,1006,Hectares,6589
+2706,Malva (fibra),1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,8467
+2706,Malva (fibra),1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,1285
+2706,Malva (fibra),1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,13451
+2706,Malva (fibra),2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,-
+2706,Malva (fibra),2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,-
+2706,Malva (fibra),2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2706,Malva (fibra),2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2706,Malva (fibra),2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+2706,Malva (fibra),3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,-
+2706,Malva (fibra),3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,-
+2706,Malva (fibra),3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2706,Malva (fibra),3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2706,Malva (fibra),3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+2706,Malva (fibra),4,Sul,2012,2012,109,Área plantada,1006,Hectares,-
+2706,Malva (fibra),4,Sul,2012,2012,216,Área colhida,1006,Hectares,-
+2706,Malva (fibra),4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2706,Malva (fibra),4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2706,Malva (fibra),4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,-
+2706,Malva (fibra),5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,-
+2706,Malva (fibra),5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,-
+2706,Malva (fibra),5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2706,Malva (fibra),5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2706,Malva (fibra),5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+2707,Mamona (baga),1,Norte,2012,2012,109,Área plantada,1006,Hectares,-
+2707,Mamona (baga),1,Norte,2012,2012,216,Área colhida,1006,Hectares,-
+2707,Mamona (baga),1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2707,Mamona (baga),1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2707,Mamona (baga),1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,-
+2707,Mamona (baga),2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,113330
+2707,Mamona (baga),2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,80921
+2707,Mamona (baga),2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,23072
+2707,Mamona (baga),2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,285
+2707,Mamona (baga),2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,21457
+2707,Mamona (baga),3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,3569
+2707,Mamona (baga),3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,2439
+2707,Mamona (baga),3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,2256
+2707,Mamona (baga),3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,925
+2707,Mamona (baga),3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,2026
+2707,Mamona (baga),4,Sul,2012,2012,109,Área plantada,1006,Hectares,1030
+2707,Mamona (baga),4,Sul,2012,2012,216,Área colhida,1006,Hectares,1030
+2707,Mamona (baga),4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,661
+2707,Mamona (baga),4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,642
+2707,Mamona (baga),4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,575
+2707,Mamona (baga),5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,-
+2707,Mamona (baga),5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,-
+2707,Mamona (baga),5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2707,Mamona (baga),5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2707,Mamona (baga),5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+2708,Mandioca,1,Norte,2012,2012,109,Área plantada,1006,Hectares,518883
+2708,Mandioca,1,Norte,2012,2012,216,Área colhida,1006,Hectares,487419
+2708,Mandioca,1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,7421480
+2708,Mandioca,1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,15226
+2708,Mandioca,1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,2461910
+2708,Mandioca,2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,746028
+2708,Mandioca,2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,715379
+2708,Mandioca,2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,6019471
+2708,Mandioca,2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,8414
+2708,Mandioca,2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,1945575
+2708,Mandioca,3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,149706
+2708,Mandioca,3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,148937
+2708,Mandioca,3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,2710210
+2708,Mandioca,3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,18197
+2708,Mandioca,3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,902585
+2708,Mandioca,4,Sul,2012,2012,109,Área plantada,1006,Hectares,268941
+2708,Mandioca,4,Sul,2012,2012,216,Área colhida,1006,Hectares,267075
+2708,Mandioca,4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,5589930
+2708,Mandioca,4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,20930
+2708,Mandioca,4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,2000697
+2708,Mandioca,5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,74176
+2708,Mandioca,5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,74176
+2708,Mandioca,5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,1303466
+2708,Mandioca,5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,17573
+2708,Mandioca,5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,574322
+2709,Melancia,1,Norte,2012,2012,109,Área plantada,1006,Hectares,17974
+2709,Melancia,1,Norte,2012,2012,216,Área colhida,1006,Hectares,17869
+2709,Melancia,1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,346187
+2709,Melancia,1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,19374
+2709,Melancia,1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,206657
+2709,Melancia,2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,33434
+2709,Melancia,2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,32259
+2709,Melancia,2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,642489
+2709,Melancia,2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,19917
+2709,Melancia,2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,324467
+2709,Melancia,3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,10159
+2709,Melancia,3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,10119
+2709,Melancia,3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,276637
+2709,Melancia,3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,27338
+2709,Melancia,3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,136188
+2709,Melancia,4,Sul,2012,2012,109,Área plantada,1006,Hectares,24373
+2709,Melancia,4,Sul,2012,2012,216,Área colhida,1006,Hectares,23734
+2709,Melancia,4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,488559
+2709,Melancia,4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,20585
+2709,Melancia,4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,170055
+2709,Melancia,5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,10661
+2709,Melancia,5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,10631
+2709,Melancia,5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,325675
+2709,Melancia,5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,30634
+2709,Melancia,5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,160838
+2710,Melão,1,Norte,2012,2012,109,Área plantada,1006,Hectares,83
+2710,Melão,1,Norte,2012,2012,216,Área colhida,1006,Hectares,83
+2710,Melão,1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,1569
+2710,Melão,1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,18904
+2710,Melão,1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,1951
+2710,Melão,2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,19866
+2710,Melão,2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,19866
+2710,Melão,2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,547262
+2710,Melão,2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,27548
+2710,Melão,2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,440383
+2710,Melão,3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,18
+2710,Melão,3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,18
+2710,Melão,3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,230
+2710,Melão,3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,12778
+2710,Melão,3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,150
+2710,Melão,4,Sul,2012,2012,109,Área plantada,1006,Hectares,2737
+2710,Melão,4,Sul,2012,2012,216,Área colhida,1006,Hectares,2716
+2710,Melão,4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,25032
+2710,Melão,4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,9216
+2710,Melão,4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,31653
+2710,Melão,5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,106
+2710,Melão,5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,106
+2710,Melão,5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,1293
+2710,Melão,5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,12198
+2710,Melão,5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,1539
+2711,Milho (em grão),1,Norte,2012,2012,109,Área plantada,1006,Hectares,541457
+2711,Milho (em grão),1,Norte,2012,2012,216,Área colhida,1006,Hectares,536656
+2711,Milho (em grão),1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,1657466
+2711,Milho (em grão),1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,3089
+2711,Milho (em grão),1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,767064
+2711,Milho (em grão),2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,2461839
+2711,Milho (em grão),2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,1777953
+2711,Milho (em grão),2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,3881633
+2711,Milho (em grão),2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,2183
+2711,Milho (em grão),2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,1874102
+2711,Milho (em grão),3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,2149542
+2711,Milho (em grão),3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,2105998
+2711,Milho (em grão),3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,12195904
+2711,Milho (em grão),3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,5791
+2711,Milho (em grão),3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,4915374
+2711,Milho (em grão),4,Sul,2012,2012,109,Área plantada,1006,Hectares,4656207
+2711,Milho (em grão),4,Sul,2012,2012,216,Área colhida,1006,Hectares,4522130
+2711,Milho (em grão),4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,22580841
+2711,Milho (em grão),4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,4993
+2711,Milho (em grão),4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,9254571
+2711,Milho (em grão),5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,5256243
+2711,Milho (em grão),5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,5255759
+2711,Milho (em grão),5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,30756966
+2711,Milho (em grão),5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,5852
+2711,Milho (em grão),5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,10013755
+2712,Rami (fibra),1,Norte,2012,2012,109,Área plantada,1006,Hectares,-
+2712,Rami (fibra),1,Norte,2012,2012,216,Área colhida,1006,Hectares,-
+2712,Rami (fibra),1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2712,Rami (fibra),1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2712,Rami (fibra),1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,-
+2712,Rami (fibra),2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,-
+2712,Rami (fibra),2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,-
+2712,Rami (fibra),2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2712,Rami (fibra),2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2712,Rami (fibra),2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+2712,Rami (fibra),3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,-
+2712,Rami (fibra),3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,-
+2712,Rami (fibra),3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2712,Rami (fibra),3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2712,Rami (fibra),3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+2712,Rami (fibra),4,Sul,2012,2012,109,Área plantada,1006,Hectares,151
+2712,Rami (fibra),4,Sul,2012,2012,216,Área colhida,1006,Hectares,151
+2712,Rami (fibra),4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,624
+2712,Rami (fibra),4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,4132
+2712,Rami (fibra),4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,1123
+2712,Rami (fibra),5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,-
+2712,Rami (fibra),5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,-
+2712,Rami (fibra),5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2712,Rami (fibra),5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2712,Rami (fibra),5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+2713,Soja (em grão),1,Norte,2012,2012,109,Área plantada,1006,Hectares,686513
+2713,Soja (em grão),1,Norte,2012,2012,216,Área colhida,1006,Hectares,686513
+2713,Soja (em grão),1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,2135471
+2713,Soja (em grão),1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,3111
+2713,Soja (em grão),1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,1927714
+2713,Soja (em grão),2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,2114806
+2713,Soja (em grão),2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,2114806
+2713,Soja (em grão),2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,6099400
+2713,Soja (em grão),2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,2884
+2713,Soja (em grão),2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,4840796
+2713,Soja (em grão),3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,1591069
+2713,Soja (em grão),3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,1590988
+2713,Soja (em grão),3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,4640455
+2713,Soja (em grão),3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,2917
+2713,Soja (em grão),3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,3936619
+2713,Soja (em grão),4,Sul,2012,2012,109,Área plantada,1006,Hectares,9178401
+2713,Soja (em grão),4,Sul,2012,2012,216,Área colhida,1006,Hectares,9064349
+2713,Soja (em grão),4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,17962829
+2713,Soja (em grão),4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,1982
+2713,Soja (em grão),4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,15082403
+2713,Soja (em grão),5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,11519770
+2713,Soja (em grão),5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,11518602
+2713,Soja (em grão),5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,35010702
+2713,Soja (em grão),5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,3039
+2713,Soja (em grão),5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,24678097
+2714,Sorgo (em grão),1,Norte,2012,2012,109,Área plantada,1006,Hectares,17320
+2714,Sorgo (em grão),1,Norte,2012,2012,216,Área colhida,1006,Hectares,17320
+2714,Sorgo (em grão),1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,30126
+2714,Sorgo (em grão),1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,1739
+2714,Sorgo (em grão),1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,8788
+2714,Sorgo (em grão),2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,95632
+2714,Sorgo (em grão),2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,58957
+2714,Sorgo (em grão),2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,40164
+2714,Sorgo (em grão),2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,681
+2714,Sorgo (em grão),2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,14027
+2714,Sorgo (em grão),3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,150690
+2714,Sorgo (em grão),3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,149618
+2714,Sorgo (em grão),3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,515455
+2714,Sorgo (em grão),3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,3445
+2714,Sorgo (em grão),3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,163535
+2714,Sorgo (em grão),4,Sul,2012,2012,109,Área plantada,1006,Hectares,17987
+2714,Sorgo (em grão),4,Sul,2012,2012,216,Área colhida,1006,Hectares,15847
+2714,Sorgo (em grão),4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,35937
+2714,Sorgo (em grão),4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,2268
+2714,Sorgo (em grão),4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,11847
+2714,Sorgo (em grão),5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,446210
+2714,Sorgo (em grão),5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,446210
+2714,Sorgo (em grão),5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,1395191
+2714,Sorgo (em grão),5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,3127
+2714,Sorgo (em grão),5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,357439
+2715,Tomate,1,Norte,2012,2012,109,Área plantada,1006,Hectares,3692
+2715,Tomate,1,Norte,2012,2012,216,Área colhida,1006,Hectares,3160
+2715,Tomate,1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,58494
+2715,Tomate,1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,18511
+2715,Tomate,1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,102139
+2715,Tomate,2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,10921
+2715,Tomate,2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,10855
+2715,Tomate,2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,421258
+2715,Tomate,2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,38808
+2715,Tomate,2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,416989
+2715,Tomate,3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,25246
+2715,Tomate,3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,24938
+2715,Tomate,3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,1601052
+2715,Tomate,3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,64201
+2715,Tomate,3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,1688583
+2715,Tomate,4,Sul,2012,2012,109,Área plantada,1006,Hectares,10219
+2715,Tomate,4,Sul,2012,2012,216,Área colhida,1006,Hectares,10202
+2715,Tomate,4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,599087
+2715,Tomate,4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,58723
+2715,Tomate,4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,643078
+2715,Tomate,5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,14704
+2715,Tomate,5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,14704
+2715,Tomate,5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,1194094
+2715,Tomate,5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,81209
+2715,Tomate,5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,505542
+2716,Trigo (em grão),1,Norte,2012,2012,109,Área plantada,1006,Hectares,-
+2716,Trigo (em grão),1,Norte,2012,2012,216,Área colhida,1006,Hectares,-
+2716,Trigo (em grão),1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2716,Trigo (em grão),1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2716,Trigo (em grão),1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,-
+2716,Trigo (em grão),2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,-
+2716,Trigo (em grão),2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,-
+2716,Trigo (em grão),2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+2716,Trigo (em grão),2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2716,Trigo (em grão),2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+2716,Trigo (em grão),3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,66295
+2716,Trigo (em grão),3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,66295
+2716,Trigo (em grão),3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,202527
+2716,Trigo (em grão),3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,3055
+2716,Trigo (em grão),3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,119792
+2716,Trigo (em grão),4,Sul,2012,2012,109,Área plantada,1006,Hectares,1849573
+2716,Trigo (em grão),4,Sul,2012,2012,216,Área colhida,1006,Hectares,1821031
+2716,Trigo (em grão),4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,4144280
+2716,Trigo (em grão),4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,2276
+2716,Trigo (em grão),4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,2160222
+2716,Trigo (em grão),5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,25835
+2716,Trigo (em grão),5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,25385
+2716,Trigo (em grão),5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,71581
+2716,Trigo (em grão),5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,2820
+2716,Trigo (em grão),5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,44264
+109180,Triticale (em grão),1,Norte,2012,2012,109,Área plantada,1006,Hectares,-
+109180,Triticale (em grão),1,Norte,2012,2012,216,Área colhida,1006,Hectares,-
+109180,Triticale (em grão),1,Norte,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+109180,Triticale (em grão),1,Norte,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+109180,Triticale (em grão),1,Norte,2012,2012,215,Valor da produção,40,Mil Reais,-
+109180,Triticale (em grão),2,Nordeste,2012,2012,109,Área plantada,1006,Hectares,-
+109180,Triticale (em grão),2,Nordeste,2012,2012,216,Área colhida,1006,Hectares,-
+109180,Triticale (em grão),2,Nordeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+109180,Triticale (em grão),2,Nordeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+109180,Triticale (em grão),2,Nordeste,2012,2012,215,Valor da produção,40,Mil Reais,-
+109180,Triticale (em grão),3,Sudeste,2012,2012,109,Área plantada,1006,Hectares,8350
+109180,Triticale (em grão),3,Sudeste,2012,2012,216,Área colhida,1006,Hectares,8350
+109180,Triticale (em grão),3,Sudeste,2012,2012,214,Quantidade produzida,1017,Toneladas,26800
+109180,Triticale (em grão),3,Sudeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,3210
+109180,Triticale (em grão),3,Sudeste,2012,2012,215,Valor da produção,40,Mil Reais,12036
+109180,Triticale (em grão),4,Sul,2012,2012,109,Área plantada,1006,Hectares,26646
+109180,Triticale (em grão),4,Sul,2012,2012,216,Área colhida,1006,Hectares,26396
+109180,Triticale (em grão),4,Sul,2012,2012,214,Quantidade produzida,1017,Toneladas,59666
+109180,Triticale (em grão),4,Sul,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,2260
+109180,Triticale (em grão),4,Sul,2012,2012,215,Valor da produção,40,Mil Reais,20039
+109180,Triticale (em grão),5,Centro-Oeste,2012,2012,109,Área plantada,1006,Hectares,-
+109180,Triticale (em grão),5,Centro-Oeste,2012,2012,216,Área colhida,1006,Hectares,-
+109180,Triticale (em grão),5,Centro-Oeste,2012,2012,214,Quantidade produzida,1017,Toneladas,-
+109180,Triticale (em grão),5,Centro-Oeste,2012,2012,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+109180,Triticale (em grão),5,Centro-Oeste,2012,2012,215,Valor da produção,40,Mil Reais,-

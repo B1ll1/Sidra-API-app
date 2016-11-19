@@ -1,0 +1,776 @@
+D1C,D1N,D2C,D2N,D3C,D3N,D4C,D4N,MC,MN,V
+2688,Abacaxi,1,Norte,1996,1996,109,Área plantada,1006,Hectares,12067
+2688,Abacaxi,1,Norte,1996,1996,216,Área colhida,1006,Hectares,11264
+2688,Abacaxi,1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,146228
+2688,Abacaxi,1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,12981
+2688,Abacaxi,1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,48230
+2688,Abacaxi,2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,14104
+2688,Abacaxi,2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,13621
+2688,Abacaxi,2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,261498
+2688,Abacaxi,2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,19198
+2688,Abacaxi,2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,90596
+2688,Abacaxi,3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,17816
+2688,Abacaxi,3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,17804
+2688,Abacaxi,3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,306903
+2688,Abacaxi,3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,17237
+2688,Abacaxi,3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,123547
+2688,Abacaxi,4,Sul,1996,1996,109,Área plantada,1006,Hectares,699
+2688,Abacaxi,4,Sul,1996,1996,216,Área colhida,1006,Hectares,699
+2688,Abacaxi,4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,8427
+2688,Abacaxi,4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,12055
+2688,Abacaxi,4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,4394
+2688,Abacaxi,5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,2812
+2688,Abacaxi,5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,2455
+2688,Abacaxi,5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,40931
+2688,Abacaxi,5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,16672
+2688,Abacaxi,5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,22370
+2689,Algodão herbáceo (em caroço),1,Norte,1996,1996,109,Área plantada,1006,Hectares,5257
+2689,Algodão herbáceo (em caroço),1,Norte,1996,1996,216,Área colhida,1006,Hectares,5257
+2689,Algodão herbáceo (em caroço),1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,5011
+2689,Algodão herbáceo (em caroço),1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,953
+2689,Algodão herbáceo (em caroço),1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,2335
+2689,Algodão herbáceo (em caroço),2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,209772
+2689,Algodão herbáceo (em caroço),2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,199070
+2689,Algodão herbáceo (em caroço),2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,88071
+2689,Algodão herbáceo (em caroço),2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,442
+2689,Algodão herbáceo (em caroço),2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,41210
+2689,Algodão herbáceo (em caroço),3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,162290
+2689,Algodão herbáceo (em caroço),3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,162284
+2689,Algodão herbáceo (em caroço),3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,236569
+2689,Algodão herbáceo (em caroço),3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1457
+2689,Algodão herbáceo (em caroço),3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,107774
+2689,Algodão herbáceo (em caroço),4,Sul,1996,1996,109,Área plantada,1006,Hectares,181916
+2689,Algodão herbáceo (em caroço),4,Sul,1996,1996,216,Área colhida,1006,Hectares,181916
+2689,Algodão herbáceo (em caroço),4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,287061
+2689,Algodão herbáceo (em caroço),4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1577
+2689,Algodão herbáceo (em caroço),4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,129952
+2689,Algodão herbáceo (em caroço),5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,196994
+2689,Algodão herbáceo (em caroço),5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,196371
+2689,Algodão herbáceo (em caroço),5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,335301
+2689,Algodão herbáceo (em caroço),5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1707
+2689,Algodão herbáceo (em caroço),5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,142734
+2690,Alho,1,Norte,1996,1996,109,Área plantada,1006,Hectares,15
+2690,Alho,1,Norte,1996,1996,216,Área colhida,1006,Hectares,15
+2690,Alho,1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,32
+2690,Alho,1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,2133
+2690,Alho,1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,16
+2690,Alho,2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,693
+2690,Alho,2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,693
+2690,Alho,2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,2343
+2690,Alho,2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,3380
+2690,Alho,2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,2264
+2690,Alho,3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,2865
+2690,Alho,3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,2865
+2690,Alho,3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,11757
+2690,Alho,3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,4103
+2690,Alho,3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,16978
+2690,Alho,4,Sul,1996,1996,109,Área plantada,1006,Hectares,6815
+2690,Alho,4,Sul,1996,1996,216,Área colhida,1006,Hectares,6812
+2690,Alho,4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,29670
+2690,Alho,4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,4355
+2690,Alho,4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,56086
+2690,Alho,5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,1759
+2690,Alho,5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,1759
+2690,Alho,5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,8653
+2690,Alho,5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,4919
+2690,Alho,5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,7785
+2691,Amendoim (em casca),1,Norte,1996,1996,109,Área plantada,1006,Hectares,206
+2691,Amendoim (em casca),1,Norte,1996,1996,216,Área colhida,1006,Hectares,206
+2691,Amendoim (em casca),1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,195
+2691,Amendoim (em casca),1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,946
+2691,Amendoim (em casca),1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,102
+2691,Amendoim (em casca),2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,7296
+2691,Amendoim (em casca),2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,7296
+2691,Amendoim (em casca),2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,6553
+2691,Amendoim (em casca),2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,898
+2691,Amendoim (em casca),2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,2258
+2691,Amendoim (em casca),3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,65304
+2691,Amendoim (em casca),3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,65304
+2691,Amendoim (em casca),3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,136240
+2691,Amendoim (em casca),3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,2086
+2691,Amendoim (em casca),3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,65316
+2691,Amendoim (em casca),4,Sul,1996,1996,109,Área plantada,1006,Hectares,7551
+2691,Amendoim (em casca),4,Sul,1996,1996,216,Área colhida,1006,Hectares,7521
+2691,Amendoim (em casca),4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,10569
+2691,Amendoim (em casca),4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1405
+2691,Amendoim (em casca),4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,5226
+2691,Amendoim (em casca),5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,515
+2691,Amendoim (em casca),5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,503
+2691,Amendoim (em casca),5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,721
+2691,Amendoim (em casca),5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1433
+2691,Amendoim (em casca),5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,304
+2692,Arroz (em casca),1,Norte,1996,1996,109,Área plantada,1006,Hectares,514850
+2692,Arroz (em casca),1,Norte,1996,1996,216,Área colhida,1006,Hectares,508836
+2692,Arroz (em casca),1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,798997
+2692,Arroz (em casca),1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1570
+2692,Arroz (em casca),1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,153557
+2692,Arroz (em casca),2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,676702
+2692,Arroz (em casca),2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,676514
+2692,Arroz (em casca),2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,970859
+2692,Arroz (em casca),2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1435
+2692,Arroz (em casca),2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,196235
+2692,Arroz (em casca),3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,318740
+2692,Arroz (em casca),3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,318594
+2692,Arroz (em casca),3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,573543
+2692,Arroz (em casca),3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1800
+2692,Arroz (em casca),3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,130506
+2692,Arroz (em casca),4,Sul,1996,1996,109,Área plantada,1006,Hectares,1076084
+2692,Arroz (em casca),4,Sul,1996,1996,216,Área colhida,1006,Hectares,1069755
+2692,Arroz (em casca),4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,5092149
+2692,Arroz (em casca),4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,4760
+2692,Arroz (em casca),4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,1076709
+2692,Arroz (em casca),5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,684998
+2692,Arroz (em casca),5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,681778
+2692,Arroz (em casca),5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,1216780
+2692,Arroz (em casca),5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1784
+2692,Arroz (em casca),5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,194078
+2693,Aveia (em grão),1,Norte,1996,1996,109,Área plantada,1006,Hectares,-
+2693,Aveia (em grão),1,Norte,1996,1996,216,Área colhida,1006,Hectares,-
+2693,Aveia (em grão),1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2693,Aveia (em grão),1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2693,Aveia (em grão),1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,-
+2693,Aveia (em grão),2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,-
+2693,Aveia (em grão),2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,-
+2693,Aveia (em grão),2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2693,Aveia (em grão),2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2693,Aveia (em grão),2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,-
+2693,Aveia (em grão),3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,342
+2693,Aveia (em grão),3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,342
+2693,Aveia (em grão),3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,663
+2693,Aveia (em grão),3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1938
+2693,Aveia (em grão),3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,111
+2693,Aveia (em grão),4,Sul,1996,1996,109,Área plantada,1006,Hectares,158253
+2693,Aveia (em grão),4,Sul,1996,1996,216,Área colhida,1006,Hectares,156842
+2693,Aveia (em grão),4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,214282
+2693,Aveia (em grão),4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1366
+2693,Aveia (em grão),4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,29267
+2693,Aveia (em grão),5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,3682
+2693,Aveia (em grão),5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,3282
+2693,Aveia (em grão),5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,2481
+2693,Aveia (em grão),5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,755
+2693,Aveia (em grão),5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,304
+2694,Batata-doce,1,Norte,1996,1996,109,Área plantada,1006,Hectares,578
+2694,Batata-doce,1,Norte,1996,1996,216,Área colhida,1006,Hectares,552
+2694,Batata-doce,1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,1603
+2694,Batata-doce,1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,2903
+2694,Batata-doce,1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,319
+2694,Batata-doce,2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,22587
+2694,Batata-doce,2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,22558
+2694,Batata-doce,2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,166955
+2694,Batata-doce,2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,7401
+2694,Batata-doce,2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,36175
+2694,Batata-doce,3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,6016
+2694,Batata-doce,3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,6016
+2694,Batata-doce,3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,87437
+2694,Batata-doce,3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,14534
+2694,Batata-doce,3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,21106
+2694,Batata-doce,4,Sul,1996,1996,109,Área plantada,1006,Hectares,18491
+2694,Batata-doce,4,Sul,1996,1996,216,Área colhida,1006,Hectares,18468
+2694,Batata-doce,4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,155402
+2694,Batata-doce,4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,8414
+2694,Batata-doce,4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,32998
+2694,Batata-doce,5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,347
+2694,Batata-doce,5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,347
+2694,Batata-doce,5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,2886
+2694,Batata-doce,5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,8317
+2694,Batata-doce,5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,678
+2695,Batata-inglesa,1,Norte,1996,1996,109,Área plantada,1006,Hectares,-
+2695,Batata-inglesa,1,Norte,1996,1996,216,Área colhida,1006,Hectares,-
+2695,Batata-inglesa,1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2695,Batata-inglesa,1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2695,Batata-inglesa,1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,-
+2695,Batata-inglesa,2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,3251
+2695,Batata-inglesa,2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,3239
+2695,Batata-inglesa,2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,55309
+2695,Batata-inglesa,2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,17075
+2695,Batata-inglesa,2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,17584
+2695,Batata-inglesa,3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,63063
+2695,Batata-inglesa,3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,63063
+2695,Batata-inglesa,3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,1233286
+2695,Batata-inglesa,3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,19556
+2695,Batata-inglesa,3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,242394
+2695,Batata-inglesa,4,Sul,1996,1996,109,Área plantada,1006,Hectares,97155
+2695,Batata-inglesa,4,Sul,1996,1996,216,Área colhida,1006,Hectares,97082
+2695,Batata-inglesa,4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,1090100
+2695,Batata-inglesa,4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,11228
+2695,Batata-inglesa,4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,224817
+2695,Batata-inglesa,5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,1288
+2695,Batata-inglesa,5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,1288
+2695,Batata-inglesa,5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,33851
+2695,Batata-inglesa,5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,26281
+2695,Batata-inglesa,5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,6083
+2696,Cana-de-açúcar,1,Norte,1996,1996,109,Área plantada,1006,Hectares,9972
+2696,Cana-de-açúcar,1,Norte,1996,1996,216,Área colhida,1006,Hectares,9499
+2696,Cana-de-açúcar,1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,472591
+2696,Cana-de-açúcar,1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,49751
+2696,Cana-de-açúcar,1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,29522
+2696,Cana-de-açúcar,2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,1208454
+2696,Cana-de-açúcar,2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,1139688
+2696,Cana-de-açúcar,2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,53778920
+2696,Cana-de-açúcar,2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,47187
+2696,Cana-de-açúcar,2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,1190445
+2696,Cana-de-açúcar,3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,2954922
+2696,Cana-de-açúcar,3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,2954877
+2696,Cana-de-açúcar,3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,215644015
+2696,Cana-de-açúcar,3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,72979
+2696,Cana-de-açúcar,3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,3143918
+2696,Cana-de-açúcar,4,Sul,1996,1996,109,Área plantada,1006,Hectares,338302
+2696,Cana-de-açúcar,4,Sul,1996,1996,216,Área colhida,1006,Hectares,338182
+2696,Cana-de-açúcar,4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,24645355
+2696,Cana-de-açúcar,4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,72876
+2696,Cana-de-açúcar,4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,381036
+2696,Cana-de-açúcar,5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,318888
+2696,Cana-de-açúcar,5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,308050
+2696,Cana-de-açúcar,5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,22565100
+2696,Cana-de-açúcar,5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,73251
+2696,Cana-de-açúcar,5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,348726
+2697,Cebola,1,Norte,1996,1996,109,Área plantada,1006,Hectares,-
+2697,Cebola,1,Norte,1996,1996,216,Área colhida,1006,Hectares,-
+2697,Cebola,1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2697,Cebola,1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2697,Cebola,1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,-
+2697,Cebola,2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,10799
+2697,Cebola,2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,10653
+2697,Cebola,2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,144203
+2697,Cebola,2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,13536
+2697,Cebola,2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,34304
+2697,Cebola,3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,14393
+2697,Cebola,3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,14393
+2697,Cebola,3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,312212
+2697,Cebola,3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,21691
+2697,Cebola,3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,64716
+2697,Cebola,4,Sul,1996,1996,109,Área plantada,1006,Hectares,46437
+2697,Cebola,4,Sul,1996,1996,216,Área colhida,1006,Hectares,46197
+2697,Cebola,4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,447100
+2697,Cebola,4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,9678
+2697,Cebola,4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,69954
+2697,Cebola,5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,95
+2697,Cebola,5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,95
+2697,Cebola,5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,3128
+2697,Cebola,5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,32926
+2697,Cebola,5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,400
+2698,Centeio (em grão),1,Norte,1996,1996,109,Área plantada,1006,Hectares,-
+2698,Centeio (em grão),1,Norte,1996,1996,216,Área colhida,1006,Hectares,-
+2698,Centeio (em grão),1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2698,Centeio (em grão),1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2698,Centeio (em grão),1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,-
+2698,Centeio (em grão),2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,-
+2698,Centeio (em grão),2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,-
+2698,Centeio (em grão),2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2698,Centeio (em grão),2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2698,Centeio (em grão),2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,-
+2698,Centeio (em grão),3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,-
+2698,Centeio (em grão),3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,-
+2698,Centeio (em grão),3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2698,Centeio (em grão),3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2698,Centeio (em grão),3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,-
+2698,Centeio (em grão),4,Sul,1996,1996,109,Área plantada,1006,Hectares,5268
+2698,Centeio (em grão),4,Sul,1996,1996,216,Área colhida,1006,Hectares,5263
+2698,Centeio (em grão),4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,7040
+2698,Centeio (em grão),4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1337
+2698,Centeio (em grão),4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,1185
+2698,Centeio (em grão),5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,-
+2698,Centeio (em grão),5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,-
+2698,Centeio (em grão),5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2698,Centeio (em grão),5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2698,Centeio (em grão),5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,-
+2699,Cevada (em grão),1,Norte,1996,1996,109,Área plantada,1006,Hectares,-
+2699,Cevada (em grão),1,Norte,1996,1996,216,Área colhida,1006,Hectares,-
+2699,Cevada (em grão),1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2699,Cevada (em grão),1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2699,Cevada (em grão),1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,-
+2699,Cevada (em grão),2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,-
+2699,Cevada (em grão),2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,-
+2699,Cevada (em grão),2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2699,Cevada (em grão),2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2699,Cevada (em grão),2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,-
+2699,Cevada (em grão),3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,-
+2699,Cevada (em grão),3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,-
+2699,Cevada (em grão),3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2699,Cevada (em grão),3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2699,Cevada (em grão),3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,-
+2699,Cevada (em grão),4,Sul,1996,1996,109,Área plantada,1006,Hectares,84971
+2699,Cevada (em grão),4,Sul,1996,1996,216,Área colhida,1006,Hectares,84065
+2699,Cevada (em grão),4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,209209
+2699,Cevada (em grão),4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,2488
+2699,Cevada (em grão),4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,34462
+2699,Cevada (em grão),5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,2
+2699,Cevada (em grão),5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,2
+2699,Cevada (em grão),5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,6
+2699,Cevada (em grão),5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,3000
+2699,Cevada (em grão),5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,1
+2700,Ervilha (em grão),1,Norte,1996,1996,109,Área plantada,1006,Hectares,-
+2700,Ervilha (em grão),1,Norte,1996,1996,216,Área colhida,1006,Hectares,-
+2700,Ervilha (em grão),1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2700,Ervilha (em grão),1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2700,Ervilha (em grão),1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,-
+2700,Ervilha (em grão),2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,-
+2700,Ervilha (em grão),2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,-
+2700,Ervilha (em grão),2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2700,Ervilha (em grão),2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2700,Ervilha (em grão),2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,-
+2700,Ervilha (em grão),3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,1035
+2700,Ervilha (em grão),3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,1035
+2700,Ervilha (em grão),3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,2287
+2700,Ervilha (em grão),3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,2209
+2700,Ervilha (em grão),3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,982
+2700,Ervilha (em grão),4,Sul,1996,1996,109,Área plantada,1006,Hectares,407
+2700,Ervilha (em grão),4,Sul,1996,1996,216,Área colhida,1006,Hectares,407
+2700,Ervilha (em grão),4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,521
+2700,Ervilha (em grão),4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1280
+2700,Ervilha (em grão),4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,713
+2700,Ervilha (em grão),5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,-
+2700,Ervilha (em grão),5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,-
+2700,Ervilha (em grão),5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2700,Ervilha (em grão),5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2700,Ervilha (em grão),5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,-
+2701,Fava (em grão),1,Norte,1996,1996,109,Área plantada,1006,Hectares,79
+2701,Fava (em grão),1,Norte,1996,1996,216,Área colhida,1006,Hectares,79
+2701,Fava (em grão),1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,22
+2701,Fava (em grão),1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,278
+2701,Fava (em grão),1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,16
+2701,Fava (em grão),2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,73206
+2701,Fava (em grão),2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,73039
+2701,Fava (em grão),2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,18018
+2701,Fava (em grão),2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,246
+2701,Fava (em grão),2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,8847
+2701,Fava (em grão),3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,9092
+2701,Fava (em grão),3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,9092
+2701,Fava (em grão),3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,3456
+2701,Fava (em grão),3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,380
+2701,Fava (em grão),3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,705
+2701,Fava (em grão),4,Sul,1996,1996,109,Área plantada,1006,Hectares,232
+2701,Fava (em grão),4,Sul,1996,1996,216,Área colhida,1006,Hectares,232
+2701,Fava (em grão),4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,243
+2701,Fava (em grão),4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1047
+2701,Fava (em grão),4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,170
+2701,Fava (em grão),5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,-
+2701,Fava (em grão),5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,-
+2701,Fava (em grão),5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2701,Fava (em grão),5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2701,Fava (em grão),5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,-
+2702,Feijão (em grão),1,Norte,1996,1996,109,Área plantada,1006,Hectares,193711
+2702,Feijão (em grão),1,Norte,1996,1996,216,Área colhida,1006,Hectares,192896
+2702,Feijão (em grão),1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,132929
+2702,Feijão (em grão),1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,689
+2702,Feijão (em grão),1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,66910
+2702,Feijão (em grão),2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,2396808
+2702,Feijão (em grão),2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,2243604
+2702,Feijão (em grão),2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,880157
+2702,Feijão (em grão),2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,392
+2702,Feijão (em grão),2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,438940
+2702,Feijão (em grão),3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,686433
+2702,Feijão (em grão),3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,686220
+2702,Feijão (em grão),3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,475965
+2702,Feijão (em grão),3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,693
+2702,Feijão (em grão),3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,320931
+2702,Feijão (em grão),4,Sul,1996,1996,109,Área plantada,1006,Hectares,1080275
+2702,Feijão (em grão),4,Sul,1996,1996,216,Área colhida,1006,Hectares,1038341
+2702,Feijão (em grão),4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,811031
+2702,Feijão (em grão),4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,781
+2702,Feijão (em grão),4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,347034
+2702,Feijão (em grão),5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,142463
+2702,Feijão (em grão),5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,139452
+2702,Feijão (em grão),5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,151954
+2702,Feijão (em grão),5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1089
+2702,Feijão (em grão),5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,85585
+2703,Fumo (em folha),1,Norte,1996,1996,109,Área plantada,1006,Hectares,1021
+2703,Fumo (em folha),1,Norte,1996,1996,216,Área colhida,1006,Hectares,1010
+2703,Fumo (em folha),1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,563
+2703,Fumo (em folha),1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,557
+2703,Fumo (em folha),1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,1107
+2703,Fumo (em folha),2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,44894
+2703,Fumo (em folha),2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,44894
+2703,Fumo (em folha),2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,41309
+2703,Fumo (em folha),2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,920
+2703,Fumo (em folha),2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,31222
+2703,Fumo (em folha),3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,2862
+2703,Fumo (em folha),3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,2862
+2703,Fumo (em folha),3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,1809
+2703,Fumo (em folha),3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,632
+2703,Fumo (em folha),3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,3394
+2703,Fumo (em folha),4,Sul,1996,1996,109,Área plantada,1006,Hectares,271269
+2703,Fumo (em folha),4,Sul,1996,1996,216,Área colhida,1006,Hectares,268442
+2703,Fumo (em folha),4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,432917
+2703,Fumo (em folha),4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1612
+2703,Fumo (em folha),4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,841850
+2703,Fumo (em folha),5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,71
+2703,Fumo (em folha),5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,71
+2703,Fumo (em folha),5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,40
+2703,Fumo (em folha),5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,563
+2703,Fumo (em folha),5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,22
+109179,Girassol (em grão),1,Norte,1996,1996,109,Área plantada,1006,Hectares,...
+109179,Girassol (em grão),1,Norte,1996,1996,216,Área colhida,1006,Hectares,...
+109179,Girassol (em grão),1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,...
+109179,Girassol (em grão),1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,...
+109179,Girassol (em grão),1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,...
+109179,Girassol (em grão),2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,...
+109179,Girassol (em grão),2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,...
+109179,Girassol (em grão),2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,...
+109179,Girassol (em grão),2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,...
+109179,Girassol (em grão),2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,...
+109179,Girassol (em grão),3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,...
+109179,Girassol (em grão),3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,...
+109179,Girassol (em grão),3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,...
+109179,Girassol (em grão),3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,...
+109179,Girassol (em grão),3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,...
+109179,Girassol (em grão),4,Sul,1996,1996,109,Área plantada,1006,Hectares,...
+109179,Girassol (em grão),4,Sul,1996,1996,216,Área colhida,1006,Hectares,...
+109179,Girassol (em grão),4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,...
+109179,Girassol (em grão),4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,...
+109179,Girassol (em grão),4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,...
+109179,Girassol (em grão),5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,...
+109179,Girassol (em grão),5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,...
+109179,Girassol (em grão),5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,...
+109179,Girassol (em grão),5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,...
+109179,Girassol (em grão),5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,...
+2704,Juta (fibra),1,Norte,1996,1996,109,Área plantada,1006,Hectares,481
+2704,Juta (fibra),1,Norte,1996,1996,216,Área colhida,1006,Hectares,442
+2704,Juta (fibra),1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,624
+2704,Juta (fibra),1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1411
+2704,Juta (fibra),1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,208
+2704,Juta (fibra),2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,-
+2704,Juta (fibra),2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,-
+2704,Juta (fibra),2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2704,Juta (fibra),2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2704,Juta (fibra),2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,-
+2704,Juta (fibra),3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,-
+2704,Juta (fibra),3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,-
+2704,Juta (fibra),3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2704,Juta (fibra),3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2704,Juta (fibra),3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,-
+2704,Juta (fibra),4,Sul,1996,1996,109,Área plantada,1006,Hectares,-
+2704,Juta (fibra),4,Sul,1996,1996,216,Área colhida,1006,Hectares,-
+2704,Juta (fibra),4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2704,Juta (fibra),4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2704,Juta (fibra),4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,-
+2704,Juta (fibra),5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,-
+2704,Juta (fibra),5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,-
+2704,Juta (fibra),5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2704,Juta (fibra),5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2704,Juta (fibra),5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,-
+2705,Linho (semente),1,Norte,1996,1996,109,Área plantada,1006,Hectares,-
+2705,Linho (semente),1,Norte,1996,1996,216,Área colhida,1006,Hectares,-
+2705,Linho (semente),1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2705,Linho (semente),1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2705,Linho (semente),1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,-
+2705,Linho (semente),2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,-
+2705,Linho (semente),2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,-
+2705,Linho (semente),2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2705,Linho (semente),2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2705,Linho (semente),2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,-
+2705,Linho (semente),3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,-
+2705,Linho (semente),3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,-
+2705,Linho (semente),3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2705,Linho (semente),3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2705,Linho (semente),3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,-
+2705,Linho (semente),4,Sul,1996,1996,109,Área plantada,1006,Hectares,2915
+2705,Linho (semente),4,Sul,1996,1996,216,Área colhida,1006,Hectares,2915
+2705,Linho (semente),4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,2713
+2705,Linho (semente),4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,930
+2705,Linho (semente),4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,557
+2705,Linho (semente),5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,-
+2705,Linho (semente),5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,-
+2705,Linho (semente),5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2705,Linho (semente),5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2705,Linho (semente),5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,-
+2706,Malva (fibra),1,Norte,1996,1996,109,Área plantada,1006,Hectares,3005
+2706,Malva (fibra),1,Norte,1996,1996,216,Área colhida,1006,Hectares,2986
+2706,Malva (fibra),1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,3986
+2706,Malva (fibra),1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1334
+2706,Malva (fibra),1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,1877
+2706,Malva (fibra),2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,25
+2706,Malva (fibra),2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,25
+2706,Malva (fibra),2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,19
+2706,Malva (fibra),2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,760
+2706,Malva (fibra),2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,6
+2706,Malva (fibra),3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,-
+2706,Malva (fibra),3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,-
+2706,Malva (fibra),3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2706,Malva (fibra),3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2706,Malva (fibra),3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,-
+2706,Malva (fibra),4,Sul,1996,1996,109,Área plantada,1006,Hectares,-
+2706,Malva (fibra),4,Sul,1996,1996,216,Área colhida,1006,Hectares,-
+2706,Malva (fibra),4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2706,Malva (fibra),4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2706,Malva (fibra),4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,-
+2706,Malva (fibra),5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,-
+2706,Malva (fibra),5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,-
+2706,Malva (fibra),5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2706,Malva (fibra),5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2706,Malva (fibra),5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,-
+2707,Mamona (baga),1,Norte,1996,1996,109,Área plantada,1006,Hectares,-
+2707,Mamona (baga),1,Norte,1996,1996,216,Área colhida,1006,Hectares,-
+2707,Mamona (baga),1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2707,Mamona (baga),1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2707,Mamona (baga),1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,-
+2707,Mamona (baga),2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,127626
+2707,Mamona (baga),2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,118272
+2707,Mamona (baga),2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,39508
+2707,Mamona (baga),2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,334
+2707,Mamona (baga),2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,9681
+2707,Mamona (baga),3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,1264
+2707,Mamona (baga),3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,1264
+2707,Mamona (baga),3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,1444
+2707,Mamona (baga),3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1142
+2707,Mamona (baga),3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,295
+2707,Mamona (baga),4,Sul,1996,1996,109,Área plantada,1006,Hectares,107
+2707,Mamona (baga),4,Sul,1996,1996,216,Área colhida,1006,Hectares,107
+2707,Mamona (baga),4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,86
+2707,Mamona (baga),4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,803
+2707,Mamona (baga),4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,18
+2707,Mamona (baga),5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,206
+2707,Mamona (baga),5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,206
+2707,Mamona (baga),5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,308
+2707,Mamona (baga),5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1495
+2707,Mamona (baga),5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,73
+2708,Mandioca,1,Norte,1996,1996,109,Área plantada,1006,Hectares,450822
+2708,Mandioca,1,Norte,1996,1996,216,Área colhida,1006,Hectares,412602
+2708,Mandioca,1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,4997709
+2708,Mandioca,1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,12112
+2708,Mandioca,1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,542339
+2708,Mandioca,2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,694111
+2708,Mandioca,2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,656621
+2708,Mandioca,2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,6318030
+2708,Mandioca,2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,9622
+2708,Mandioca,2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,619991
+2708,Mandioca,3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,125765
+2708,Mandioca,3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,125028
+2708,Mandioca,3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,1593098
+2708,Mandioca,3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,12728
+2708,Mandioca,3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,219394
+2708,Mandioca,4,Sul,1996,1996,109,Área plantada,1006,Hectares,258358
+2708,Mandioca,4,Sul,1996,1996,216,Área colhida,1006,Hectares,256106
+2708,Mandioca,4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,4041216
+2708,Mandioca,4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,15779
+2708,Mandioca,4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,422971
+2708,Mandioca,5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,61028
+2708,Mandioca,5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,58561
+2708,Mandioca,5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,793102
+2708,Mandioca,5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,13543
+2708,Mandioca,5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,96939
+2709,Melancia,1,Norte,1996,1996,109,Área plantada,1006,Hectares,8070
+2709,Melancia,1,Norte,1996,1996,216,Área colhida,1006,Hectares,7999
+2709,Melancia,1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,15777
+2709,Melancia,1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1972
+2709,Melancia,1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,10433
+2709,Melancia,2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,29419
+2709,Melancia,2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,29419
+2709,Melancia,2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,66421
+2709,Melancia,2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,2257
+2709,Melancia,2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,42954
+2709,Melancia,3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,10217
+2709,Melancia,3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,10217
+2709,Melancia,3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,33214
+2709,Melancia,3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,3250
+2709,Melancia,3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,30770
+2709,Melancia,4,Sul,1996,1996,109,Área plantada,1006,Hectares,18183
+2709,Melancia,4,Sul,1996,1996,216,Área colhida,1006,Hectares,18183
+2709,Melancia,4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,41797
+2709,Melancia,4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,2298
+2709,Melancia,4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,30349
+2709,Melancia,5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,9612
+2709,Melancia,5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,9483
+2709,Melancia,5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,23377
+2709,Melancia,5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,2465
+2709,Melancia,5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,6896
+2710,Melão,1,Norte,1996,1996,109,Área plantada,1006,Hectares,205
+2710,Melão,1,Norte,1996,1996,216,Área colhida,1006,Hectares,199
+2710,Melão,1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,607
+2710,Melão,1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,3050
+2710,Melão,1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,560
+2710,Melão,2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,11305
+2710,Melão,2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,11305
+2710,Melão,2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,141559
+2710,Melão,2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,12521
+2710,Melão,2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,46047
+2710,Melão,3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,202
+2710,Melão,3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,202
+2710,Melão,3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,2092
+2710,Melão,3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,10356
+2710,Melão,3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,1461
+2710,Melão,4,Sul,1996,1996,109,Área plantada,1006,Hectares,2089
+2710,Melão,4,Sul,1996,1996,216,Área colhida,1006,Hectares,2089
+2710,Melão,4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,5024
+2710,Melão,4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,2404
+2710,Melão,4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,3269
+2710,Melão,5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,131
+2710,Melão,5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,131
+2710,Melão,5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,217
+2710,Melão,5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1656
+2710,Melão,5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,224
+2711,Milho (em grão),1,Norte,1996,1996,109,Área plantada,1006,Hectares,556010
+2711,Milho (em grão),1,Norte,1996,1996,216,Área colhida,1006,Hectares,554490
+2711,Milho (em grão),1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,768622
+2711,Milho (em grão),1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1386
+2711,Milho (em grão),1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,116399
+2711,Milho (em grão),2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,2584965
+2711,Milho (em grão),2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,2418840
+2711,Milho (em grão),2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,2043976
+2711,Milho (em grão),2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,845
+2711,Milho (em grão),2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,321536
+2711,Milho (em grão),3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,2531613
+2711,Milho (em grão),3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,2531527
+2711,Milho (em grão),3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,7050672
+2711,Milho (em grão),3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,2785
+2711,Milho (em grão),3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,945778
+2711,Milho (em grão),4,Sul,1996,1996,109,Área plantada,1006,Hectares,4942355
+2711,Milho (em grão),4,Sul,1996,1996,216,Área colhida,1006,Hectares,4613898
+2711,Milho (em grão),4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,13293869
+2711,Milho (em grão),4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,2881
+2711,Milho (em grão),4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,1714540
+2711,Milho (em grão),5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,1890642
+2711,Milho (em grão),5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,1857056
+2711,Milho (em grão),5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,6495652
+2711,Milho (em grão),5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,3497
+2711,Milho (em grão),5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,682673
+2712,Rami (fibra),1,Norte,1996,1996,109,Área plantada,1006,Hectares,-
+2712,Rami (fibra),1,Norte,1996,1996,216,Área colhida,1006,Hectares,-
+2712,Rami (fibra),1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2712,Rami (fibra),1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2712,Rami (fibra),1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,-
+2712,Rami (fibra),2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,-
+2712,Rami (fibra),2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,-
+2712,Rami (fibra),2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2712,Rami (fibra),2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2712,Rami (fibra),2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,-
+2712,Rami (fibra),3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,-
+2712,Rami (fibra),3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,-
+2712,Rami (fibra),3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2712,Rami (fibra),3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2712,Rami (fibra),3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,-
+2712,Rami (fibra),4,Sul,1996,1996,109,Área plantada,1006,Hectares,2553
+2712,Rami (fibra),4,Sul,1996,1996,216,Área colhida,1006,Hectares,2553
+2712,Rami (fibra),4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,4807
+2712,Rami (fibra),4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1882
+2712,Rami (fibra),4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,3536
+2712,Rami (fibra),5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,-
+2712,Rami (fibra),5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,-
+2712,Rami (fibra),5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2712,Rami (fibra),5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2712,Rami (fibra),5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,-
+2713,Soja (em grão),1,Norte,1996,1996,109,Área plantada,1006,Hectares,7644
+2713,Soja (em grão),1,Norte,1996,1996,216,Área colhida,1006,Hectares,7644
+2713,Soja (em grão),1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,15192
+2713,Soja (em grão),1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1987
+2713,Soja (em grão),1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,2850
+2713,Soja (em grão),2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,506520
+2713,Soja (em grão),2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,506520
+2713,Soja (em grão),2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,860032
+2713,Soja (em grão),2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1697
+2713,Soja (em grão),2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,195717
+2713,Soja (em grão),3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,1034618
+2713,Soja (em grão),3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,1034618
+2713,Soja (em grão),3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,2144404
+2713,Soja (em grão),3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,2072
+2713,Soja (em grão),3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,504502
+2713,Soja (em grão),4,Sul,1996,1996,109,Área plantada,1006,Hectares,5101263
+2713,Soja (em grão),4,Sul,1996,1996,216,Área colhida,1006,Hectares,5047886
+2713,Soja (em grão),4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,11080876
+2713,Soja (em grão),4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,2195
+2713,Soja (em grão),4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,2432251
+2713,Soja (em grão),5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,3706111
+2713,Soja (em grão),5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,3702802
+2713,Soja (em grão),5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,9066370
+2713,Soja (em grão),5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,2448
+2713,Soja (em grão),5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,1689009
+2714,Sorgo (em grão),1,Norte,1996,1996,109,Área plantada,1006,Hectares,127
+2714,Sorgo (em grão),1,Norte,1996,1996,216,Área colhida,1006,Hectares,127
+2714,Sorgo (em grão),1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,157
+2714,Sorgo (em grão),1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1236
+2714,Sorgo (em grão),1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,15
+2714,Sorgo (em grão),2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,25941
+2714,Sorgo (em grão),2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,25941
+2714,Sorgo (em grão),2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,7192
+2714,Sorgo (em grão),2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,277
+2714,Sorgo (em grão),2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,1077
+2714,Sorgo (em grão),3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,62520
+2714,Sorgo (em grão),3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,62520
+2714,Sorgo (em grão),3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,137030
+2714,Sorgo (em grão),3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,2191
+2714,Sorgo (em grão),3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,12744
+2714,Sorgo (em grão),4,Sul,1996,1996,109,Área plantada,1006,Hectares,19815
+2714,Sorgo (em grão),4,Sul,1996,1996,216,Área colhida,1006,Hectares,19076
+2714,Sorgo (em grão),4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,37117
+2714,Sorgo (em grão),4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1945
+2714,Sorgo (em grão),4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,4358
+2714,Sorgo (em grão),5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,90534
+2714,Sorgo (em grão),5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,89139
+2714,Sorgo (em grão),5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,175071
+2714,Sorgo (em grão),5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1964
+2714,Sorgo (em grão),5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,12531
+2715,Tomate,1,Norte,1996,1996,109,Área plantada,1006,Hectares,1364
+2715,Tomate,1,Norte,1996,1996,216,Área colhida,1006,Hectares,1327
+2715,Tomate,1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,10746
+2715,Tomate,1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,8097
+2715,Tomate,1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,4927
+2715,Tomate,2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,22814
+2715,Tomate,2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,22300
+2715,Tomate,2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,646629
+2715,Tomate,2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,28996
+2715,Tomate,2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,172628
+2715,Tomate,3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,32751
+2715,Tomate,3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,32741
+2715,Tomate,3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,1438589
+2715,Tomate,3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,43938
+2715,Tomate,3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,511412
+2715,Tomate,4,Sul,1996,1996,109,Área plantada,1006,Hectares,8872
+2715,Tomate,4,Sul,1996,1996,216,Área colhida,1006,Hectares,8841
+2715,Tomate,4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,259868
+2715,Tomate,4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,29393
+2715,Tomate,4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,91652
+2715,Tomate,5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,5769
+2715,Tomate,5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,5767
+2715,Tomate,5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,292795
+2715,Tomate,5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,50770
+2715,Tomate,5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,60211
+2716,Trigo (em grão),1,Norte,1996,1996,109,Área plantada,1006,Hectares,-
+2716,Trigo (em grão),1,Norte,1996,1996,216,Área colhida,1006,Hectares,-
+2716,Trigo (em grão),1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2716,Trigo (em grão),1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2716,Trigo (em grão),1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,-
+2716,Trigo (em grão),2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,-
+2716,Trigo (em grão),2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,-
+2716,Trigo (em grão),2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,-
+2716,Trigo (em grão),2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,-
+2716,Trigo (em grão),2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,-
+2716,Trigo (em grão),3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,21630
+2716,Trigo (em grão),3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,21630
+2716,Trigo (em grão),3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,39790
+2716,Trigo (em grão),3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1839
+2716,Trigo (em grão),3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,9989
+2716,Trigo (em grão),4,Sul,1996,1996,109,Área plantada,1006,Hectares,1744730
+2716,Trigo (em grão),4,Sul,1996,1996,216,Área colhida,1006,Hectares,1718415
+2716,Trigo (em grão),4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,3171456
+2716,Trigo (em grão),4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1845
+2716,Trigo (em grão),4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,456271
+2716,Trigo (em grão),5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,59288
+2716,Trigo (em grão),5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,55960
+2716,Trigo (em grão),5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,81531
+2716,Trigo (em grão),5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,1456
+2716,Trigo (em grão),5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,14461
+109180,Triticale (em grão),1,Norte,1996,1996,109,Área plantada,1006,Hectares,...
+109180,Triticale (em grão),1,Norte,1996,1996,216,Área colhida,1006,Hectares,...
+109180,Triticale (em grão),1,Norte,1996,1996,214,Quantidade produzida,1017,Toneladas,...
+109180,Triticale (em grão),1,Norte,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,...
+109180,Triticale (em grão),1,Norte,1996,1996,215,Valor da produção,40,Mil Reais,...
+109180,Triticale (em grão),2,Nordeste,1996,1996,109,Área plantada,1006,Hectares,...
+109180,Triticale (em grão),2,Nordeste,1996,1996,216,Área colhida,1006,Hectares,...
+109180,Triticale (em grão),2,Nordeste,1996,1996,214,Quantidade produzida,1017,Toneladas,...
+109180,Triticale (em grão),2,Nordeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,...
+109180,Triticale (em grão),2,Nordeste,1996,1996,215,Valor da produção,40,Mil Reais,...
+109180,Triticale (em grão),3,Sudeste,1996,1996,109,Área plantada,1006,Hectares,...
+109180,Triticale (em grão),3,Sudeste,1996,1996,216,Área colhida,1006,Hectares,...
+109180,Triticale (em grão),3,Sudeste,1996,1996,214,Quantidade produzida,1017,Toneladas,...
+109180,Triticale (em grão),3,Sudeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,...
+109180,Triticale (em grão),3,Sudeste,1996,1996,215,Valor da produção,40,Mil Reais,...
+109180,Triticale (em grão),4,Sul,1996,1996,109,Área plantada,1006,Hectares,...
+109180,Triticale (em grão),4,Sul,1996,1996,216,Área colhida,1006,Hectares,...
+109180,Triticale (em grão),4,Sul,1996,1996,214,Quantidade produzida,1017,Toneladas,...
+109180,Triticale (em grão),4,Sul,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,...
+109180,Triticale (em grão),4,Sul,1996,1996,215,Valor da produção,40,Mil Reais,...
+109180,Triticale (em grão),5,Centro-Oeste,1996,1996,109,Área plantada,1006,Hectares,...
+109180,Triticale (em grão),5,Centro-Oeste,1996,1996,216,Área colhida,1006,Hectares,...
+109180,Triticale (em grão),5,Centro-Oeste,1996,1996,214,Quantidade produzida,1017,Toneladas,...
+109180,Triticale (em grão),5,Centro-Oeste,1996,1996,112,Rendimento médio da produção,33,Quilogramas por Hectare,...
+109180,Triticale (em grão),5,Centro-Oeste,1996,1996,215,Valor da produção,40,Mil Reais,...
