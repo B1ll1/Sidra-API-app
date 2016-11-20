@@ -41,11 +41,33 @@
           </ul>
         </li>
 
-        <li class="{{ strpos(Request::url(), 'analise') ? 'active' : '' }}">
-          <a href="{{ route('report.productionForRegionChart') }}">
-            <i class="fa fa-bar-chart fa-fw"></i>
-            <span>Relatórios</span>
+        <li class="treeview {{ strpos(Request::url(), 'analise') ? 'active' : '' }}">
+          <a href="#">
+            <i class="fa fa-bar-chart fa-fw"></i> <span>Relatórios</span>
           </a>
+
+          <ul class="treeview-menu">
+            <li class="{{ strpos(Request::url(), 'estado') ? 'active' : '' }}">
+              <a href="{{ route('report.productionForRegionChart') }}">
+                <i class="fa fa-eye fa-fw"></i>
+                <span>Estados</span>
+              </a>
+            </li>
+
+            <li class="{{ strpos(Request::url(), 'grande-regiao') ? 'active' : '' }}">
+              <a href="{{ route('report.productionForBigRegionChart') }}">
+                <i class="fa fa-eye fa-fw"></i>
+                <span>Grande Regiões</span>
+              </a>
+            </li>
+
+            <li class="{{ strpos(Request::url(), 'pais') ? 'active' : '' }}">
+              <a href="{{ route('report.productionForCountryChart') }}">
+                <i class="fa fa-eye fa-fw"></i>
+                <span>Brasil</span>
+              </a>
+            </li>
+          </ul>
         </li>
 
       </ul>

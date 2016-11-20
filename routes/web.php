@@ -34,6 +34,13 @@ Route::group(['prefix' => 'producao', 'as' => 'product-region-type.'], function(
 Route::group(['prefix' => 'analise', 'as' => 'report.'], function() {
     Route::get('', ['as' => 'index', 'uses' => 'ReportsController@index']);
     Route::post('relatorio', ['as' => 'generateReport', 'uses' => 'ReportsController@generateReport']);
-    Route::get('producao-por-regiao', ['as' => 'productionForRegionChart', 'uses' => 'ReportsController@productionForRegionChart']);
+
+    Route::get('estado', ['as' => 'productionForRegionChart', 'uses' => 'ReportsController@productionForRegionChart']);
     Route::get('producao-por-regiao/dados', ['as' => 'productionForRegionChartData', 'uses' => 'ReportsController@productionForRegionChartData']);
+
+    Route::get('grande-regiao', ['as' => 'productionForBigRegionChart', 'uses' => 'ReportsController@productionForBigRegionChart']);
+    Route::get('producao-por-grande-regiao/dados', ['as' => 'productionForBigRegionChartData', 'uses' => 'ReportsController@productionForBigRegionChartData']);
+
+    Route::get('pais', ['as' => 'productionForCountryChart', 'uses' => 'ReportsController@productionForCountryChart']);
+    Route::get('producao-por-pais/dados', ['as' => 'productionForCountryChartData', 'uses' => 'ReportsController@productionForBigRegionChartData']);
 });
