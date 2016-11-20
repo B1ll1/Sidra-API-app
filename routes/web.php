@@ -18,13 +18,17 @@ Route::get('/', function () {
 Route::post('/importar',['as'=>'import', 'uses'=>'ImportController@Import']);
 
 Route::group(['prefix' => 'producao', 'as' => 'product-region-type.'], function() {
-    Route::get('todos', ['as' => 'index', 'uses' => 'ProductRegionTypesController@index']);
+    Route::get('estados', ['as' => 'index', 'uses' => 'ProductRegionTypesController@index']);
+    Route::get('regiao', ['as' => 'bigRegion', 'uses' => 'ProductRegionTypesController@bigRegion']);
+    Route::get('pais', ['as' => 'country', 'uses' => 'ProductRegionTypesController@country']);
     Route::get('cadastrar', ['as' => 'create', 'uses' => 'ProductRegionTypesController@create']);
     Route::post('salvar', ['as' => 'store', 'uses' => 'ProductRegionTypesController@store']);
     Route::get('{productionId}/editar', ['as' => 'edit', 'uses' => 'ProductRegionTypesController@edit']);
     Route::put('{productionId}/alterar', ['as' => 'update', 'uses' => 'ProductRegionTypesController@update']);
     Route::delete('{productionId}/deletar', ['as' => 'destroy', 'uses' => 'ProductRegionTypesController@destroy']);
     Route::get('datatables', ['as' => 'indexDataTables', 'uses' => 'ProductRegionTypesController@indexDataTables']);
+    Route::get('datatables2', ['as' => 'bigRegionDataTables', 'uses' => 'ProductRegionTypesController@bigRegionDataTables']);
+    Route::get('datatables3', ['as' => 'countryDataTables', 'uses' => 'ProductRegionTypesController@countryDataTables']);
 });
 
 Route::group(['prefix' => 'analise', 'as' => 'report.'], function() {

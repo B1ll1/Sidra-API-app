@@ -4,6 +4,8 @@ namespace App\Http\Controllers;
 
 use App\Product;
 use App\Product_Region_Type;
+use App\Product_Big_Region_Type;
+use App\Product_Country_Type;
 use App\Region;
 use App\Type;
 use Illuminate\Http\Request;
@@ -39,6 +41,57 @@ class ProductRegionTypesController extends Controller
 
         return Datatables::of($data)->make(true);
     }
+    #####################################################################################################################
+
+    public function bigRegion()
+    {
+        return view('product_big_region_type.index');
+    }
+
+    public function bigRegionDataTables()
+    {
+        $data   = Product_Big_Region_Type::join('products', 'product_big_region_types.product_code', '=', 'products.code')
+                        ->join('big_regions', 'product_big_region_types.big_region_code', '=', 'big_regions.code')
+                        ->join('types', 'product_big_region_types.type_code', '=', 'types.code')
+                        ->select([
+                            'product_big_region_types.*',
+                            'product_big_region_types.id as productionId',
+                            'products.code as productCode',
+                            'products.name as productName',
+                            'big_regions.code as regionCode',
+                            'big_regions.name as regionName',
+                            'types.code as typeCode',
+                            'types.name as typeName'
+                        ]);
+
+        return Datatables::of($data)->make(true);
+    }
+    ######################################################################################################################
+
+    public function country()
+    {
+        return view('product_country_type.index');
+    }
+
+    public function countryDataTables()
+    {
+        $data   = Product_Country_Type::join('products', 'product_country_types.product_code', '=', 'products.code')
+                        ->join('countries', 'product_country_types.country_code', '=', 'countries.code')
+                        ->join('types', 'product_country_types.type_code', '=', 'types.code')
+                        ->select([
+                            'product_country_types.*',
+                            'product_country_types.id as productionId',
+                            'products.code as productCode',
+                            'products.name as productName',
+                            'countries.code as regionCode',
+                            'countries.name as regionName',
+                            'types.code as typeCode',
+                            'types.name as typeName'
+                        ]);
+
+        return Datatables::of($data)->make(true);
+    }
+    ######################################################################################################################
 
     /**
      * Show the form for creating a new resource.
@@ -62,7 +115,10 @@ class ProductRegionTypesController extends Controller
      */
     public function store(Request $request)
     {
-        Product_Region_Type::create($request->except('_token'));
+        $inputs          = $request->except('_token');
+        $inputs['yield'] = 0;
+
+        Product_Region_Type::firstOrCreate($inputs);
 
         return redirect()->route('product-region-type.index');
     }
