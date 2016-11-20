@@ -18,39 +18,34 @@
               </a>
             </li>
 
-            <li class="{{ strpos(Request::url(), 'todos') ? 'active' : '' }}">
+            <li class="{{ strpos(Request::url(), 'estados') ? 'active' : '' }}">
               <a href="{{ route('product-region-type.index') }}">
                 <i class="fa fa-eye fa-fw"></i>
-                <span>Produções por UF</span>
+                <span>Produções por Estados</span>
+              </a>
+            </li>
+
+            <li class="{{ strpos(Request::url(), 'regiao') ? 'active' : '' }}">
+              <a href="{{ route('product-region-type.bigRegion') }}">
+                <i class="fa fa-eye fa-fw"></i>
+                <span>Produções por Grande Região</span>
+              </a>
+            </li>
+
+            <li class="{{ strpos(Request::url(), 'pais') ? 'active' : '' }}">
+              <a href="{{ route('product-region-type.country') }}">
+                <i class="fa fa-eye fa-fw"></i>
+                <span>Produções do Brasil</span>
               </a>
             </li>
           </ul>
         </li>
 
         <li class="{{ strpos(Request::url(), 'analise') ? 'active' : '' }}">
-          <a href="{{ route('report.index') }}">
+          <a href="{{ route('report.productionForRegionChart') }}">
             <i class="fa fa-bar-chart fa-fw"></i>
             <span>Relatórios</span>
           </a>
-        </li>
-
-        <li class="treeview">
-          <a href="#">
-            <i class="fa fa-home fa-fw"></i> <span>Lavouras</span>
-          </a>
-
-          <ul class="treeview-menu">
-            <li class="active">
-              <a href="#">
-                <i class="fa fa-home fa-fw"></i> Permanente
-              </a>
-            </li>
-            <li class="active">
-              <a href="#">
-                <i class="fa fa-home fa-fw"></i> Temporária
-              </a>
-            </li>
-          </ul>
         </li>
 
       </ul>

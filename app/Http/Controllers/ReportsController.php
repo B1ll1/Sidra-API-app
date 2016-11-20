@@ -63,9 +63,11 @@ class ReportsController extends Controller
 
     public function productionForRegionChart()
     {
-        $regions = Region::all();
+        set_time_limit(0);
+        ini_set('memory_limit', '256M');
+        $regions      = Region::all();
         $typeCodeTemp = 81;
-        $typeCodePerm= 82;
+        $typeCodePerm = 82;
 
         $productionsTemp = Product_Region_Type::join('products', 'product_region_types.product_code', '=', 'products.code')
                             ->join('regions', 'product_region_types.region_code', '=', 'regions.code')
@@ -99,12 +101,13 @@ class ReportsController extends Controller
 
     public function productionForRegionChartData(Request $request)
     {
+        set_time_limit(0);
+        ini_set('memory_limit', '256M');
         $regionCode = $request['code'];
-        $year = $request['year'];
-        $typeCode = 81;
-        $array = [];
-        $array2 = [];
-
+        $year       = $request['year'];
+        $typeCode   = 81;
+        $array      = [];
+        $array2     = [];
         $productionsTemp = Product_Region_Type::join('products', 'product_region_types.product_code', '=', 'products.code')
                             ->join('regions', 'product_region_types.region_code', '=', 'regions.code')
                             ->join('types', 'product_region_types.type_code', '=', 'types.code')

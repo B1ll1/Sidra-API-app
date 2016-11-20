@@ -84,7 +84,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-md-offset-3">
+                {{-- <div class="col-md-6 col-md-offset-3">
                     <div class="form-group">
                         <label for="productionYieldInput">Rendimento</label>
                         <div class="input-group">
@@ -92,7 +92,7 @@
                             <span class="input-group-addon" id="basic-addon2">kilograma/Hectare</span>
                         </div>
                     </div>
-                </div>
+                </div> --}}
             </div>
 
             <div class="box-footer">
