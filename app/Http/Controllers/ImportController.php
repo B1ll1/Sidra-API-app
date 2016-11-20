@@ -51,16 +51,16 @@ class ImportController extends Controller
                                 }
                                 else{
                                     // product region type
-                                    // $product_region_type = ['product_code' => intval($value->d1c), 'region_code' => intval($value->d2c), 'type_code' => 81, 'year' => intval($value->d3c), 'planted_area' => $products[0], 'harvested_area' => $products[1], 'production' => $products[2], 'yield' => $products[3], 'value' => intval($value->v)];
+                                    // $product_region_type = ['product_code' => intval($value->d1c), 'region_code' => intval($value->d2c), 'type_code' => 82, 'year' => intval($value->d3c), 'planted_area' => $products[0], 'harvested_area' => $products[1], 'production' => $products[2], 'yield' => $products[3], 'value' => intval($value->v)];
                                     // Product_Region_Type::insert($product_region_type);
 
                                     // product big region type
-                                    // $product_big_region_type = ['product_code' => intval($value->d1c), 'big_region_code' => intval($value->d2c), 'type_code' => 81, 'year' => intval($value->d3c), 'planted_area' => $products[0], 'harvested_area' => $products[1], 'production' => $products[2], 'yield' => $products[3], 'value' => intval($value->v)];
-                                    // Product_Big_Region_Type::insert($product_big_region_type);
+                                    $product_big_region_type = ['product_code' => intval($value->d1c), 'big_region_code' => intval($value->d2c), 'type_code' => 81, 'year' => intval($value->d3c), 'planted_area' => $products[0], 'harvested_area' => $products[1], 'production' => $products[2], 'yield' => $products[3], 'value' => intval($value->v)];
+                                    Product_Big_Region_Type::insert($product_big_region_type);
 
                                     // product country type
-                                    $product_country_type = ['product_code' => intval($value->d1c), 'country_code' => intval($value->d2c), 'type_code' => 82, 'year' => intval($value->d3c), 'planted_area' => $products[0], 'harvested_area' => $products[1], 'production' => $products[2], 'yield' => $products[3], 'value' => intval($value->v)];
-                                    Product_Country_Type::insert($product_country_type);
+                                    // $product_country_type = ['product_code' => intval($value->d1c), 'country_code' => intval($value->d2c), 'type_code' => 82, 'year' => intval($value->d3c), 'planted_area' => $products[0], 'harvested_area' => $products[1], 'production' => $products[2], 'yield' => $products[3], 'value' => intval($value->v)];
+                                    // Product_Country_Type::insert($product_country_type);
 
                                     // zerar array de produtos
                                     $products = [];

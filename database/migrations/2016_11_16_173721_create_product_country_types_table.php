@@ -30,6 +30,7 @@ class CreateProductCountryTypesTable extends Migration
             $table->integer('production');
             $table->integer('yield');
             $table->integer('value');
+            $table->unique(['product_code', 'country_code', 'type_code', 'year']);
             $table->timestamps();
         });
     }

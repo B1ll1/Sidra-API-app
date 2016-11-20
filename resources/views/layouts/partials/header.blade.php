@@ -203,7 +203,7 @@
             </ul>
           </li>
           --}}
-
+          @if(Auth::user())
           <!-- User Account: style can be found in dropdown.less -->
           <li class="dropdown user user-menu">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
@@ -245,7 +245,7 @@
               </li>
             </ul>
           </li>
-
+          @endif
           {{--
           <!-- Control Sidebar Toggle Button -->
           <li>
