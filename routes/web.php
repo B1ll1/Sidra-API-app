@@ -18,8 +18,18 @@ Route::get('/', function () {
 Route::post('/importar',['as'=>'import', 'uses'=>'ImportController@Import']);
 
 Route::group(['prefix' => 'producao', 'as' => 'product-region-type.'], function() {
-    Route::get('', ['as' => 'index', 'uses' => 'ProductRegionTypesController@index']);
-    Route::get('datatables', ['as' => 'indexDataTables', 'uses' => 'ProductRegionTypesController@indexDataTables']);
+    Route::get('todos', ['as' => 'index', 'uses' => 'ProductRegionTypesController@index']);
     Route::get('cadastrar', ['as' => 'create', 'uses' => 'ProductRegionTypesController@create']);
     Route::post('salvar', ['as' => 'store', 'uses' => 'ProductRegionTypesController@store']);
+    Route::get('{productionId}/editar', ['as' => 'edit', 'uses' => 'ProductRegionTypesController@edit']);
+    Route::put('{productionId}/alterar', ['as' => 'update', 'uses' => 'ProductRegionTypesController@update']);
+    Route::delete('{productionId}/deletar', ['as' => 'destroy', 'uses' => 'ProductRegionTypesController@destroy']);
+    Route::get('datatables', ['as' => 'indexDataTables', 'uses' => 'ProductRegionTypesController@indexDataTables']);
+});
+
+Route::group(['prefix' => 'analise', 'as' => 'report.'], function() {
+    Route::get('', ['as' => 'index', 'uses' => 'ReportsController@index']);
+    Route::post('relatorio', ['as' => 'generateReport', 'uses' => 'ReportsController@generateReport']);
+    Route::get('producao-por-regiao', ['as' => 'productionForRegionChart', 'uses' => 'ReportsController@productionForRegionChart']);
+    Route::get('producao-por-regiao/dados', ['as' => 'productionForRegionChartData', 'uses' => 'ReportsController@productionForRegionChartData']);
 });

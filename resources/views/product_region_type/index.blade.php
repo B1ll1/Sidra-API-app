@@ -30,7 +30,7 @@
                                     <tr>
                                         <th class="text-center">ID</th>
                                         <th class="text-center">Tipo de Lavoura</th>
-                                        <th class="text-center">Unidade da Federação</th>
+                                        <th class="text-center">UF</th>
                                         <th class="text-center">Produto</th>
                                         <th class="text-center">Ano</th>
                                         <th class="text-center">Área Plantada</th>
@@ -38,22 +38,10 @@
                                         <th class="text-center">Quantidade Produzida</th>
                                         <th class="text-center">Valor</th>
                                         <th class="text-center">Rendimento</th>
+                                        <th class="text-center"></th>
                                     </tr>
                                 </thead>
-                                <tbody class="text-center">
-                                    <tr>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                    </tr>
-                                </tbody>
+                                <tbody class="text-center"></tbody>
                             </table>
                         </div>
                     </div>
@@ -72,7 +60,9 @@
 @section('inline_scripts')
 <script>
 $(document).ready(function() {
-    $('#productionTable').DataTable({
+    var table = $('#productionTable');
+
+    table.DataTable({
         processing: true,
         serverSide: true,
         ajax: '{!! route('product-region-type.indexDataTables') !!}',
@@ -81,40 +71,11 @@ $(document).ready(function() {
                 'targets': 0,
                 'visible': false
             },
-            // {
-            //     'targets': 2,
-            //     'render': function(data, type, full, meta) {
-            //         return `<p class="vertAlign">R$ ${data.replace('.', ',')}</p>`;
-            //     }
-            // },
-            // {
-            //     'targets': 4,
-            //     'render': function(data, type, full, meta) {
-            //         var date = moment(data).format('DD/MM/YYYY');
-
-            //         return `<p class="vertAlign">${date}</p>`;
-            //     }
-            // },
-            // {
-            //     'targets': 6,
-            //     'render': function(data, type, full, meta) {
-
-            //         return `<a href="/costs/${full.id}/uploads/${data}" target="_blank">
-            //                     <i class="fa fa-download fa-3x" aria-hidden="true"></i>
-            //                 </a>`;
-            //     }
-            // },
-            // {
-            //     'targets': 5,
-            //     'render': function(data, type, full, meta) {
-            //         return `<p class="vertAlign">${data}</p>`;
-            //     }
-            // },
-            // {
-            //     'targets': [0, 7],
-            //     'searchable': false,
-            //     'orderable': false,
-            // }
+            {
+                'targets': 10,
+                'orderable': false,
+                'searchable': false
+            },
         ],
         "order": [[ 2, "asc" ]], // Order by date
         columns: [
@@ -128,7 +89,38 @@ $(document).ready(function() {
             { data: 'production', name: 'product_region_types.production' },
             { data: 'value', name: 'product_region_types.value' },
             { data: 'yield', name: 'product_region_types.yield' },
+            {
+               defaultContent: '<a href="#" class="btn btn-primary btn-sm editProduction"><i class="fa fa-pencil fa-fw"></i></a>' +
+                '<a href="#" style="margin-top: 5%;" class="btn btn-danger btn-sm deleteProduction"><i class="fa fa-trash fa-fw"></i></a>'
+            }
         ]
+    });
+
+    // Handle the click on edit button
+    table.on('click' , 'tr td .editProduction', function() {
+        var row = $(this).closest('tr');
+        var productionId = table.dataTable().fnGetData(row).id;
+        document.location.href = "/producao/" + productionId + "/editar";
+    });
+
+    // Handle the click on delete button
+    table.on('click' , 'tr td .deleteProduction', function() {
+        var row = $(this).closest('tr');
+        var productionId = table.dataTable().fnGetData(row).id;
+
+        $.ajax({
+            headers: {'X-CSRF-TOKEN': '{{ csrf_token() }}' },
+            method: 'DELETE',
+            url: '/producao/' + productionId + '/deletar',
+            dataType: 'json',
+            async: false
+        })
+        .done(function(data) {
+            if(data.status == 'success') {
+                flashNotification('Dado Deletado.', 'success');
+                row.remove();
+            }
+        });
     });
 });
 </script>

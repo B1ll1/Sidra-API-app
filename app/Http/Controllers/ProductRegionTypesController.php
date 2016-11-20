@@ -28,6 +28,7 @@ class ProductRegionTypesController extends Controller
                         ->join('types', 'product_region_types.type_code', '=', 'types.code')
                         ->select([
                             'product_region_types.*',
+                            'product_region_types.id as productionId',
                             'products.code as productCode',
                             'products.name as productName',
                             'regions.code as regionCode',
@@ -35,7 +36,7 @@ class ProductRegionTypesController extends Controller
                             'types.code as typeCode',
                             'types.name as typeName'
                         ]);
-        // dd($data->get());
+
         return Datatables::of($data)->make(true);
     }
 
@@ -72,9 +73,14 @@ class ProductRegionTypesController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function edit($id)
+    public function edit($productionId)
     {
-        //
+        $production = Product_Region_Type::findOrFail($productionId);
+        $ufs        = Region::all();
+        $types      = Type::all();
+        $products   = Product::all();
+
+        return view('product_region_type.edit', compact('production', 'ufs', 'types', 'products'));
     }
 
     /**
@@ -84,9 +90,12 @@ class ProductRegionTypesController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, $id)
+    public function update(Request $request, $productionId)
     {
-        //
+        $production = Product_Region_Type::findOrFail($productionId);
+        $production->update($request->all());
+
+        return redirect()->route('product-region-type.index');
     }
 
     /**
@@ -95,8 +104,16 @@ class ProductRegionTypesController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function destroy($id)
+    public function destroy($productionId)
     {
-        //
+        if(!\Request::ajax())
+            abort(403);
+
+        $production = Product_Region_Type::destroy($productionId);
+
+        if($production)
+            return response()->json(['status' => 'success']);
+
+        return response()->json(['status' => 'fail']);
     }
 }

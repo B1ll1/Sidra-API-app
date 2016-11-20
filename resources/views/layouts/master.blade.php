@@ -34,11 +34,12 @@
   <link rel="stylesheet" href="/assets/libs/sweetalert2/dist/sweetalert2.css" media="all"/>
 
   <!-- Select2 -->
-  {{-- <link rel="stylesheet" href="/adminlte/plugins/select2/select2.min.css"> --}}
   <link rel="stylesheet" href="/assets/libs/select2/dist/css/select2.min.css" />
   <link rel="stylesheet" href="/assets/libs/select2-bootstrap-theme/dist/select2-bootstrap.min.css">
+
   <!-- Custom CSS -->
   <link rel="stylesheet" href="/assets/css/custom.css">
+  <link rel="stylesheet" href="/assets/libs/toastr/toastr.min.css">
 
   <!-- Styles -->
   @section('specific_styles')
@@ -126,6 +127,7 @@
 <script src="/adminlte/dist/js/demo.js"></script> --}}
 
 <script src="/assets/libs/sweetalert2/dist/sweetalert2.min.js"></script>
+<script src="/assets/libs/toastr/toastr.min.js"></script>
 
 @section('specific_scripts')
 @show
@@ -137,7 +139,7 @@
       "preventDuplicates": false,
       "newestOnTop": true,
       "progressBar": true,
-      "positionClass": "toast-bottom-right",
+      "positionClass": "toast-bottom-left",
       "timeOut": "2500",
       "extendedTimeOut": "500",
       "showMethod": "slideDown",
@@ -145,9 +147,9 @@
     }
 
     if(type === 'success')
-      toastr.success(message, 'Sucesso');
+      toastr.success(message, 'Sucesso!');
     else
-      toastr.error(message, 'Falha');
+      toastr.error(message, 'Falha!');
   }
 </script>
 
