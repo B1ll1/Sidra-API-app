@@ -4,7 +4,11 @@ namespace App\Http\Controllers;
 
 use App\Product;
 use App\Product_Region_Type;
+use App\Product_Big_Region_Type;
+use App\Product_Country_Type;
 use App\Region;
+use App\Big_Region;
+use App\Country;
 use App\Services\ReportService;
 use App\Type;
 use Illuminate\Http\Request;
@@ -103,17 +107,23 @@ class ReportsController extends Controller
     {
         set_time_limit(0);
         ini_set('memory_limit', '256M');
-        $regionCode = $request['code'];
-        $year       = $request['year'];
-        $typeCode   = 81;
-        $array      = [];
-        $array2     = [];
+        $regionCode   = $request['code'];
+        $year         = $request['year'];
+        $typeCodeTemp = 81;
+        $typeCodePerm = 82;
+        $array        = [];
+        $array2       = [];
+        $array3       = [];
+        $array4       = [];
+        $array5       = [];
+        $array6       = [];
+
         $productionsTemp = Product_Region_Type::join('products', 'product_region_types.product_code', '=', 'products.code')
                             ->join('regions', 'product_region_types.region_code', '=', 'regions.code')
                             ->join('types', 'product_region_types.type_code', '=', 'types.code')
                             ->where('regions.code', $regionCode)
                             ->where('product_region_types.year', $year)
-                            ->where('product_region_types.type_code', $typeCode)
+                            ->where('product_region_types.type_code', $typeCodeTemp)
                             ->select([
                                 'product_region_types.*',
                                 'products.name as product_name',
@@ -126,9 +136,15 @@ class ReportsController extends Controller
                $array[$prod->product_name] = $prod->production;
             }
         }
-        else {
+        else if($request['attr'] == 1) {
             foreach ($productionsTemp as $key => $prod) {
                $array[$prod->product_name] = $prod->yield;
+            }
+        }
+        else {
+            foreach ($productionsTemp as $key => $prod) {
+               $array3[$prod->product_name] = $prod->planted_area;
+               $array4[$prod->product_name] = $prod->harvested_area;
             }
         }
 
@@ -139,7 +155,7 @@ class ReportsController extends Controller
                             ->join('types', 'product_region_types.type_code', '=', 'types.code')
                             ->where('regions.code', $regionCode)
                             ->where('product_region_types.year', $year)
-                            ->where('product_region_types.type_code', 82)
+                            ->where('product_region_types.type_code', $typeCodePerm)
                             ->select([
                                 'product_region_types.*',
                                 'products.name as product_name',
@@ -151,12 +167,276 @@ class ReportsController extends Controller
                $array2[$prod2->product_name] = $prod2->production;
             }
         }
-        else {
+        else if($request['attr'] == 1) {
             foreach ($productionsPerm as $key => $prod2) {
                $array2[$prod2->product_name] = $prod2->yield;
             }
         }
+        else {
+            foreach ($productionsPerm as $key => $prod2) {
+               $array5[$prod2->product_name] = $prod2->planted_area;
+               $array6[$prod2->product_name] = $prod2->harvested_area;
+            }
+        }
 
-        return ['temp' => array_values($array), 'perm' => array_values($array2)];
+        return [
+            'temp'      => array_values($array),
+            'perm'      => array_values($array2),
+            'planted-t'   => array_values($array3),
+            'harvested-t' => array_values($array4),
+            'planted-p'   => array_values($array5),
+            'harvested-p' => array_values($array6),
+        ];
+    }
+
+    ############################################### GRANDE REGIÃO ################################################
+    public function productionForBigRegionChart()
+    {
+        set_time_limit(0);
+        ini_set('memory_limit', '256M');
+        $regions      = Big_Region::all();
+        $typeCodeTemp = 81;
+        $typeCodePerm = 82;
+
+        $productionsTemp = Product_Big_Region_Type::join('products', 'product_big_region_types.product_code', '=', 'products.code')
+                            ->join('big_regions', 'product_big_region_types.big_region_code', '=', 'big_regions.code')
+                            ->join('types', 'product_big_region_types.type_code', '=', 'types.code')
+                            ->where('product_big_region_types.type_code', $typeCodeTemp)
+                            ->select([
+                                'product_big_region_types.*',
+                                'products.name as product_name',
+                                'big_regions.name as region_name',
+                            ])
+                            ->get();
+
+        $categories = array_unique($productionsTemp->pluck('product_name')->all());
+
+        // PERMANENTE
+        $productionsPerm = Product_Big_Region_Type::join('products', 'product_big_region_types.product_code', '=', 'products.code')
+                            ->join('big_regions', 'product_big_region_types.big_region_code', '=', 'big_regions.code')
+                            ->join('types', 'product_big_region_types.type_code', '=', 'types.code')
+                            ->where('product_big_region_types.type_code', $typeCodePerm)
+                            ->select([
+                                'product_big_region_types.*',
+                                'products.name as product_name',
+                                'big_regions.name as region_name',
+                            ])
+                            ->get();
+
+        $categoriesPerm = array_unique($productionsPerm->pluck('product_name')->all());
+
+        return view('reports.production_per_big_region', compact('regions', 'categories', 'categoriesPerm'));
+    }
+
+    public function productionForBigRegionChartData(Request $request)
+    {
+        set_time_limit(0);
+        ini_set('memory_limit', '256M');
+        $regionCode   = $request['code'];
+        $year         = $request['year'];
+        $typeCodeTemp = 81;
+        $typeCodePerm = 82;
+        $array        = [];
+        $array2       = [];
+        $array3       = [];
+        $array4       = [];
+        $array5       = [];
+        $array6       = [];
+
+        $productionsTemp = Product_Big_Region_Type::join('products', 'product_big_region_types.product_code', '=', 'products.code')
+                            ->join('big_regions', 'product_big_region_types.big_region_code', '=', 'big_regions.code')
+                            ->join('types', 'product_big_region_types.type_code', '=', 'types.code')
+                            ->where('big_regions.code', $regionCode)
+                            ->where('product_big_region_types.year', $year)
+                            ->where('product_big_region_types.type_code', $typeCodeTemp)
+                            ->select([
+                                'product_big_region_types.*',
+                                'products.name as product_name',
+                                'big_regions.name as region_name',
+                            ])
+                            ->get();
+
+        if($request['attr'] == 0) {
+            foreach ($productionsTemp as $key => $prod) {
+               $array[$prod->product_name] = $prod->production;
+            }
+        }
+        else if($request['attr'] == 1) {
+            foreach ($productionsTemp as $key => $prod) {
+               $array[$prod->product_name] = $prod->yield;
+            }
+        }
+        else {
+            foreach ($productionsTemp as $key => $prod) {
+               $array3[$prod->product_name] = $prod->planted_area;
+               $array4[$prod->product_name] = $prod->harvested_area;
+            }
+        }
+
+
+        // PERMANENTE
+        $productionsPerm = Product_Big_Region_Type::join('products', 'product_big_region_types.product_code', '=', 'products.code')
+                            ->join('big_regions', 'product_big_region_types.big_region_code', '=', 'big_regions.code')
+                            ->join('types', 'product_big_region_types.type_code', '=', 'types.code')
+                            ->where('big_regions.code', $regionCode)
+                            ->where('product_big_region_types.year', $year)
+                            ->where('product_big_region_types.type_code', $typeCodePerm)
+                            ->select([
+                                'product_big_region_types.*',
+                                'products.name as product_name',
+                                'big_regions.name as region_name',
+                            ])
+                            ->get();
+        if($request['attr'] == 0) {
+            foreach ($productionsPerm as $key => $prod2) {
+               $array2[$prod2->product_name] = $prod2->production;
+            }
+        }
+        else if($request['attr'] == 1) {
+            foreach ($productionsPerm as $key => $prod2) {
+               $array2[$prod2->product_name] = $prod2->yield;
+            }
+        }
+        else {
+            foreach ($productionsPerm as $key => $prod2) {
+               $array5[$prod2->product_name] = $prod2->planted_area;
+               $array6[$prod2->product_name] = $prod2->harvested_area;
+            }
+        }
+
+        return [
+            'temp'      => array_values($array),
+            'perm'      => array_values($array2),
+            'planted-t'   => array_values($array3),
+            'harvested-t' => array_values($array4),
+            'planted-p'   => array_values($array5),
+            'harvested-p' => array_values($array6),
+        ];
+    }
+
+    ############################################### PAÍS ################################################
+    public function productionForCountryChart()
+    {
+        set_time_limit(0);
+        ini_set('memory_limit', '256M');
+        $regions      = Country::all();
+        $typeCodeTemp = 81;
+        $typeCodePerm = 82;
+
+        $productionsTemp = Product_Country_Type::join('products', 'product_country_types.product_code', '=', 'products.code')
+                            ->join('countries', 'product_country_types.country_code', '=', 'countries.code')
+                            ->join('types', 'product_country_types.type_code', '=', 'types.code')
+                            ->where('product_country_types.type_code', $typeCodeTemp)
+                            ->select([
+                                'product_country_types.*',
+                                'products.name as product_name',
+                                'countries.name as region_name',
+                            ])
+                            ->get();
+
+        $categories = array_unique($productionsTemp->pluck('product_name')->all());
+
+        // PERMANENTE
+        $productionsPerm = Product_Country_Type::join('products', 'product_country_types.product_code', '=', 'products.code')
+                            ->join('countries', 'product_country_types.country_code', '=', 'countries.code')
+                            ->join('types', 'product_country_types.type_code', '=', 'types.code')
+                            ->where('product_country_types.type_code', $typeCodePerm)
+                            ->select([
+                                'product_country_types.*',
+                                'products.name as product_name',
+                                'countries.name as region_name',
+                            ])
+                            ->get();
+
+        $categoriesPerm = array_unique($productionsPerm->pluck('product_name')->all());
+
+        return view('reports.production_per_country', compact('regions', 'categories', 'categoriesPerm'));
+    }
+
+    public function productionForCountryChartData(Request $request)
+    {
+        set_time_limit(0);
+        ini_set('memory_limit', '256M');
+        $regionCode   = $request['code'];
+        $year         = $request['year'];
+        $typeCodeTemp = 81;
+        $typeCodePerm = 82;
+        $array        = [];
+        $array2       = [];
+        $array3       = [];
+        $array4       = [];
+        $array5       = [];
+        $array6       = [];
+
+        $productionsTemp = Product_Country_Type::join('products', 'product_country_types.product_code', '=', 'products.code')
+                            ->join('countries', 'product_country_types.country_code', '=', 'countries.code')
+                            ->join('types', 'product_country_types.type_code', '=', 'types.code')
+                            ->where('countries.code', $regionCode)
+                            ->where('product_country_types.year', $year)
+                            ->where('product_country_types.type_code', $typeCodeTemp)
+                            ->select([
+                                'product_country_types.*',
+                                'products.name as product_name',
+                                'countries.name as region_name',
+                            ])
+                            ->get();
+
+        if($request['attr'] == 0) {
+            foreach ($productionsTemp as $key => $prod) {
+               $array[$prod->product_name] = $prod->production;
+            }
+        }
+        else if($request['attr'] == 1) {
+            foreach ($productionsTemp as $key => $prod) {
+               $array[$prod->product_name] = $prod->yield;
+            }
+        }
+        else {
+            foreach ($productionsTemp as $key => $prod) {
+               $array3[$prod->product_name] = $prod->planted_area;
+               $array4[$prod->product_name] = $prod->harvested_area;
+            }
+        }
+
+
+        // PERMANENTE
+        $productionsPerm = Product_Country_Type::join('products', 'product_country_types.product_code', '=', 'products.code')
+                            ->join('countries', 'product_country_types.country_code', '=', 'countries.code')
+                            ->join('types', 'product_country_types.type_code', '=', 'types.code')
+                            ->where('countries.code', $regionCode)
+                            ->where('product_country_types.year', $year)
+                            ->where('product_country_types.type_code', $typeCodePerm)
+                            ->select([
+                                'product_country_types.*',
+                                'products.name as product_name',
+                                'countries.name as region_name',
+                            ])
+                            ->get();
+
+        if($request['attr'] == 0) {
+            foreach ($productionsPerm as $key => $prod2) {
+               $array2[$prod2->product_name] = $prod2->production;
+            }
+        }
+        else if($request['attr'] == 1) {
+            foreach ($productionsPerm as $key => $prod2) {
+               $array2[$prod2->product_name] = $prod2->yield;
+            }
+        }
+        else {
+            foreach ($productionsPerm as $key => $prod2) {
+               $array5[$prod2->product_name] = $prod2->planted_area;
+               $array6[$prod2->product_name] = $prod2->harvested_area;
+            }
+        }
+
+        return [
+            'temp'        => array_values($array),
+            'perm'        => array_values($array2),
+            'planted-t'   => array_values($array3),
+            'harvested-t' => array_values($array4),
+            'planted-p'   => array_values($array5),
+            'harvested-p' => array_values($array6),
+        ];
     }
 }

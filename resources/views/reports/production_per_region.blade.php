@@ -6,7 +6,7 @@
 
 @section('header_title')
 <h1>
-    <i class="fa fa-list-alt fa-fw"></i> Relatório
+    <i class="fa fa-list-alt fa-fw"></i> Relatório Por Estado
 </h1>
 @stop
 
@@ -37,6 +37,7 @@
                         <select name="attribute" id="attributeSelect" class="form-control">
                             <option value="0">Produção (em Toneladas)</option>
                             <option value="1">Rendimento (em kg/hectare)</option>
+                            <option value="2">Área Plantada x Área Colhida</option>
                         </select>
                     </div>
                 </div>
@@ -54,6 +55,7 @@
     <script src="http://code.highcharts.com/highcharts.js"></script>
     <script src="http://code.highcharts.com/highcharts-more.js"></script>
     <script src="http://code.highcharts.com/modules/exporting.js"></script>
+    <script src="/assets/libs/export-csv/export-csv.js"></script>
 @stop
 
 @section('inline_scripts')
@@ -68,7 +70,7 @@ $(document).ready(function () {
         chart: {
             renderTo: 'tempChart',
             type: 'bar',
-            zoom: 'xy'
+            zoomType: 'xy'
         },
         title: {
             text: 'Produção Agrícola - Temporária'
@@ -117,16 +119,26 @@ $(document).ready(function () {
        },
        success: function(data) {
            if(attr == 0) {
-               chart.addSeries({
-                   name: "Produção (Toneladas)",
-                   data: data['perm']
-               });
+                chart.addSeries({
+                    name: "Produção (Toneladas)",
+                    data: data['temp']
+                });
+           }
+           else if(attr == 1) {
+                chart.addSeries({
+                    name: "Rendimento (kg/hectare)",
+                    data: data['temp']
+                });
            }
            else {
-               chart.addSeries({
-                   name: "Rendimento (kg/hectare)",
-                   data: data['perm']
-               });
+                chart.addSeries({
+                    name: "Área Plantada",
+                    data: data['planted-t']
+                });
+                chart.addSeries({
+                    name: "Área Colhida",
+                    data: data['harvested-t']
+                });
            }
        },
        cache: false
@@ -147,17 +159,29 @@ $(document).ready(function () {
                 attr: attr
             },
             success: function(data) {
-                chart.series[0].remove(true);
+                while(chart.series.length > 0)
+                    chart.series[0].remove(true);
+
                 if(attr == 0) {
                     chart.addSeries({
                         name: "Produção (Toneladas)",
-                        data: data['perm']
+                        data: data['temp']
+                    });
+                }
+                else if(attr == 1) {
+                    chart.addSeries({
+                        name: "Rendimento (kg/hectare)",
+                        data: data['temp']
                     });
                 }
                 else {
                     chart.addSeries({
-                        name: "Rendimento (kg/hectare)",
-                        data: data['perm']
+                        name: "Área Plantada",
+                        data: data['planted-t']
+                    });
+                    chart.addSeries({
+                        name: "Área Colhida",
+                        data: data['harvested-t']
                     });
                 }
             },
@@ -180,17 +204,29 @@ $(document).ready(function () {
                 attr: attr
             },
             success: function(data) {
-                chart.series[0].remove(true);
+                while(chart.series.length > 0)
+                    chart.series[0].remove(true);
+
                 if(attr == 0) {
                     chart.addSeries({
                         name: "Produção (Toneladas)",
-                        data: data['perm']
+                        data: data['temp']
+                    });
+                }
+                else if(attr == 1) {
+                    chart.addSeries({
+                        name: "Rendimento (kg/hectare)",
+                        data: data['temp']
                     });
                 }
                 else {
                     chart.addSeries({
-                        name: "Rendimento (kg/hectare)",
-                        data: data['perm']
+                        name: "Área Plantada",
+                        data: data['planted-t']
+                    });
+                    chart.addSeries({
+                        name: "Área Colhida",
+                        data: data['harvested-t']
                     });
                 }
             },
@@ -213,17 +249,29 @@ $(document).ready(function () {
                 attr: attr
             },
             success: function(data) {
-                chart.series[0].remove(true);
+                while(chart.series.length > 0)
+                    chart.series[0].remove(true);
+
                 if(attr == 0) {
                     chart.addSeries({
                         name: "Produção (Toneladas)",
-                        data: data['perm']
+                        data: data['temp']
+                    });
+                }
+                else if(attr == 1) {
+                    chart.addSeries({
+                        name: "Rendimento (kg/hectare)",
+                        data: data['temp']
                     });
                 }
                 else {
                     chart.addSeries({
-                        name: "Rendimento (kg/hectare)",
-                        data: data['perm']
+                        name: "Área Plantada",
+                        data: data['planted-t']
+                    });
+                    chart.addSeries({
+                        name: "Área Colhida",
+                        data: data['harvested-t']
                     });
                 }
             },
@@ -232,8 +280,10 @@ $(document).ready(function () {
 
         if(attr == 0)
             chart.yAxis[0].update({title: {text: 'Produção (Toneladas)'}});
-        else
+        else if(attr == 1)
             chart.yAxis[0].update({title: {text: 'Rendimento (kg/hectare)'}});
+        else
+            chart.yAxis[0].update({title: {text: 'Área Plantada X Área Colhida (Hectare)'}});
     });
 });
 </script>
@@ -258,7 +308,7 @@ $(document).ready(function () {
             categories: categoriesPerm,
             reversed: false,
             crosshair: true,
-            max: 30
+            max: 34
         },
         yAxis: {
             min: 0,
@@ -303,11 +353,21 @@ $(document).ready(function () {
                    data: data['perm']
                });
            }
-           else {
+           else if(attr == 1) {
                chart2.addSeries({
                    name: "Rendimento (kg/hectare)",
                    data: data['perm']
                });
+           }
+           else {
+                chart2.addSeries({
+                    name: "Área Plantada",
+                    data: data['planted-p']
+                });
+                chart2.addSeries({
+                    name: "Área Colhida",
+                    data: data['harvested-p']
+                });
            }
        },
        cache: false
@@ -328,18 +388,30 @@ $(document).ready(function () {
                 attr: attr
             },
             success: function(data) {
-                chart2.series[0].remove(true);
+                while(chart2.series.length > 0)
+                    chart2.series[0].remove(true);
+
                 if(attr == 0) {
                     chart2.addSeries({
                         name: "Produção (Toneladas)",
                         data: data['perm']
                     });
                 }
-                else {
+                else if(attr == 1) {
                     chart2.addSeries({
                         name: "Rendimento (kg/hectare)",
                         data: data['perm']
                     });
+                }
+                else {
+                     chart2.addSeries({
+                         name: "Área Plantada",
+                         data: data['planted-p']
+                     });
+                     chart2.addSeries({
+                         name: "Área Colhida",
+                         data: data['harvested-p']
+                     });
                 }
             },
             cache: false
@@ -361,18 +433,30 @@ $(document).ready(function () {
                 attr: attr
             },
             success: function(data) {
-                chart2.series[0].remove(true);
+                while(chart2.series.length > 0)
+                    chart2.series[0].remove(true);
+
                 if(attr == 0) {
                     chart2.addSeries({
                         name: "Produção (Toneladas)",
                         data: data['perm']
                     });
                 }
-                else {
+                else if(attr == 1) {
                     chart2.addSeries({
                         name: "Rendimento (kg/hectare)",
                         data: data['perm']
                     });
+                }
+                else {
+                     chart2.addSeries({
+                         name: "Área Plantada",
+                         data: data['planted-p']
+                     });
+                     chart2.addSeries({
+                         name: "Área Colhida",
+                         data: data['harvested-p']
+                     });
                 }
             },
             cache: false
@@ -394,17 +478,29 @@ $(document).ready(function () {
                 attr: attr
             },
             success: function(data) {
-                chart2.series[0].remove(true);
+                while(chart2.series.length > 0)
+                    chart2.series[0].remove(true);
+
                 if(attr == 0) {
                     chart2.addSeries({
                         name: "Produção (Toneladas)",
                         data: data['perm']
                     });
                 }
-                else {
+                else if(attr == 1) {
                     chart2.addSeries({
                         name: "Rendimento (kg/hectare)",
                         data: data['perm']
+                    });
+                }
+                else {
+                    chart2.addSeries({
+                        name: "Área Plantada",
+                        data: data['planted-p']
+                    });
+                    chart2.addSeries({
+                        name: "Área Colhida",
+                        data: data['harvested-p']
                     });
                 }
             },
@@ -413,8 +509,10 @@ $(document).ready(function () {
 
         if(attr == 0)
             chart2.yAxis[0].update({title: {text: 'Produção (Toneladas)'}});
-        else
+        else if(attr == 1)
             chart2.yAxis[0].update({title: {text: 'Rendimento (kg/hectare)'}});
+        else
+            chart2.yAxis[0].update({title: {text: 'Área Plantada X Área Colhida (Hectare)'}});
     });
 });
 </script>
