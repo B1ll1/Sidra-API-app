@@ -1,6 +1,7 @@
 @extends('layouts.master')
 
 @section('content')
+
 <form action="{{route('import')}}" class="form-horizontal" method="post" enctype="multipart/form-data">
         <div class="form-group">
             <div class="col-md-4">
@@ -12,4 +13,5 @@
         </div>
         <input type="hidden" name="_token" value="{{{ csrf_token() }}}" />
 </form>
+
 @stop

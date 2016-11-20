@@ -30,6 +30,7 @@ class CreateProductBigRegionTypesTable extends Migration
             $table->integer('production');
             $table->integer('yield');
             $table->integer('value');
+            $table->unique(['product_code', 'big_region_code', 'type_code', 'year']);
             $table->timestamps();
         });
     }
