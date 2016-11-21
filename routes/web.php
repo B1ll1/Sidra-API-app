@@ -11,9 +11,9 @@
 |
 */
 
-Route::get('/', function () {
-    return view('products.index');
-});
+// Route::get('/', function () {
+//     return view('products.index');
+// });
 
 Route::post('/importar',['as'=>'import', 'uses'=>'ImportController@Import']);
 
@@ -44,3 +44,4 @@ Route::group(['prefix' => 'analise', 'as' => 'report.'], function() {
     Route::get('pais', ['as' => 'productionForCountryChart', 'uses' => 'ReportsController@productionForCountryChart']);
     Route::get('producao-por-pais/dados', ['as' => 'productionForCountryChartData', 'uses' => 'ReportsController@productionForBigRegionChartData']);
 });
+Auth::routes();
