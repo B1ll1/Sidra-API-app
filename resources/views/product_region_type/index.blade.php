@@ -17,6 +17,13 @@
 @stop
 
 @section('content')
+    @if(Session::has('msg_alert'))
+        <div class="alert alert-warning alert-dismissible" role="alert">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <strong>Alerta!</strong> O produto que voce tentou inserir já está cadastrado no sistema, você pode editá-lo na tabela abaixo.
+            {{Session::get('msg_alert')}}
+        </div>
+    @endif
     <section class="content">
         <div class="row">
             <div class="col-xs-12">

@@ -4,6 +4,7 @@
             <div class="box-header with-border">
                 <div class="box-title">Produção</div>
             </div>
+            @if(!strpos(Request::url(),'editar'))
             <div class="box-body">
                 <div class="col-md-6 col-xs-12">
                     <div class="form-group">
@@ -49,7 +50,7 @@
                         </select>
                     </div>
                 </div>
-
+                @endif
                 <div class="col-md-6 col-xs-12">
                     <div class="form-group">
                         <label for="productionPlantedInput">Área Plantada</label>

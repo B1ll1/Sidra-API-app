@@ -118,7 +118,94 @@ class ProductRegionTypesController extends Controller
         $inputs          = $request->except('_token');
         $inputs['yield'] = 0;
 
-        Product_Region_Type::firstOrCreate($inputs);
+        $production = Product_Region_Type::where([
+                ['product_code', '=', $request['product_code']],
+                ['type_code', '=', $request['type_code']],
+                ['region_code', '=', $request['region_code']],
+                ['year', '=', $request['year']]
+            ])->first();
+
+        if(isset($production)){
+            \Session::flash('msg_alert','');
+        }
+        else{
+            $production = Product_Region_Type::create($inputs);
+            $yield = Product_Region_Type::findOrFail($production->id)->yield;
+
+            $region_code = intval($request['region_code']);
+
+            if($region_code>10 && $region_code<18){
+                $big_region_code = 1;
+            }
+            else if($region_code>10 && $region_code<18){
+                $big_region_code = 2;
+            }
+            else if($region_code>20 && $region_code<30){
+                $big_region_code = 3;
+            }
+            else if($region_code>30 && $region_code<36){
+                $big_region_code = 4;
+            }
+            else if($region_code>40 && $region_code<44){
+                $big_region_code = 5;
+            }
+            else if($region_code>49 && $region_code<54){
+                $big_region_code = 6    ;
+            }
+
+        $big_region_production = Product_Big_Region_Type::where([
+                ['big_region_code' , '=', $big_region_code],
+                ['type_code', '=', $production->type_code],
+                ['product_code', '=', $production->product_code],
+                ['year', '=', $production->year]
+            ])->first();
+
+        $country_production = Product_Country_Type::where([
+                ['country_code' , '=', 1],
+                ['type_code', '=', $production->type_code],
+                ['product_code', '=', $production->product_code],
+                ['year', '=', $production->year]
+            ])->first();
+
+       $new_planted_area = $request['planted_area'];
+        $new_harvested_area = $request['harvested_area'];
+        $new_production = $request['production'];
+        $new_value = $request['value'];
+
+        if(isset($big_region_production) && isset($country_production)){
+            $big_region_production->planted_area = $big_region_production->planted_area + $new_planted_area;
+            $big_region_production->harvested_area = $big_region_production->harvested_area + $new_harvested_area;
+            $big_region_production->production = $big_region_production->production + $new_production;
+            $big_region_production->value = $big_region_production->value + $new_value;
+            $big_region_production->yield = $big_region_production->yield + $yield;
+
+            $country_production->planted_area = $country_production->planted_area + $new_planted_area;
+            $country_production->harvested_area = $country_production->harvested_area + $new_harvested_area;
+            $country_production->production = $country_production->production + $new_production;
+            $country_production->value = $country_production->value + $new_value;
+            $country_production->yield = $country_production->yield + $yield;
+
+            $big_region_production->save();
+            $country_production->save();
+        }
+        else{
+            unset($inputs['region_code']);
+            $inputs_big_region = $inputs;
+            $inputs_country = $inputs;
+            $inputs_big_region['big_region_code'] = $big_region_code;
+            $inputs_big_region['yield'] = $yield;
+            $inputs_country['yield'] = $yield;
+            $inputs_country['country_code'] = 1;
+
+            Product_Big_Region_Type::create($inputs_big_region);
+            Product_Country_Type::create($inputs_country);
+        }
+
+
+
+
+
+        }
 
         return redirect()->route('product-region-type.index');
     }
@@ -149,7 +236,6 @@ class ProductRegionTypesController extends Controller
     public function update(Request $request, $productionId)
     {
         $production = Product_Region_Type::findOrFail($productionId);
-
         //dados antes da atualizacao
         $old_planted_area = $production->planted_area;
         $old_harvested_area = $production->harvested_area;
@@ -335,17 +421,18 @@ class ProductRegionTypesController extends Controller
                 ['year', '=', $production->year]
             ])->first();
 
-        $big_region_production->planted_area = $big_region_production->planted_area - $production->planted_area;
-        $big_region_production->harvested_area = $big_region_production->harvested_area - $production->harvested_area;
-        $big_region_production->production = $big_region_production->production - $production->production;
-        $big_region_production->value = $big_region_production->value - $production->value;
-        $big_region_production->yield = $big_region_production->yield - $production->yield;
+        $big_region_production->planted_area = intval($big_region_production->planted_area) - intval($production->planted_area);
+        $big_region_production->harvested_area = intval($big_region_production->harvested_area) - intval($production->harvested_area);
+        $big_region_production->production = intval($big_region_production->production) - intval($production->production);
+        $big_region_production->value = intval($big_region_production->value) - intval($production->value);
+        $big_region_production->yield = intval($big_region_production->yield) - intval($production->yield);
 
-        $country_production->planted_area = $country_production->planted_area - $production->planted_area;
-        $country_production->harvested_area = $country_production->harvested_area - $production->harvested_area;
-        $country_production->production = $country_production->production - $production->production;
-        $country_production->value = $country_production->value - $production->value;
-        $country_production->yield = $country_production->yield - $production->yield;
+        $country_production->planted_area = intval($country_production->planted_area) - intval($production->planted_area);
+        $country_production->harvested_area = intval($country_production->harvested_area) - intval($production->harvested_area);
+        $country_production->production = intval($country_production->production) - intval($production->production);
+        $country_production->value = intval($country_production->value) - intval($production->value);
+        $country_production->yield = intval($country_production->yield) - intval($production->yield);
+
 
         $big_region_production->save();
         $country_production->save();
