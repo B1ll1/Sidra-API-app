@@ -224,10 +224,14 @@
                   {{-- <a href="#" class="btn btn-success btn-flat">Meus Dados</a> --}}
                 </div>
                 <div class="pull-right">
-                  <a href="{{ route('logout') }}" class="btn btn-danger btn-flat"><i class="fa fa-sign-out"></i> Sair</a>
+                  <a href="{{-- Auth::logout() --}}" class="btn btn-danger btn-flat"><i class="fa fa-sign-out"></i> Sair</a>
                 </div>
               </li>
             </ul>
+          </li>
+          @else
+          <li>
+            <a href="{{ route('login') }}">Login</a>
           </li>
           @endif
 
