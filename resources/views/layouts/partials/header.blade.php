@@ -207,51 +207,29 @@
           <!-- User Account: style can be found in dropdown.less -->
           <li class="dropdown user user-menu">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-              <img src="{{-- (Auth::user()->photo != '') ? Auth::user()->photo : '/assets/images/default-avatar.jpg'  --}}" class="user-image" alt="User Image">
-              <span class="hidden-xs">{{-- Auth::user()->name --}}</span>
+              <span class="hidden-xs">{{ Auth::user()->name }}</span>
             </a>
             <ul class="dropdown-menu">
               <!-- User image -->
               <li class="user-header">
-                <img src="{{-- (Auth::user()->photo != '') ? Auth::user()->photo : '/assets/images/default-avatar.jpg' --}}" class="img-circle" alt="User Image">
-
                 <p>
-                  {{-- ucfirst(Auth::user()->name) --}}
+                  {{ ucfirst(Auth::user()->name) }}
                   <small>Membro desde {{-- Auth::user()->created_at->format('M. Y') --}}</small>
                 </p>
               </li>
-              <!-- Menu Body -->
-              {{--
-              <li class="user-body">
-                <div class="row">
-                  <div class="col-xs-4 text-center">
-                    <a href="#">Pedidos</a>
-                  </div>
-                  <div class="col-xs-4 text-center">
-                    <a href="#">Anúncios</a>
-                  </div>
-                </div>
-                <!-- /.row -->
-              </li>
-              --}}
+
               <!-- Menu Footer-->
               <li class="user-footer">
                 <div class="pull-left">
                   {{-- <a href="#" class="btn btn-success btn-flat">Meus Dados</a> --}}
                 </div>
                 <div class="pull-right">
-                  <a href="{{-- route('logout') --}}" class="btn btn-danger btn-flat"><i class="fa fa-sign-out"></i> Sair</a>
+                  <a href="{{ route('logout') }}" class="btn btn-danger btn-flat"><i class="fa fa-sign-out"></i> Sair</a>
                 </div>
               </li>
             </ul>
           </li>
           @endif
-          {{--
-          <!-- Control Sidebar Toggle Button -->
-          <li>
-            <a href="#" data-toggle="control-sidebar"><i class="fa fa-gears"></i></a>
-          </li>
-          --}}
 
         </ul>
       </div>
